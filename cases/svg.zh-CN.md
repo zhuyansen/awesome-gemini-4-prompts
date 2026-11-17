@@ -1,0 +1,14 @@
+# SVG 绘图
+
+共 8 个作品，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+
+| 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
+|---|---|---|---|---|
+| [按参考画风用代码绘制的插画](https://x.com/vamsibatchuk/status/2121788887823778297) | Hydrogen | — | [@vamsibatchuk](https://x.com/vamsibatchuk) | — |
+| [女孩与猫的双人自行车 SVG](https://x.com/marcthecreatorr/status/2120956699951628637) | Hydrogen | Claude | [@marcthecreatorr](https://x.com/marcthecreatorr) | — |
+| [SVG骑车鹈鹕：Gemini 4 与 Opus 5.5 对比](https://x.com/LuminaBench/status/2106130557310468364) | Argon | Claude | [@LuminaBench](https://x.com/LuminaBench) | — |
+| [SVG 绘制的 GTA VI 游戏画面](https://x.com/lyraxana/status/2121694698267976039) | Argon / Carbon / Krypton | — | [@lyraxana](https://x.com/lyraxana) | — |
+| [瑞克 SVG 生成对比](https://x.com/dummerspast39/status/2113497132841799858) | Carbon | Claude | [@dummerspast39](https://x.com/dummerspast39) | — |
+| [PS5 手柄 SVG 模型对比](https://x.com/marcthecreatorr/status/2116148349791346698) | Carbon | Claude | [@marcthecreatorr](https://x.com/marcthecreatorr) | — |
+| [纯代码绘图](https://x.com/chetaslua/status/2121909995533205543) | Carbon | — | [@chetaslua](https://x.com/chetaslua) | — |
+| [Sonnet 5.5 与 Gemini 4 Argon SVG绘图对比测试](https://x.com/notjazii/status/2110423328016220179) | Argon | Claude | [@notjazii](https://x.com/notjazii) | — |
