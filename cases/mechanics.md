@@ -1,6 +1,6 @@
 # Machines & cutaways
 
-14 works, 3 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+15 works, 4 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -9,6 +9,7 @@
 | [Electric motor animation model comparison](https://x.com/rubenssoto_ai/status/2110065587279798719) | Argon | Claude | [@rubenssoto_ai](https://x.com/rubenssoto_ai) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2110065587279798719) |
 | [Hand pump physics comparison](https://x.com/kinderlayer/status/2116857033659949157) | Argon | Claude, GPT, Grok | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [Radial engine animation comparison](https://x.com/olezhavich/status/2116606788241969445) | Argon / Carbon | Claude, GPT | [@olezhavich](https://x.com/olezhavich) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2116606788241969445) |
+| [Electric motor cutaway animation](https://x.com/analogalok/status/2122221106304352257) | Hydrogen | Qwen | [@analogalok](https://x.com/analogalok) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2122221106304352257) |
 | [Engine construction model comparison](https://x.com/kinderlayer/status/2116486096771043419) | Argon | Claude, GPT, Grok | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [Interactive mitochondrial motor](https://x.com/SidraMiconi/status/2121745863827697687) | Hydrogen | — | [@SidraMiconi](https://x.com/SidraMiconi) | — |
 | [Mechanical bee model comparison](https://x.com/thtbee_/status/2106050608599842846) | Argon | Claude, GPT | [@thtbee_](https://x.com/thtbee_) | — |

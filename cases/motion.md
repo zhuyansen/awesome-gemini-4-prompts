@@ -1,6 +1,6 @@
 # Animation
 
-18 works, 3 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+19 works, 3 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -22,3 +22,4 @@
 | [Motion graphics model comparison](https://x.com/deweytn/status/2118809236046246316) | Hydrogen | Claude | [@deweytn](https://x.com/deweytn) | — |
 | [Animated puffin hat sequence](https://x.com/vamsibatchuk/status/2121846407950639541) | Hydrogen | — | [@vamsibatchuk](https://x.com/vamsibatchuk) | — |
 | [AI model jet dogfight comparison](https://x.com/RafaCrackYT/status/2112929520239996946) | Argon | Claude, DeepSeek, MiniMax | [@RafaCrackYT](https://x.com/RafaCrackYT) | — |
+| [Bicycle glissando in a custom MIDI editor](https://x.com/alexanderchen/status/2122337187970879968) | Carbon | — | [@alexanderchen](https://x.com/alexanderchen) | — |

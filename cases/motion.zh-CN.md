@@ -1,6 +1,6 @@
 # 动画短片
 
-共 18 个作品，其中 3 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 19 个作品，其中 3 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -22,3 +22,4 @@
 | [动效模型对比](https://x.com/deweytn/status/2118809236046246316) | Hydrogen | Claude | [@deweytn](https://x.com/deweytn) | — |
 | [帽子被吹走的海鹦动画](https://x.com/vamsibatchuk/status/2121846407950639541) | Hydrogen | — | [@vamsibatchuk](https://x.com/vamsibatchuk) | — |
 | [AI模型空战生成对比](https://x.com/RafaCrackYT/status/2112929520239996946) | Argon | Claude, DeepSeek, MiniMax | [@RafaCrackYT](https://x.com/RafaCrackYT) | — |
+| [自定义 MIDI 编辑器中的自行车滑奏](https://x.com/alexanderchen/status/2122337187970879968) | Carbon | — | [@alexanderchen](https://x.com/alexanderchen) | — |

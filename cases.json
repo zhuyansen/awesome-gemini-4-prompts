@@ -4,8 +4,8 @@
  "released": "2026-10-14T00:00:00Z",
  "inclusion_rule": "Original post by the creator, media attached, >= 5000 views on that post, and the creator's own text says Gemini 4 (Argon, Carbon, Hydrogen, Krypton, Pro...) built it in code; same-prompt comparisons against other models included. Seeded on 2026-11-16 from the Claude 5.5 library. Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-17T01:27:38.953Z",
- "updated_at": "2026-11-17T01:30:00.332Z",
+ "stats_checked_at": "2026-11-18T09:08:48.493Z",
+ "updated_at": "2026-11-18T09:10:53.738Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -448,6 +448,53 @@
     "length": 516,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2110136719827747181"
    },
+   "resources": []
+  },
+  {
+   "id": "2122349952403927401",
+   "category": "ui",
+   "versions": [
+    "carbon"
+   ],
+   "compared_with": [
+    "gpt"
+   ],
+   "title": {
+    "zh": "AI 制作的界面对比",
+    "en": "AI-built interface comparison"
+   },
+   "creator": {
+    "handle": "lengs4189",
+    "name": "布丁"
+   },
+   "original_post_url": "https://x.com/lengs4189/status/2122349952403927401",
+   "posted_at": "2026-11-16T15:23:54.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "photo",
+     "width": 2940,
+     "height": 1670,
+     "duration_seconds": null,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXQY8GLa4AAZ-vy?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 2940,
+     "height": 1670,
+     "duration_seconds": null,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXQZHvoa8AAt2tT?format=jpg&name=small"
+    }
+   ],
+   "views": 147346,
+   "likes": 318,
+   "bookmarks": 138,
+   "views_checked_at": "2026-11-18T08:55:04.095Z",
+   "tools_reported": [
+    "ChatGPT 6.1 Sol"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -1777,6 +1824,52 @@
    "resources": []
   },
   {
+   "id": "2122432152340209964",
+   "category": "scene3d",
+   "versions": [
+    "argon"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt",
+    "qwen"
+   ],
+   "title": {
+    "zh": "Alpine Gold 视觉场景",
+    "en": "Alpine Gold visual scene"
+   },
+   "creator": {
+    "handle": "EnvolDev",
+    "name": "Tony"
+   },
+   "original_post_url": "https://x.com/EnvolDev/status/2122432152340209964",
+   "posted_at": "2026-11-16T20:50:32.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 2160,
+     "height": 1920,
+     "duration_seconds": 25,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122431520111747072/img/xOzUZlGrG0nGuipH.jpg"
+    }
+   ],
+   "views": 62169,
+   "likes": 268,
+   "bookmarks": 126,
+   "views_checked_at": "2026-11-18T08:55:04.095Z",
+   "tools_reported": [
+    "Qwen 4 Max",
+    "Fable 5.2",
+    "GPT-6 Astra",
+    "Claude Opus 5.5",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110649723497394405",
    "category": "motion",
    "versions": [
@@ -1819,6 +1912,53 @@
     "source_url": "https://x.com/whydeso/status/2110649723497394405",
     "length": 16,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2110649723497394405"
+   },
+   "resources": []
+  },
+  {
+   "id": "2122221106304352257",
+   "category": "mechanics",
+   "versions": [
+    "hydrogen"
+   ],
+   "compared_with": [
+    "qwen"
+   ],
+   "title": {
+    "zh": "电动机原理剖面动画",
+    "en": "Electric motor cutaway animation"
+   },
+   "creator": {
+    "handle": "analogalok",
+    "name": "Alok"
+   },
+   "original_post_url": "https://x.com/analogalok/status/2122221106304352257",
+   "posted_at": "2026-11-16T06:51:55.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1620,
+     "duration_seconds": 13,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122218654523887617/img/fiXKOEozYPu62OdX.jpg"
+    }
+   ],
+   "views": 58369,
+   "likes": 499,
+   "bookmarks": 229,
+   "views_checked_at": "2026-11-18T08:55:04.095Z",
+   "tools_reported": [
+    "Qwen 4 Max",
+    "Qwen 3.8 Max"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/analogalok/status/2122221106304352257",
+    "length": 170,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2122221106304352257"
    },
    "resources": []
   },
@@ -2158,6 +2298,55 @@
    "resources": []
   },
   {
+   "id": "2122440859891409372",
+   "category": "scene3d",
+   "versions": [
+    "carbon",
+    "hydrogen"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "穿过水面的奔马",
+    "en": "Horse galloping through water"
+   },
+   "creator": {
+    "handle": "SamgreyAi",
+    "name": "Sam"
+   },
+   "original_post_url": "https://x.com/SamgreyAi/status/2122440859891409372",
+   "posted_at": "2026-11-16T21:25:08.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 544,
+     "height": 544,
+     "duration_seconds": 12,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122062236822765568/img/ADkvxTvjJaei02Po.jpg"
+    }
+   ],
+   "views": 49191,
+   "likes": 164,
+   "bookmarks": 37,
+   "views_checked_at": "2026-11-18T08:55:04.095Z",
+   "tools_reported": [
+    "Fable 5.2",
+    "GPT-6 Astra"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/SamgreyAi/status/2122440859891409372",
+    "length": 32,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2122440859891409372"
+   },
+   "resources": []
+  },
+  {
    "id": "2110087305163854042",
    "category": "game",
    "versions": [
@@ -2322,6 +2511,56 @@
    "resources": []
   },
   {
+   "id": "2122353119749361808",
+   "category": "svg",
+   "versions": [
+    "hydrogen"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt",
+    "qwen"
+   ],
+   "title": {
+    "zh": "骑马的斑马与鹈鹕",
+    "en": "Pelican riding a zebra riding a horse"
+   },
+   "creator": {
+    "handle": "RezAIT00",
+    "name": "Rez"
+   },
+   "original_post_url": "https://x.com/RezAIT00/status/2122353119749361808",
+   "posted_at": "2026-11-16T15:36:29.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1192,
+     "duration_seconds": 18,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122352968217309184/img/a-Qlvc1nVtniTLI4.jpg"
+    }
+   ],
+   "views": 43071,
+   "likes": 131,
+   "bookmarks": 47,
+   "views_checked_at": "2026-11-18T08:55:04.095Z",
+   "tools_reported": [
+    "Qwen 4 Max",
+    "Fable 5.2",
+    "GPT Astra"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/RezAIT00/status/2122398998187196848",
+    "length": 2716,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2122353119749361808"
+   },
+   "resources": []
+  },
+  {
    "id": "2110382089476407630",
    "category": "scene3d",
    "versions": [
@@ -2399,6 +2638,90 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122509308797579477",
+   "category": "game",
+   "versions": [
+    "carbon"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "战术第一人称射击网页游戏",
+    "en": "Tactical FPS browser game"
+   },
+   "creator": {
+    "handle": "vamsibatchuk",
+    "name": "Vamsi Batchu"
+   },
+   "original_post_url": "https://x.com/vamsibatchuk/status/2122509308797579477",
+   "posted_at": "2026-11-17T01:57:08.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 3840,
+     "height": 2092,
+     "duration_seconds": 22,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122506966366822400/img/2Lwh1GOP10Qpn0aH.jpg"
+    }
+   ],
+   "views": 42005,
+   "likes": 547,
+   "bookmarks": 198,
+   "views_checked_at": "2026-11-18T09:08:48.493Z",
+   "tools_reported": [
+    "Antigravity"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122290663643353165",
+   "category": "scene3d",
+   "versions": [
+    "argon"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "冰雕大象",
+    "en": "Elephant sculpted from ice"
+   },
+   "creator": {
+    "handle": "kinderlayer",
+    "name": "Kinder"
+   },
+   "original_post_url": "https://x.com/kinderlayer/status/2122290663643353165",
+   "posted_at": "2026-11-16T11:28:19.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 720,
+     "height": 1280,
+     "duration_seconds": 30,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122290612040835072/img/oknZiXPZJd4lcH5o.jpg"
+    }
+   ],
+   "views": 40386,
+   "likes": 167,
+   "bookmarks": 88,
+   "views_checked_at": "2026-11-18T08:55:04.095Z",
+   "tools_reported": [
+    "Claude Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/kinderlayer/status/2122290663643353165",
+    "length": 41,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2122290663643353165"
+   },
    "resources": []
   },
   {
@@ -3586,6 +3909,42 @@
    "resources": []
   },
   {
+   "id": "2122161392828727738",
+   "category": "ui",
+   "versions": [
+    "hydrogen"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "自动作曲应用",
+    "en": "Automatic music composition app"
+   },
+   "creator": {
+    "handle": "Awed_Urshy",
+    "name": "あうぇっど"
+   },
+   "original_post_url": "https://x.com/Awed_Urshy/status/2122161392828727738",
+   "posted_at": "2026-11-16T02:54:38.000Z",
+   "language": "ja",
+   "media": [
+    {
+     "type": "video",
+     "width": 1280,
+     "height": 720,
+     "duration_seconds": 55,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122160955517960193/img/OXLHJmQqwv1JU4ij.jpg"
+    }
+   ],
+   "views": 26107,
+   "likes": 117,
+   "bookmarks": 102,
+   "views_checked_at": "2026-11-18T08:55:04.095Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2117682945116774562",
    "category": "physics",
    "versions": [
@@ -3988,6 +4347,42 @@
    "resources": []
   },
   {
+   "id": "2122264764319666388",
+   "category": "game",
+   "versions": [
+    "carbon"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "体素堆叠帆船游戏",
+    "en": "Voxel-stacked sailing game"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2122264764319666388",
+   "posted_at": "2026-11-16T09:45:24.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 56,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122264072754479104/img/lPgORWQMhKARLifi.jpg"
+    }
+   ],
+   "views": 22379,
+   "likes": 188,
+   "bookmarks": 62,
+   "views_checked_at": "2026-11-18T08:55:04.095Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110305558100128164",
    "category": "scene3d",
    "versions": [
@@ -4024,6 +4419,55 @@
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122387800762810870",
+   "category": "scene3d",
+   "versions": [
+    "krypton"
+   ],
+   "compared_with": [
+    "claude",
+    "deepseek"
+   ],
+   "title": {
+    "zh": "极光雪林中的狼",
+    "en": "Wolf in a snowy aurora forest"
+   },
+   "creator": {
+    "handle": "0xRhinoX",
+    "name": "Rhino"
+   },
+   "original_post_url": "https://x.com/0xRhinoX/status/2122387800762810870",
+   "posted_at": "2026-11-16T17:54:18.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1080,
+     "duration_seconds": 15,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122354336214749184/img/PReEvOGk1CiUdxYZ.jpg"
+    }
+   ],
+   "views": 22084,
+   "likes": 122,
+   "bookmarks": 36,
+   "views_checked_at": "2026-11-18T08:55:04.095Z",
+   "tools_reported": [
+    "DeepSeek V4.1 Flash",
+    "Claude Opus 5.5",
+    "Claude Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/0xRhinoX/status/2122387800762810870",
+    "length": 54,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2122387800762810870"
+   },
    "resources": []
   },
   {
@@ -5332,6 +5776,46 @@
    "resources": []
   },
   {
+   "id": "2122469864505798795",
+   "category": "scene3d",
+   "versions": [
+    "carbon"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "带有草地与野花的柔和草甸",
+    "en": "Soft meadow with grass and wildflowers"
+   },
+   "creator": {
+    "handle": "GlitterPixely",
+    "name": "Glitter Gal"
+   },
+   "original_post_url": "https://x.com/GlitterPixely/status/2122469864505798795",
+   "posted_at": "2026-11-16T23:20:23.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 3840,
+     "height": 2160,
+     "duration_seconds": 84,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122468045566160896/img/lpBKdM_udcLC3hyg.jpg"
+    }
+   ],
+   "views": 12427,
+   "likes": 182,
+   "bookmarks": 76,
+   "views_checked_at": "2026-11-18T08:55:04.095Z",
+   "tools_reported": [
+    "Three.js",
+    "Antigravity",
+    "Swarm"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2113497132841799858",
    "category": "svg",
    "versions": [
@@ -6114,6 +6598,46 @@
    "resources": []
   },
   {
+   "id": "2122306306409107677",
+   "category": "svg",
+   "versions": [
+    "krypton"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "SVG 人像对比",
+    "en": "SVG portrait comparison"
+   },
+   "creator": {
+    "handle": "dummerspast39",
+    "name": "Binkg"
+   },
+   "original_post_url": "https://x.com/dummerspast39/status/2122306306409107677",
+   "posted_at": "2026-11-16T12:30:28.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 2400,
+     "height": 1497,
+     "duration_seconds": null,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXPyUd6W0AAPgjy?format=jpg&name=small"
+    }
+   ],
+   "views": 9014,
+   "likes": 133,
+   "bookmarks": 17,
+   "views_checked_at": "2026-11-18T08:55:04.095Z",
+   "tools_reported": [
+    "Fable 5.2 Max"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2111965632338292943",
    "category": "scene3d",
    "versions": [
@@ -6310,6 +6834,44 @@
    "resources": []
   },
   {
+   "id": "2122337187970879968",
+   "category": "motion",
+   "versions": [
+    "carbon"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "自定义 MIDI 编辑器中的自行车滑奏",
+    "en": "Bicycle glissando in a custom MIDI editor"
+   },
+   "creator": {
+    "handle": "alexanderchen",
+    "name": "Alexander Chen"
+   },
+   "original_post_url": "https://x.com/alexanderchen/status/2122337187970879968",
+   "posted_at": "2026-11-16T14:33:11.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1440,
+     "height": 1440,
+     "duration_seconds": 38,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122336072596107264/img/78isyNCrfszNTiI1.jpg"
+    }
+   ],
+   "views": 8320,
+   "likes": 153,
+   "bookmarks": 68,
+   "views_checked_at": "2026-11-18T08:55:04.095Z",
+   "tools_reported": [
+    "Antigravity"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110729405400031495",
    "category": "physics",
    "versions": [
@@ -6354,6 +6916,84 @@
    "resources": [
     "https://cloud.typingmind.com/share/42cd4cc3-9e8c-40d0-9718-ae0ade5c1ae5"
    ]
+  },
+  {
+   "id": "2122357141889777713",
+   "category": "scene3d",
+   "versions": [
+    "carbon"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "背负微型世界的鹈鹕",
+    "en": "Pelican carrying a miniature world"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2122357141889777713",
+   "posted_at": "2026-11-16T15:52:28.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 3016,
+     "height": 1716,
+     "duration_seconds": 37,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122356839228874752/img/o7EUla0W55eZxOeE.jpg"
+    }
+   ],
+   "views": 7557,
+   "likes": 159,
+   "bookmarks": 21,
+   "views_checked_at": "2026-11-18T08:55:04.095Z",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122266495216459841",
+   "category": "game",
+   "versions": [
+    "hydrogen"
+   ],
+   "compared_with": [
+    "qwen"
+   ],
+   "title": {
+    "zh": "二维沙盒村庄游戏",
+    "en": "2D sandbox village game"
+   },
+   "creator": {
+    "handle": "marcthecreatorr",
+    "name": "Marcel"
+   },
+   "original_post_url": "https://x.com/marcthecreatorr/status/2122266495216459841",
+   "posted_at": "2026-11-16T09:52:16.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1264,
+     "height": 1080,
+     "duration_seconds": 55,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122266215494152192/img/le4MZv_XuEqgQqTC.jpg"
+    }
+   ],
+   "views": 7472,
+   "likes": 103,
+   "bookmarks": 14,
+   "views_checked_at": "2026-11-18T08:55:04.095Z",
+   "tools_reported": [
+    "Qwen 4 Max"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
   },
   {
    "id": "2121868841345237315",
@@ -6491,6 +7131,44 @@
    "resources": []
   },
   {
+   "id": "2122297342350995697",
+   "category": "scene3d",
+   "versions": [
+    "carbon"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "通过 MCP 在 Blender 中搭建的三维场景",
+    "en": "3D scene built in Blender via MCP"
+   },
+   "creator": {
+    "handle": "HarshithLucky3",
+    "name": "Harshith"
+   },
+   "original_post_url": "https://x.com/HarshithLucky3/status/2122297342350995697",
+   "posted_at": "2026-11-16T11:54:51.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": null,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXPqLS6bwAEIX07?format=jpg&name=small"
+    }
+   ],
+   "views": 6732,
+   "likes": 239,
+   "bookmarks": 37,
+   "views_checked_at": "2026-11-18T08:55:04.095Z",
+   "tools_reported": [
+    "Blender MCP"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2114392673947709526",
    "category": "scene3d",
    "versions": [
@@ -6568,6 +7246,45 @@
     "Gemini"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122424240641376674",
+   "category": "scene3d",
+   "versions": [
+    "hydrogen",
+    "krypton"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "Blender 三维建模作品",
+    "en": "Blender 3D modeling piece"
+   },
+   "creator": {
+    "handle": "SPAC89",
+    "name": "Iam_"
+   },
+   "original_post_url": "https://x.com/SPAC89/status/2122424240641376674",
+   "posted_at": "2026-11-16T20:19:06.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 50,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122423875187175424/img/EsKEXc0iVfM8P9yc.jpg"
+    }
+   ],
+   "views": 6242,
+   "likes": 145,
+   "bookmarks": 42,
+   "views_checked_at": "2026-11-18T08:55:04.095Z",
+   "tools_reported": [
+    "Blender"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   }

@@ -1,13 +1,15 @@
 # 网页与界面
 
-共 8 个作品，其中 4 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 10 个作品，其中 4 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
 | [复古操作系统重制对比](https://x.com/AIMind_Ai/status/2116908645845741618) | Argon | Claude, GPT | [@AIMind_Ai](https://x.com/AIMind_Ai) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2116908645845741618) |
 | [前端页面复刻对比](https://x.com/fiapp_pro/status/2122014257667846338) | Hydrogen | GPT | [@fiapp_pro](https://x.com/fiapp_pro) | — |
+| [AI 制作的界面对比](https://x.com/lengs4189/status/2122349952403927401) | Carbon | GPT | [@lengs4189](https://x.com/lengs4189) | — |
 | [无广告个性化电视界面](https://x.com/Saboo_Shubham_/status/2122033244627689692) | Carbon | — | [@Saboo_Shubham_](https://x.com/Saboo_Shubham_) | — |
 | [诺基亚3310重设计对比](https://x.com/AIMind_Ai/status/2117595286109315107) | Argon | Claude, GPT | [@AIMind_Ai](https://x.com/AIMind_Ai) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2117595286109315107) |
+| [自动作曲应用](https://x.com/Awed_Urshy/status/2122161392828727738) | Hydrogen | — | [@Awed_Urshy](https://x.com/Awed_Urshy) | — |
 | [CSS 3D 虚拟美术馆漫游](https://x.com/MiaAI_lab/status/2110385278246654052) | Argon | Claude | [@MiaAI_lab](https://x.com/MiaAI_lab) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2110385278246654052) |
 | [闹鬼房屋网站对比](https://x.com/keydol123/status/2116556350130163783) | Carbon | Claude | [@keydol123](https://x.com/keydol123) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2116556350130163783) |
 | [互动竖笛指法指南](https://x.com/nin222/status/2121877676042682538) | Hydrogen | — | [@nin222](https://x.com/nin222) | — |
