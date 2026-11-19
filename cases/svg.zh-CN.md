@@ -1,6 +1,6 @@
 # SVG 绘图
 
-共 10 个作品，其中 1 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 12 个作品，其中 1 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -9,7 +9,9 @@
 | [女孩与猫的双人自行车 SVG](https://x.com/marcthecreatorr/status/2120956699951628637) | Hydrogen | Claude | [@marcthecreatorr](https://x.com/marcthecreatorr) | — |
 | [SVG骑车鹈鹕：Gemini 4 与 Opus 5.5 对比](https://x.com/LuminaBench/status/2106130557310468364) | Argon | Claude | [@LuminaBench](https://x.com/LuminaBench) | — |
 | [SVG 绘制的 GTA VI 游戏画面](https://x.com/lyraxana/status/2121694698267976039) | Argon / Carbon / Krypton | — | [@lyraxana](https://x.com/lyraxana) | — |
+| [SVG 插画演示](https://x.com/Angaisb_/status/2122762815757017410) | Carbon | GPT | [@Angaisb_](https://x.com/Angaisb_) | — |
 | [瑞克 SVG 生成对比](https://x.com/dummerspast39/status/2113497132841799858) | Carbon | Claude | [@dummerspast39](https://x.com/dummerspast39) | — |
+| [Google 表格中的代码绘画](https://x.com/vamsibatchuk/status/2122818435381948724) | Hydrogen | — | [@vamsibatchuk](https://x.com/vamsibatchuk) | — |
 | [PS5 手柄 SVG 模型对比](https://x.com/marcthecreatorr/status/2116148349791346698) | Carbon | Claude | [@marcthecreatorr](https://x.com/marcthecreatorr) | — |
 | [SVG 人像对比](https://x.com/dummerspast39/status/2122306306409107677) | Krypton | Claude | [@dummerspast39](https://x.com/dummerspast39) | — |
 | [纯代码绘图](https://x.com/chetaslua/status/2121909995533205543) | Carbon | — | [@chetaslua](https://x.com/chetaslua) | — |

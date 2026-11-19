@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 75 个作品，其中 21 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 76 个作品，其中 21 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Opus 5.5对比Gemini 4 Argon灯光效果](https://x.com/anxuanng/status/2110357629159854196) | Argon | Claude | [@anxuanng](https://x.com/anxuanng) | — |
 | [灯光效果对比：Gemini 4 Argon对比Claude Haiku 5.5](https://x.com/Da7_Tech/status/2110073840424358377) | Argon | Claude | [@Da7_Tech](https://x.com/Da7_Tech) | — |
 | [体素宝塔：Gemini 4 Argon 与 Opus 5.5 对比](https://x.com/LuminaBench/status/2106156060163620924) | Argon | Claude | [@LuminaBench](https://x.com/LuminaBench) | — |
+| [由二维画作转换的三维鹈鹕](https://x.com/chetaslua/status/2122705177203642485) | Carbon / Hydrogen | Claude | [@chetaslua](https://x.com/chetaslua) | — |
 | [《飞屋环游记》房屋三维场景对比](https://x.com/noclipepe/status/2121890724136227182) | Carbon / Hydrogen / Krypton | — | [@noclipepe](https://x.com/noclipepe) | — |
 | [多模型卡带3D效果测试](https://x.com/ann_nnng/status/2110345498028810390) | Argon | Claude, GPT, Meta Muse | [@ann_nnng](https://x.com/ann_nnng) | — |
 | [3D直升机构建效果对比](https://x.com/LuminaBench/status/2113963313591705768) | Carbon | Claude | [@LuminaBench](https://x.com/LuminaBench) | — |

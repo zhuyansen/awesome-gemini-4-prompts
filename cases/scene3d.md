@@ -1,6 +1,6 @@
 # 3D scenes
 
-75 works, 21 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+76 works, 21 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Opus 5.5 vs Gemini 4 Argon lighting test](https://x.com/anxuanng/status/2110357629159854196) | Argon | Claude | [@anxuanng](https://x.com/anxuanng) | — |
 | [Lighting comparison: Gemini 4 Argon vs Claude Haiku 5.5](https://x.com/Da7_Tech/status/2110073840424358377) | Argon | Claude | [@Da7_Tech](https://x.com/Da7_Tech) | — |
 | [Voxel Pagoda: Gemini 4 Argon vs Opus 5.5](https://x.com/LuminaBench/status/2106156060163620924) | Argon | Claude | [@LuminaBench](https://x.com/LuminaBench) | — |
+| [3D pelican converted from a 2D drawing](https://x.com/chetaslua/status/2122705177203642485) | Carbon / Hydrogen | Claude | [@chetaslua](https://x.com/chetaslua) | — |
 | [Up house 3D scene comparison](https://x.com/noclipepe/status/2121890724136227182) | Carbon / Hydrogen / Krypton | — | [@noclipepe](https://x.com/noclipepe) | — |
 | [Multi-model cassette tape 3D effect test](https://x.com/ann_nnng/status/2110345498028810390) | Argon | Claude, GPT, Meta Muse | [@ann_nnng](https://x.com/ann_nnng) | — |
 | [3D helicopter build side-by-side comparison](https://x.com/LuminaBench/status/2113963313591705768) | Carbon | Claude | [@LuminaBench](https://x.com/LuminaBench) | — |

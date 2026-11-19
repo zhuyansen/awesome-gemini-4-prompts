@@ -4,8 +4,8 @@
  "released": "2026-10-14T00:00:00Z",
  "inclusion_rule": "Original post by the creator, media attached, >= 5000 views on that post, and the creator's own text says Gemini 4 (Argon, Carbon, Hydrogen, Krypton, Pro...) built it in code; same-prompt comparisons against other models included. Seeded on 2026-11-16 from the Claude 5.5 library. Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-18T09:08:48.493Z",
- "updated_at": "2026-11-18T09:10:53.738Z",
+ "stats_checked_at": "2026-11-19T01:26:38.868Z",
+ "updated_at": "2026-11-19T01:32:08.095Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -3343,6 +3343,47 @@
    "resources": []
   },
   {
+   "id": "2122705177203642485",
+   "category": "scene3d",
+   "versions": [
+    "carbon",
+    "hydrogen"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "由二维画作转换的三维鹈鹕",
+    "en": "3D pelican converted from a 2D drawing"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2122705177203642485",
+   "posted_at": "2026-11-17T14:55:26.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 119,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122704491929808896/img/M9N9lsattT3bYpLR.jpg"
+    }
+   ],
+   "views": 29773,
+   "likes": 650,
+   "bookmarks": 185,
+   "views_checked_at": "2026-11-19T01:26:38.868Z",
+   "tools_reported": [
+    "Antigravity"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2121890724136227182",
    "category": "scene3d",
    "versions": [
@@ -5562,6 +5603,47 @@
    "resources": []
   },
   {
+   "id": "2122762815757017410",
+   "category": "svg",
+   "versions": [
+    "carbon"
+   ],
+   "compared_with": [
+    "gpt"
+   ],
+   "title": {
+    "zh": "SVG 插画演示",
+    "en": "SVG illustration demo"
+   },
+   "creator": {
+    "handle": "Angaisb_",
+    "name": "Angel 🎄"
+   },
+   "original_post_url": "https://x.com/Angaisb_/status/2122762815757017410",
+   "posted_at": "2026-11-17T18:44:28.000Z",
+   "language": "in",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 28,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122762633103265792/img/5KAD24pPWuBXJUj_.jpg"
+    }
+   ],
+   "views": 14204,
+   "likes": 180,
+   "bookmarks": 45,
+   "views_checked_at": "2026-11-19T01:26:38.868Z",
+   "tools_reported": [
+    "GPT-6.2 Astra",
+    "Gemini 3.1 Pro"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2116556350130163783",
    "category": "ui",
    "versions": [
@@ -5733,6 +5815,42 @@
     "Codex",
     "OpenCode"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122766829550764271",
+   "category": "sim",
+   "versions": [
+    "hydrogen"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "航班中断地图",
+    "en": "Airline disruption flight map"
+   },
+   "creator": {
+    "handle": "SidraMiconi",
+    "name": "Sidra Miconi"
+   },
+   "original_post_url": "https://x.com/SidraMiconi/status/2122766829550764271",
+   "posted_at": "2026-11-17T19:00:25.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 26,
+     "thumbnail_url": "https://pbs.twimg.com/ext_tw_video_thumb/2122766742338543616/pu/img/J9GDtzqkXUC9yQ2w.jpg"
+    }
+   ],
+   "views": 12604,
+   "likes": 125,
+   "bookmarks": 26,
+   "views_checked_at": "2026-11-19T01:26:38.868Z",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -6187,6 +6305,44 @@
     "Gemini 4 Argon",
     "Muse Wonderful",
     "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122818435381948724",
+   "category": "svg",
+   "versions": [
+    "hydrogen"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "Google 表格中的代码绘画",
+    "en": "Code drawing in Google Sheets"
+   },
+   "creator": {
+    "handle": "vamsibatchuk",
+    "name": "Vamsi Batchu"
+   },
+   "original_post_url": "https://x.com/vamsibatchuk/status/2122818435381948724",
+   "posted_at": "2026-11-17T22:25:29.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 23,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122807658965086208/img/E6w02NyXLZxNuhwX.jpg"
+    }
+   ],
+   "views": 10758,
+   "likes": 274,
+   "bookmarks": 51,
+   "views_checked_at": "2026-11-19T01:26:38.868Z",
+   "tools_reported": [
+    "Google Sheets"
    ],
    "reference_assets": false,
    "prompt": null,
