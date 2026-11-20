@@ -1,6 +1,6 @@
 # Physics & materials
 
-22 works, 10 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+23 works, 10 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -9,6 +9,7 @@
 | [Margarita sloshing effect model comparison](https://x.com/ann_nnng/status/2110234900616126769) | Argon | Claude, GPT, Meta Muse | [@ann_nnng](https://x.com/ann_nnng) | — |
 | [Rainbow jelly simulation comparison](https://x.com/0xRhinoX/status/2115891194383200515) | Carbon | Claude | [@0xRhinoX](https://x.com/0xRhinoX) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2115891194383200515) |
 | [Rainbow slinky stairs model test](https://x.com/noclipepe/status/2110351087089647783) | Argon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | — |
+| [Robotic railgun dog with simulated locomotion](https://x.com/thebuggeddev/status/2123170821250400282) | Carbon | — | [@thebuggeddev](https://x.com/thebuggeddev) | — |
 | [Lava lamp 3D scene comparison](https://x.com/bridgemindai/status/2110050421184360718) | Argon | Claude | [@bridgemindai](https://x.com/bridgemindai) | — |
 | [Jelly pumpkin render comparison](https://x.com/semichenkko/status/2110746878040055904) | Argon | Claude | [@semichenkko](https://x.com/semichenkko) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2110746878040055904) |
 | [Jelly Rubik's cube AI model comparison](https://x.com/0xRhinoX/status/2110799218734502048) | Argon | Claude, GPT | [@0xRhinoX](https://x.com/0xRhinoX) | — |

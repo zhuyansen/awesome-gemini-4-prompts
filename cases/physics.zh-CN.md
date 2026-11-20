@@ -1,6 +1,6 @@
 # 物理与材质
 
-共 22 个作品，其中 10 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 23 个作品，其中 10 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -9,6 +9,7 @@
 | [鸡尾酒晃动效果模型对比](https://x.com/ann_nnng/status/2110234900616126769) | Argon | Claude, GPT, Meta Muse | [@ann_nnng](https://x.com/ann_nnng) | — |
 | [彩虹果冻模拟效果对比](https://x.com/0xRhinoX/status/2115891194383200515) | Carbon | Claude | [@0xRhinoX](https://x.com/0xRhinoX) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2115891194383200515) |
 | [彩虹弹簧走楼梯模型测试](https://x.com/noclipepe/status/2110351087089647783) | Argon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | — |
+| [搭载轨道炮的机器狗步态仿真](https://x.com/thebuggeddev/status/2123170821250400282) | Carbon | — | [@thebuggeddev](https://x.com/thebuggeddev) | — |
 | [熔岩灯三维场景对比](https://x.com/bridgemindai/status/2110050421184360718) | Argon | Claude | [@bridgemindai](https://x.com/bridgemindai) | — |
 | [果冻南瓜渲染对比](https://x.com/semichenkko/status/2110746878040055904) | Argon | Claude | [@semichenkko](https://x.com/semichenkko) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2110746878040055904) |
 | [果冻魔方多模型对比](https://x.com/0xRhinoX/status/2110799218734502048) | Argon | Claude, GPT | [@0xRhinoX](https://x.com/0xRhinoX) | — |

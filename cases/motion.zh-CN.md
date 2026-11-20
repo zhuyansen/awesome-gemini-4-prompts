@@ -1,6 +1,6 @@
 # 动画短片
 
-共 19 个作品，其中 3 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 21 个作品，其中 3 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -9,7 +9,9 @@
 | [巨型机器人动画场景模型对比](https://x.com/SahilPanhotra/status/2117276551247278264) | Argon | Claude | [@SahilPanhotra](https://x.com/SahilPanhotra) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2117276551247278264) |
 | [白虎视频模型对比](https://x.com/kinderlayer/status/2112887335687749657) | Argon | Claude | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [Gemini与Opus象动画对比](https://x.com/kinderlayer/status/2111760509372404142) | Argon | Claude | [@kinderlayer](https://x.com/kinderlayer) | — |
+| [代码生成的自我介绍动态图形](https://x.com/chetaslua/status/2123219124260315301) | Gemini 4 | — | [@chetaslua](https://x.com/chetaslua) | — |
 | [骑自行车的鹈鹕动画](https://x.com/chetaslua/status/2121885449509851415) | Carbon / Hydrogen | — | [@chetaslua](https://x.com/chetaslua) | — |
+| [鹈鹕主题产品动态设计](https://x.com/chetaslua/status/2123184113561817370) | Gemini 4 | — | [@chetaslua](https://x.com/chetaslua) | — |
 | [四模型动画效果对比](https://x.com/higgsfield_ai/status/2111526194248286413) | Argon | Claude, GPT, DeepSeek | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
 | [Claude与Gemini互怼对比](https://x.com/whydeso/status/2110649723497394405) | Argon | Claude | [@whydeso](https://x.com/whydeso) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2110649723497394405) |
 | [丧尸手生成效果对比](https://x.com/noclipepe/status/2116445289468850366) | Carbon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2116445289468850366) |

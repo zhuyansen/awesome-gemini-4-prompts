@@ -1,10 +1,11 @@
 # Games
 
-12 works, 1 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+13 works, 1 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
 | [Chrome Dino model comparison](https://x.com/noclipepe/status/2115953941808550313) | Carbon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | — |
+| [Interactive demos with shooters and 3D worlds](https://x.com/kimmonismus/status/2123168299890704735) | Gemini 4 | — | [@kimmonismus](https://x.com/kimmonismus) | — |
 | [Minecraft nether race model comparison](https://x.com/fawnunwrap/status/2110154463415558279) | Argon | Claude, GPT | [@fawnunwrap](https://x.com/fawnunwrap) | — |
 | [Ancient Greece 3D world game test](https://x.com/higgsfield_ai/status/2110426709422133611) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
 | [Mario 3D test: Gemini 4 Argon vs Opus 5.5](https://x.com/luckeyfaraday/status/2110087305163854042) | Argon | Claude | [@luckeyfaraday](https://x.com/luckeyfaraday) | — |

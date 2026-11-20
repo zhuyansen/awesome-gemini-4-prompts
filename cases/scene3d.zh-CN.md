@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 76 个作品，其中 21 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 82 个作品，其中 22 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -16,17 +16,23 @@
 | [埃菲尔铁塔建模的跨模型对比](https://x.com/AIMind_Ai/status/2111058514311336244) | Argon | Claude | [@AIMind_Ai](https://x.com/AIMind_Ai) | — |
 | [Opus 5.5对比Gemini 4与GPT 6](https://x.com/AdityaJhajhar12/status/2110223026549850196) | Argon | Claude, GPT | [@AdityaJhajhar12](https://x.com/AdityaJhajhar12) | — |
 | [Gemini 4 Argon 与 Opus 5.5 同题测试对比](https://x.com/Adidotdev/status/2110047989280670072) | Argon | Claude | [@Adidotdev](https://x.com/Adidotdev) | — |
+| [Three.js 渲染测试](https://x.com/AI_Screening/status/2123164032882659819) | Carbon | Claude | [@AI_Screening](https://x.com/AI_Screening) | — |
 | [Gemini 4 Argon与Opus 5.5同任务对比测试](https://x.com/Haleeeemahh/status/2110442447495127067) | Argon | Claude | [@Haleeeemahh](https://x.com/Haleeeemahh) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2110442447495127067) |
 | [Opus5.5与Gemini4 Argon效果对比](https://x.com/0x0SojalSec/status/2110147080543252556) | Argon | Claude | [@0x0SojalSec](https://x.com/0x0SojalSec) | — |
 | [三维体素跑车组装动画](https://x.com/atomic_chat_hq/status/2110145714659664275) | Argon | Claude | [@atomic_chat_hq](https://x.com/atomic_chat_hq) | — |
 | [模型输出并排对比](https://x.com/Haleeeemahh/status/2115819373973708975) | Carbon | Claude | [@Haleeeemahh](https://x.com/Haleeeemahh) | — |
+| [巨型闹鬼吸血鬼大教堂](https://x.com/jan_volad/status/2123205954649100424) | Gemini 4 | GPT | [@jan_volad](https://x.com/jan_volad) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2123205954649100424) |
 | [Alpine Gold 视觉场景](https://x.com/EnvolDev/status/2122432152340209964) | Argon | Claude, GPT, Qwen | [@EnvolDev](https://x.com/EnvolDev) | — |
 | [模型输出并排对比](https://x.com/xKaka1456/status/2121623349386477877) | Krypton | Claude | [@xKaka1456](https://x.com/xKaka1456) | — |
 | [前沿模型对比](https://x.com/RoundtableSpace/status/2116383410335907989) | Carbon | Claude, GPT | [@RoundtableSpace](https://x.com/RoundtableSpace) | — |
 | [鹈鹕骑自行车并排对比](https://x.com/leo114119/status/2116652334734332212) | Carbon | Claude | [@leo114119](https://x.com/leo114119) | — |
+| [从黑暗中浮现的鳄鱼](https://x.com/kinderlayer/status/2123010696602391001) | Carbon | Claude | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [Three.js模型对比测试](https://x.com/AI_Screening/status/2115849659797373038) | Argon | Claude | [@AI_Screening](https://x.com/AI_Screening) | — |
 | [夜间列车模型对比](https://x.com/EnvolDev/status/2110408289007604165) | Argon | Claude, GPT | [@EnvolDev](https://x.com/EnvolDev) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2110408289007604165) |
+| [雨夜便利店](https://x.com/Super_Nius/status/2123169627815698522) | Gemini 4 | GPT | [@Super_Nius](https://x.com/Super_Nius) | — |
 | [穿过水面的奔马](https://x.com/SamgreyAi/status/2122440859891409372) | Carbon / Hydrogen | Claude, GPT | [@SamgreyAi](https://x.com/SamgreyAi) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2122440859891409372) |
+| [三维建模测试](https://x.com/SPAC89/status/2123171830739632189) | Hydrogen | Claude, GPT | [@SPAC89](https://x.com/SPAC89) | — |
+| [同提示词视觉细节测试](https://x.com/notjazii/status/2123172429791129848) | Carbon / Hydrogen | Claude | [@notjazii](https://x.com/notjazii) | — |
 | [3D西瓜毛发渲染对比](https://x.com/vib3coded/status/2111501344750059978) | Argon | Claude | [@vib3coded](https://x.com/vib3coded) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2111501344750059978) |
 | [两款AI模型视觉效果对比](https://x.com/HarshithLucky3/status/2103821120009048245) | Pro | Claude | [@HarshithLucky3](https://x.com/HarshithLucky3) | — |
 | [萤火虫罐场景对比](https://x.com/0xRhinoX/status/2110382089476407630) | Argon | Claude | [@0xRhinoX](https://x.com/0xRhinoX) | — |

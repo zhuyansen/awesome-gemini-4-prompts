@@ -1,6 +1,6 @@
 # 3D scenes
 
-76 works, 21 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+82 works, 22 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -16,17 +16,23 @@
 | [Eiffel Tower build compared across models](https://x.com/AIMind_Ai/status/2111058514311336244) | Argon | Claude | [@AIMind_Ai](https://x.com/AIMind_Ai) | — |
 | [Opus 5.5 vs Gemini 4 vs GPT 6 comparison](https://x.com/AdityaJhajhar12/status/2110223026549850196) | Argon | Claude, GPT | [@AdityaJhajhar12](https://x.com/AdityaJhajhar12) | — |
 | [Gemini 4 Argon vs Opus 5.5 same-prompt test](https://x.com/Adidotdev/status/2110047989280670072) | Argon | Claude | [@Adidotdev](https://x.com/Adidotdev) | — |
+| [Three.js rendering test](https://x.com/AI_Screening/status/2123164032882659819) | Carbon | Claude | [@AI_Screening](https://x.com/AI_Screening) | — |
 | [Gemini 4 Argon vs Opus 5.5 task comparison](https://x.com/Haleeeemahh/status/2110442447495127067) | Argon | Claude | [@Haleeeemahh](https://x.com/Haleeeemahh) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2110442447495127067) |
 | [Opus 5.5 vs Gemini 4 Argon output comparison](https://x.com/0x0SojalSec/status/2110147080543252556) | Argon | Claude | [@0x0SojalSec](https://x.com/0x0SojalSec) | — |
 | [3D voxel sports car assembly animation](https://x.com/atomic_chat_hq/status/2110145714659664275) | Argon | Claude | [@atomic_chat_hq](https://x.com/atomic_chat_hq) | — |
 | [Side-by-side model output comparison](https://x.com/Haleeeemahh/status/2115819373973708975) | Carbon | Claude | [@Haleeeemahh](https://x.com/Haleeeemahh) | — |
+| [Huge haunted vampire cathedral](https://x.com/jan_volad/status/2123205954649100424) | Gemini 4 | GPT | [@jan_volad](https://x.com/jan_volad) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2123205954649100424) |
 | [Alpine Gold visual scene](https://x.com/EnvolDev/status/2122432152340209964) | Argon | Claude, GPT, Qwen | [@EnvolDev](https://x.com/EnvolDev) | — |
 | [Side-by-side model output comparison](https://x.com/xKaka1456/status/2121623349386477877) | Krypton | Claude | [@xKaka1456](https://x.com/xKaka1456) | — |
 | [Frontier model matchup](https://x.com/RoundtableSpace/status/2116383410335907989) | Carbon | Claude, GPT | [@RoundtableSpace](https://x.com/RoundtableSpace) | — |
 | [Pelican riding a bicycle side-by-side](https://x.com/leo114119/status/2116652334734332212) | Carbon | Claude | [@leo114119](https://x.com/leo114119) | — |
+| [Crocodile rising out of the dark](https://x.com/kinderlayer/status/2123010696602391001) | Carbon | Claude | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [Three.js model comparison](https://x.com/AI_Screening/status/2115849659797373038) | Argon | Claude | [@AI_Screening](https://x.com/AI_Screening) | — |
 | [Night train build comparison](https://x.com/EnvolDev/status/2110408289007604165) | Argon | Claude, GPT | [@EnvolDev](https://x.com/EnvolDev) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2110408289007604165) |
+| [Convenience store on a rainy night](https://x.com/Super_Nius/status/2123169627815698522) | Gemini 4 | GPT | [@Super_Nius](https://x.com/Super_Nius) | — |
 | [Horse galloping through water](https://x.com/SamgreyAi/status/2122440859891409372) | Carbon / Hydrogen | Claude, GPT | [@SamgreyAi](https://x.com/SamgreyAi) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2122440859891409372) |
+| [3D modeling tests](https://x.com/SPAC89/status/2123171830739632189) | Hydrogen | Claude, GPT | [@SPAC89](https://x.com/SPAC89) | — |
+| [Same-prompt visual detail test](https://x.com/notjazii/status/2123172429791129848) | Carbon / Hydrogen | Claude | [@notjazii](https://x.com/notjazii) | — |
 | [3D watermelon fur render comparison](https://x.com/vib3coded/status/2111501344750059978) | Argon | Claude | [@vib3coded](https://x.com/vib3coded) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2111501344750059978) |
 | [Visual quality comparison between two AI models](https://x.com/HarshithLucky3/status/2103821120009048245) | Pro | Claude | [@HarshithLucky3](https://x.com/HarshithLucky3) | — |
 | [Firefly jar scene comparison](https://x.com/0xRhinoX/status/2110382089476407630) | Argon | Claude | [@0xRhinoX](https://x.com/0xRhinoX) | — |

@@ -4,8 +4,8 @@
  "released": "2026-10-14T00:00:00Z",
  "inclusion_rule": "Original post by the creator, media attached, >= 5000 views on that post, and the creator's own text says Gemini 4 (Argon, Carbon, Hydrogen, Krypton, Pro...) built it in code; same-prompt comparisons against other models included. Seeded on 2026-11-16 from the Claude 5.5 library. Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-19T01:26:38.868Z",
- "updated_at": "2026-11-19T01:32:08.095Z",
+ "stats_checked_at": "2026-11-20T01:23:45.788Z",
+ "updated_at": "2026-11-20T01:28:59.664Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -1009,6 +1009,45 @@
    "resources": []
   },
   {
+   "id": "2123168299890704735",
+   "category": "game",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "射击游戏与三维世界交互演示合集",
+    "en": "Interactive demos with shooters and 3D worlds"
+   },
+   "creator": {
+    "handle": "kimmonismus",
+    "name": "Chubby♨️"
+   },
+   "original_post_url": "https://x.com/kimmonismus/status/2123168299890704735",
+   "posted_at": "2026-11-18T21:35:43.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1280,
+     "height": 720,
+     "duration_seconds": 16,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123168275190439936/img/s6ySTfFYUhckQEE8.jpg"
+    }
+   ],
+   "views": 101511,
+   "likes": 990,
+   "bookmarks": 217,
+   "views_checked_at": "2026-11-20T01:23:45.788Z",
+   "tools_reported": [
+    "Antigravity",
+    "Flash"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2116857033659949157",
    "category": "mechanics",
    "versions": [
@@ -1278,6 +1317,44 @@
    "resources": []
   },
   {
+   "id": "2123219124260315301",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "代码生成的自我介绍动态图形",
+    "en": "Code-driven self-introduction motion graphics"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2123219124260315301",
+   "posted_at": "2026-11-19T00:57:41.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 15,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123218297374347264/img/9pyZqbLgRyhI0Rwi.jpg"
+    }
+   ],
+   "views": 91253,
+   "likes": 1717,
+   "bookmarks": 620,
+   "views_checked_at": "2026-11-20T01:23:45.788Z",
+   "tools_reported": [
+    "JavaScript"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2116606788241969445",
    "category": "mechanics",
    "versions": [
@@ -1454,6 +1531,45 @@
    "resources": []
   },
   {
+   "id": "2123170821250400282",
+   "category": "physics",
+   "versions": [
+    "carbon"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "搭载轨道炮的机器狗步态仿真",
+    "en": "Robotic railgun dog with simulated locomotion"
+   },
+   "creator": {
+    "handle": "thebuggeddev",
+    "name": "The Bugged Dev"
+   },
+   "original_post_url": "https://x.com/thebuggeddev/status/2123170821250400282",
+   "posted_at": "2026-11-18T21:45:45.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 2828,
+     "height": 1840,
+     "duration_seconds": 52,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123158151495393280/img/H508mhXzQmfMdHw-.jpg"
+    }
+   ],
+   "views": 81992,
+   "likes": 1889,
+   "bookmarks": 999,
+   "views_checked_at": "2026-11-20T01:23:45.788Z",
+   "tools_reported": [
+    "Three.js",
+    "WebGPU"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2111058514311336244",
    "category": "scene3d",
    "versions": [
@@ -1611,6 +1727,85 @@
    "views_checked_at": "2026-11-16T10:43:30.012Z",
    "tools_reported": [
     "Gemini 4 Argon"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123184113561817370",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "鹈鹕主题产品动态设计",
+    "en": "Motion design for a pelican product"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2123184113561817370",
+   "posted_at": "2026-11-18T22:38:34.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 3024,
+     "height": 1628,
+     "duration_seconds": 14,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123183949128339456/img/bUZh5FqvnpPQZqAQ.jpg"
+    }
+   ],
+   "views": 73364,
+   "likes": 837,
+   "bookmarks": 238,
+   "views_checked_at": "2026-11-20T01:23:45.788Z",
+   "tools_reported": [
+    "Google AI Studio"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123164032882659819",
+   "category": "scene3d",
+   "versions": [
+    "carbon"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "Three.js 渲染测试",
+    "en": "Three.js rendering test"
+   },
+   "creator": {
+    "handle": "AI_Screening",
+    "name": "Pranav Reddy"
+   },
+   "original_post_url": "https://x.com/AI_Screening/status/2123164032882659819",
+   "posted_at": "2026-11-18T21:18:46.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 2160,
+     "height": 3310,
+     "duration_seconds": 14,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123163888606949376/img/RiY9cEZ3eFHE9CSV.jpg"
+    }
+   ],
+   "views": 73150,
+   "likes": 350,
+   "bookmarks": 66,
+   "views_checked_at": "2026-11-20T01:23:45.788Z",
+   "tools_reported": [
+    "Claude Opus 5.5",
+    "Three.js"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -1779,6 +1974,55 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123205954649100424",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "gpt"
+   ],
+   "title": {
+    "zh": "巨型闹鬼吸血鬼大教堂",
+    "en": "Huge haunted vampire cathedral"
+   },
+   "creator": {
+    "handle": "jan_volad",
+    "name": "Jan🌙"
+   },
+   "original_post_url": "https://x.com/jan_volad/status/2123205954649100424",
+   "posted_at": "2026-11-19T00:05:21.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 42,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123205744254136320/img/8s4mvbLkLqwFAUG1.jpg"
+    }
+   ],
+   "views": 64046,
+   "likes": 612,
+   "bookmarks": 182,
+   "views_checked_at": "2026-11-20T01:23:45.788Z",
+   "tools_reported": [
+    "GPT-6.2 Sol",
+    "Minecraft",
+    "Antigravity",
+    "Codex"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/jan_volad/status/2123205954649100424",
+    "length": 38,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2123205954649100424"
+   },
    "resources": []
   },
   {
@@ -2164,6 +2408,46 @@
    "resources": []
   },
   {
+   "id": "2123010696602391001",
+   "category": "scene3d",
+   "versions": [
+    "carbon"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "从黑暗中浮现的鳄鱼",
+    "en": "Crocodile rising out of the dark"
+   },
+   "creator": {
+    "handle": "kinderlayer",
+    "name": "Kinder"
+   },
+   "original_post_url": "https://x.com/kinderlayer/status/2123010696602391001",
+   "posted_at": "2026-11-18T11:09:28.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 720,
+     "height": 1280,
+     "duration_seconds": 30,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123010609411174400/img/Q0ts3wTEGcFt-EEA.jpg"
+    }
+   ],
+   "views": 52912,
+   "likes": 123,
+   "bookmarks": 63,
+   "views_checked_at": "2026-11-20T01:23:45.788Z",
+   "tools_reported": [
+    "Claude Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2115849659797373038",
    "category": "scene3d",
    "versions": [
@@ -2298,6 +2582,47 @@
    "resources": []
   },
   {
+   "id": "2123169627815698522",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "gpt"
+   ],
+   "title": {
+    "zh": "雨夜便利店",
+    "en": "Convenience store on a rainy night"
+   },
+   "creator": {
+    "handle": "Super_Nius",
+    "name": "Super Niu"
+   },
+   "original_post_url": "https://x.com/Super_Nius/status/2123169627815698522",
+   "posted_at": "2026-11-18T21:41:00.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1168,
+     "duration_seconds": 24,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123169492578738176/img/tAT60JuWoowjA5Rq.jpg"
+    }
+   ],
+   "views": 50607,
+   "likes": 112,
+   "bookmarks": 19,
+   "views_checked_at": "2026-11-20T01:23:45.788Z",
+   "tools_reported": [
+    "GPT 6.2 Sol",
+    "Claude Opus 5.5"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2122440859891409372",
    "category": "scene3d",
    "versions": [
@@ -2344,6 +2669,49 @@
     "length": 32,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2122440859891409372"
    },
+   "resources": []
+  },
+  {
+   "id": "2123171830739632189",
+   "category": "scene3d",
+   "versions": [
+    "hydrogen"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "三维建模测试",
+    "en": "3D modeling tests"
+   },
+   "creator": {
+    "handle": "SPAC89",
+    "name": "Iam_"
+   },
+   "original_post_url": "https://x.com/SPAC89/status/2123171830739632189",
+   "posted_at": "2026-11-18T21:49:45.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 30,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123170788958171137/img/07gyFATmB9JAAR0r.jpg"
+    }
+   ],
+   "views": 47848,
+   "likes": 447,
+   "bookmarks": 110,
+   "views_checked_at": "2026-11-20T01:23:45.788Z",
+   "tools_reported": [
+    "GPT 6.2 Astra",
+    "Claude Fable 5.2",
+    "Blender"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -2421,6 +2789,47 @@
    "views_checked_at": "2026-11-16T10:43:30.012Z",
    "tools_reported": [
     "Gemini 4 Argon"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123172429791129848",
+   "category": "scene3d",
+   "versions": [
+    "carbon",
+    "hydrogen"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "同提示词视觉细节测试",
+    "en": "Same-prompt visual detail test"
+   },
+   "creator": {
+    "handle": "notjazii",
+    "name": "J A Z I I"
+   },
+   "original_post_url": "https://x.com/notjazii/status/2123172429791129848",
+   "posted_at": "2026-11-18T21:52:08.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "gif",
+     "width": 1152,
+     "height": 1408,
+     "duration_seconds": 0,
+     "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HXcEoLAbwAA7XCT.jpg"
+    }
+   ],
+   "views": 46796,
+   "likes": 517,
+   "bookmarks": 145,
+   "views_checked_at": "2026-11-20T01:23:45.788Z",
+   "tools_reported": [
+    "Claude Opus 5.5"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -2856,6 +3265,46 @@
    "resources": [
     "https://pokeable.app/jelly/cube"
    ]
+  },
+  {
+   "id": "2122886670240669809",
+   "category": "ui",
+   "versions": [
+    "hydrogen"
+   ],
+   "compared_with": [
+    "deepseek"
+   ],
+   "title": {
+    "zh": "preStep 工作流程交互式可视化",
+    "en": "Interactive visualization of a preStep workflow"
+   },
+   "creator": {
+    "handle": "antiAIvo",
+    "name": "纳米AI"
+   },
+   "original_post_url": "https://x.com/antiAIvo/status/2122886670240669809",
+   "posted_at": "2026-11-18T02:56:38.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "gif",
+     "width": 1560,
+     "height": 852,
+     "duration_seconds": 0,
+     "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HXX_FPlaMAAp5Yn.jpg"
+    }
+   ],
+   "views": 38291,
+   "likes": 406,
+   "bookmarks": 383,
+   "views_checked_at": "2026-11-20T01:23:45.788Z",
+   "tools_reported": [
+    "DeepSeek Harness"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
   },
   {
    "id": "2106130557310468364",
