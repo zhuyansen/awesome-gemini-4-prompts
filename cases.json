@@ -4,8 +4,8 @@
  "released": "2026-10-14T00:00:00Z",
  "inclusion_rule": "Original post by the creator, media attached, >= 5000 views on that post, and the creator's own text says Gemini 4 (Argon, Carbon, Hydrogen, Krypton, Pro...) built it in code; same-prompt comparisons against other models included. Seeded on 2026-11-16 from the Claude 5.5 library. Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-20T01:23:45.788Z",
- "updated_at": "2026-11-20T01:28:59.664Z",
+ "stats_checked_at": "2026-11-21T01:27:58.126Z",
+ "updated_at": "2026-11-21T01:38:26.137Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -233,6 +233,56 @@
    "resources": []
   },
   {
+   "id": "2123324330172129294",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "代码动画转制的 GIF 动图",
+    "en": "Code-driven animations exported as GIFs"
+   },
+   "creator": {
+    "handle": "aiiii498",
+    "name": "Yarry"
+   },
+   "original_post_url": "https://x.com/aiiii498/status/2123324330172129294",
+   "posted_at": "2026-11-19T07:55:44.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "video",
+     "width": 460,
+     "height": 620,
+     "duration_seconds": 2,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123324307308957696/img/BrqZ4r6nqNHFgz8a.jpg"
+    },
+    {
+     "type": "video",
+     "width": 460,
+     "height": 620,
+     "duration_seconds": 2,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123324307342548992/img/E89SVU6DcNgIKIvp.jpg"
+    },
+    {
+     "type": "video",
+     "width": 460,
+     "height": 620,
+     "duration_seconds": 2,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123324307330019328/img/YeEU-Air_KZi3uGx.jpg"
+    }
+   ],
+   "views": 205945,
+   "likes": 3508,
+   "bookmarks": 2756,
+   "views_checked_at": "2026-11-21T01:27:58.126Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103730716853117183",
    "category": "physics",
    "versions": [
@@ -448,6 +498,54 @@
     "length": 516,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2110136719827747181"
    },
+   "resources": []
+  },
+  {
+   "id": "2123554016663834933",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "同一素材的视频剪辑结果",
+    "en": "Video editing results on the same clip"
+   },
+   "creator": {
+    "handle": "motion_so",
+    "name": "Motion"
+   },
+   "original_post_url": "https://x.com/motion_so/status/2123554016663834933",
+   "posted_at": "2026-11-19T23:08:25.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1620,
+     "height": 1004,
+     "duration_seconds": 32,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123553716792180737/img/af8GUvEjNlNx4TtN.jpg"
+    }
+   ],
+   "views": 158465,
+   "likes": 771,
+   "bookmarks": 806,
+   "views_checked_at": "2026-11-21T01:27:58.126Z",
+   "tools_reported": [
+    "Claude Opus 5.5",
+    "GPT-6.2",
+    "Motion",
+    "Adobe Premiere",
+    "Adobe After Effects",
+    "DaVinci Resolve",
+    "Final Cut Pro",
+    "YouTube"
+   ],
+   "reference_assets": true,
+   "prompt": null,
    "resources": []
   },
   {
@@ -694,6 +792,46 @@
    "resources": []
   },
   {
+   "id": "2123467103110078747",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "由单张图片生成的交互式霓虹雨景",
+    "en": "Interactive neon rain scene from a single image"
+   },
+   "creator": {
+    "handle": "ai_for_success",
+    "name": "AshutoshShrivastava"
+   },
+   "original_post_url": "https://x.com/ai_for_success/status/2123467103110078747",
+   "posted_at": "2026-11-19T17:23:04.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 3840,
+     "height": 2160,
+     "duration_seconds": 49,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123466356586868736/img/rmwG9F82AnaAJOmM.jpg"
+    }
+   ],
+   "views": 124248,
+   "likes": 2188,
+   "bookmarks": 1721,
+   "views_checked_at": "2026-11-21T01:27:58.126Z",
+   "tools_reported": [
+    "Three.js",
+    "Depth Anything V2 Large",
+    "Hugging Face"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110029722046631985",
    "category": "scene3d",
    "versions": [
@@ -814,6 +952,49 @@
    "views_checked_at": "2026-11-16T10:43:30.012Z",
    "tools_reported": [
     "Gemini 4 Argon"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123305001804333337",
+   "category": "physics",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "冰冻草莓融化模拟",
+    "en": "Frozen strawberry melting simulation"
+   },
+   "creator": {
+    "handle": "lemomo_ai",
+    "name": "Lemomo"
+   },
+   "original_post_url": "https://x.com/lemomo_ai/status/2123305001804333337",
+   "posted_at": "2026-11-19T06:38:56.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "video",
+     "width": 3840,
+     "height": 2160,
+     "duration_seconds": 20,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123304758681448448/img/5kkje1GFAGCUHR83.jpg"
+    }
+   ],
+   "views": 115432,
+   "likes": 444,
+   "bookmarks": 143,
+   "views_checked_at": "2026-11-21T01:27:58.126Z",
+   "tools_reported": [
+    "Claude Fable 5.2",
+    "Claude Opus 5.5",
+    "GPT-6.2 Astra"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -1937,6 +2118,52 @@
    "resources": []
   },
   {
+   "id": "2123305131206967571",
+   "category": "svg",
+   "versions": [
+    "carbon",
+    "hydrogen"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "骑自行车的鹈鹕",
+    "en": "Pelican riding a bicycle"
+   },
+   "creator": {
+    "handle": "simonw",
+    "name": "Simon Willison"
+   },
+   "original_post_url": "https://x.com/simonw/status/2123305131206967571",
+   "posted_at": "2026-11-19T06:39:27.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1800,
+     "height": 1435,
+     "duration_seconds": null,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXd-upcboAAffgZ?format=jpg&name=small"
+    }
+   ],
+   "views": 64847,
+   "likes": 676,
+   "bookmarks": 121,
+   "views_checked_at": "2026-11-21T01:27:58.126Z",
+   "tools_reported": [
+    "Three.js",
+    "OpenStreetMap"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "author_reply",
+    "source_url": "https://x.com/simonw/status/2123305792854217049",
+    "length": 170,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2123305131206967571"
+   },
+   "resources": []
+  },
+  {
    "id": "2115819373973708975",
    "category": "scene3d",
    "versions": [
@@ -2160,6 +2387,91 @@
    "resources": []
   },
   {
+   "id": "2123229845274653112",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "蓝牙电动牙刷电路设计",
+    "en": "Bluetooth electric toothbrush circuit design"
+   },
+   "creator": {
+    "handle": "seveibar",
+    "name": "Seve"
+   },
+   "original_post_url": "https://x.com/seveibar/status/2123229845274653112",
+   "posted_at": "2026-11-19T01:40:17.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 133,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123229355795259392/img/KavTSpnay2VCZvI1.jpg"
+    }
+   ],
+   "views": 60308,
+   "likes": 446,
+   "bookmarks": 172,
+   "views_checked_at": "2026-11-21T01:27:58.126Z",
+   "tools_reported": [
+    "Claude Opus 5.5",
+    "Sol 6.2",
+    "tscircuit"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123507543544680797",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "纯代码生成的 3D 渲染作品",
+    "en": "Code-built 3D renders"
+   },
+   "creator": {
+    "handle": "ivanainai",
+    "name": "Ivana"
+   },
+   "original_post_url": "https://x.com/ivanainai/status/2123507543544680797",
+   "posted_at": "2026-11-19T20:03:45.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1920,
+     "duration_seconds": 23,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123503840410415104/img/db-0aOCHr5Z27f0m.jpg"
+    }
+   ],
+   "views": 59887,
+   "likes": 202,
+   "bookmarks": 60,
+   "views_checked_at": "2026-11-21T01:27:58.126Z",
+   "tools_reported": [
+    "Claude Opus 5.5",
+    "GPT-6.2 Astra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2122221106304352257",
    "category": "mechanics",
    "versions": [
@@ -2247,6 +2559,49 @@
    "resources": []
   },
   {
+   "id": "2123455226191691813",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "新 AI 模型发布宣传视频",
+    "en": "Launch video for a new AI model"
+   },
+   "creator": {
+    "handle": "whydeso",
+    "name": "whydeso"
+   },
+   "original_post_url": "https://x.com/whydeso/status/2123455226191691813",
+   "posted_at": "2026-11-19T16:35:52.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1280,
+     "duration_seconds": 31,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123455178850410496/img/4MmIxvwHr0PfyxDj.jpg"
+    }
+   ],
+   "views": 57152,
+   "likes": 325,
+   "bookmarks": 120,
+   "views_checked_at": "2026-11-21T01:27:58.126Z",
+   "tools_reported": [
+    "GPT-6.2",
+    "Claude",
+    "GPT"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2116383410335907989",
    "category": "scene3d",
    "versions": [
@@ -2281,6 +2636,91 @@
    "bookmarks": 15,
    "views_checked_at": "2026-11-16T10:43:30.012Z",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123269503736070603",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "基于参考图制作的动态界面组件",
+    "en": "Animated UI components based on reference images"
+   },
+   "creator": {
+    "handle": "op7418",
+    "name": "歸藏(guizang.ai)"
+   },
+   "original_post_url": "https://x.com/op7418/status/2123269503736070603",
+   "posted_at": "2026-11-19T04:17:52.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 20,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123265671043928064/img/MoN4dsXxPuuehILe.jpg"
+    }
+   ],
+   "views": 56559,
+   "likes": 394,
+   "bookmarks": 216,
+   "views_checked_at": "2026-11-21T01:27:58.126Z",
+   "tools_reported": [
+    "Claude Opus 5.5",
+    "Claude",
+    "GPT",
+    "Antigravity"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123513643463815333",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "有悬崖和瀑布的高山风景",
+    "en": "Alpine landscape with cliffs and waterfall"
+   },
+   "creator": {
+    "handle": "EnvolDev",
+    "name": "Tony"
+   },
+   "original_post_url": "https://x.com/EnvolDev/status/2123513643463815333",
+   "posted_at": "2026-11-19T20:28:00.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1920,
+     "duration_seconds": 25,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123510890821828608/img/YARA_xtLYCItMJmE.jpg"
+    }
+   ],
+   "views": 54994,
+   "likes": 229,
+   "bookmarks": 94,
+   "views_checked_at": "2026-11-21T01:27:58.126Z",
+   "tools_reported": [
+    "GPT-6.2 Sol",
+    "Claude Opus 5.5"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -2442,6 +2882,85 @@
    "views_checked_at": "2026-11-20T01:23:45.788Z",
    "tools_reported": [
     "Claude Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123259795172212871",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "艺术风格蝴蝶场景",
+    "en": "Artistic butterflies"
+   },
+   "creator": {
+    "handle": "thtbee_",
+    "name": "Bee"
+   },
+   "original_post_url": "https://x.com/thtbee_/status/2123259795172212871",
+   "posted_at": "2026-11-19T03:39:18.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 53,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123229086801862656/img/ShwgTurijaxLPMM3.jpg"
+    }
+   ],
+   "views": 52749,
+   "likes": 584,
+   "bookmarks": 152,
+   "views_checked_at": "2026-11-21T01:27:58.126Z",
+   "tools_reported": [
+    "Three.js",
+    "Antigravity"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123406931075441111",
+   "category": "mechanics",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "gpt"
+   ],
+   "title": {
+    "zh": "喷气发动机模型",
+    "en": "Jet engine model"
+   },
+   "creator": {
+    "handle": "ivanainai",
+    "name": "Ivana"
+   },
+   "original_post_url": "https://x.com/ivanainai/status/2123406931075441111",
+   "posted_at": "2026-11-19T13:23:58.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1216,
+     "duration_seconds": 26,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123406866814275584/img/dwWlnl5fwSBpNPkT.jpg"
+    }
+   ],
+   "views": 52253,
+   "likes": 286,
+   "bookmarks": 75,
+   "views_checked_at": "2026-11-21T01:27:58.126Z",
+   "tools_reported": [
+    "GPT-6.2 Astra"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -2836,6 +3355,44 @@
    "resources": []
   },
   {
+   "id": "2123411465143009414",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "界面与交互测试",
+    "en": "UI and interaction test"
+   },
+   "creator": {
+    "handle": "amihai",
+    "name": "Amichai Mantinband"
+   },
+   "original_post_url": "https://x.com/amihai/status/2123411465143009414",
+   "posted_at": "2026-11-19T13:41:59.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 3840,
+     "height": 2160,
+     "duration_seconds": 25,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123409592491110400/img/vA6SACZ8Oqf3Lt-B.jpg"
+    }
+   ],
+   "views": 46475,
+   "likes": 780,
+   "bookmarks": 449,
+   "views_checked_at": "2026-11-21T01:27:58.126Z",
+   "tools_reported": [
+    "Brilliant.design"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2111501344750059978",
    "category": "scene3d",
    "versions": [
@@ -2914,6 +3471,85 @@
    "likes": 230,
    "bookmarks": 30,
    "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123414397980676214",
+   "category": "game",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "人类与球瓶互换的恐怖保龄球游戏",
+    "en": "Horror bowling game with humans as pins"
+   },
+   "creator": {
+    "handle": "bijanbowen",
+    "name": "BijanBowen"
+   },
+   "original_post_url": "https://x.com/bijanbowen/status/2123414397980676214",
+   "posted_at": "2026-11-19T13:53:38.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 3840,
+     "height": 2160,
+     "duration_seconds": 44,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123413864654016512/img/0HpTwvER6Au4EWfB.jpg"
+    }
+   ],
+   "views": 44562,
+   "likes": 1225,
+   "bookmarks": 216,
+   "views_checked_at": "2026-11-21T01:27:58.126Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123565303384932712",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "双指缩放调整文字详略",
+    "en": "Pinch to change text detail"
+   },
+   "creator": {
+    "handle": "illscience",
+    "name": "Anish Acharya"
+   },
+   "original_post_url": "https://x.com/illscience/status/2123565303384932712",
+   "posted_at": "2026-11-19T23:53:16.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1206,
+     "height": 2622,
+     "duration_seconds": 18,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123565213257732096/img/-buewcSMjlx6oz17.jpg"
+    },
+    {
+     "type": "video",
+     "width": 1206,
+     "height": 2622,
+     "duration_seconds": 17,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123565243322527744/img/kIIxLHkD-j0nFBli.jpg"
+    }
+   ],
+   "views": 43113,
+   "likes": 756,
+   "bookmarks": 482,
+   "views_checked_at": "2026-11-21T01:27:58.126Z",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -3630,6 +4266,48 @@
    "resources": []
   },
   {
+   "id": "2123279727935033355",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "像素巫师的世界",
+    "en": "A pixel wizard's world"
+   },
+   "creator": {
+    "handle": "thtbee_",
+    "name": "Bee"
+   },
+   "original_post_url": "https://x.com/thtbee_/status/2123279727935033355",
+   "posted_at": "2026-11-19T04:58:30.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 40,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123257848532766720/img/CUld4giIHy3msH7E.jpg"
+    }
+   ],
+   "views": 32150,
+   "likes": 607,
+   "bookmarks": 231,
+   "views_checked_at": "2026-11-21T01:27:58.126Z",
+   "tools_reported": [
+    "Claude Opus 5.5",
+    "Three.js",
+    "Antigravity"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110357629159854196",
    "category": "scene3d",
    "versions": [
@@ -3746,6 +4424,44 @@
    "bookmarks": 37,
    "views_checked_at": "2026-11-16T10:43:30.012Z",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123517124169834605",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "以火柴人演绎的 AI 实验室对决",
+    "en": "AI labs as stick figures"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2123517124169834605",
+   "posted_at": "2026-11-19T20:41:50.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 2048,
+     "height": 1092,
+     "duration_seconds": 63,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXg_VWfboAAwRBL.jpg"
+    }
+   ],
+   "views": 30770,
+   "likes": 728,
+   "bookmarks": 315,
+   "views_checked_at": "2026-11-21T01:27:58.126Z",
+   "tools_reported": [
+    "JavaScript"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -4125,6 +4841,42 @@
     "Gemini 4 Carbon",
     "GPT-6 Astra"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123276863481254210",
+   "category": "game",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "塔防游戏",
+    "en": "Tower defense game"
+   },
+   "creator": {
+    "handle": "DeryaTR_",
+    "name": "Derya Unutmaz, MD"
+   },
+   "original_post_url": "https://x.com/DeryaTR_/status/2123276863481254210",
+   "posted_at": "2026-11-19T04:47:07.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 94,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123276141884817408/img/Ue9_5121hi2Q0QHj.jpg"
+    }
+   ],
+   "views": 27569,
+   "likes": 521,
+   "bookmarks": 87,
+   "views_checked_at": "2026-11-21T01:27:58.126Z",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []

@@ -1,12 +1,13 @@
 # 3D scenes
 
-82 works, 22 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+88 works, 22 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
 | [3D generation comparison against Gemini 4 Carbon](https://x.com/Mr_Salio/status/2115538112004673599) | Carbon | Claude | [@Mr_Salio](https://x.com/Mr_Salio) | — |
 | [Voxel ship in a bottle](https://x.com/vib3coded/status/2110136719827747181) | Argon | Claude | [@vib3coded](https://x.com/vib3coded) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2110136719827747181) |
 | [3D whale breaching scene model comparison](https://x.com/Bhavani_00007/status/2110078803297055212) | Argon | Claude, GPT, Kimi | [@Bhavani_00007](https://x.com/Bhavani_00007) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2110078803297055212) |
+| [Interactive neon rain scene from a single image](https://x.com/ai_for_success/status/2123467103110078747) | Gemini 4 | — | [@ai_for_success](https://x.com/ai_for_success) | — |
 | [Gemini 4 Argon vs Opus 5.5 comparison](https://x.com/VulKan42069/status/2110029722046631985) | Argon | Claude | [@VulKan42069](https://x.com/VulKan42069) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2110029722046631985) |
 | [Opus 5.5 vs Gemini 4 vs GPT 6 comparison](https://x.com/rubenssoto_ai/status/2110192618269221048) | Argon | Claude, GPT | [@rubenssoto_ai](https://x.com/rubenssoto_ai) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2110192618269221048) |
 | [Multi-model Paris 1996 recreation comparison](https://x.com/RafaCrackYT/status/2111861310619029557) | Argon | Claude, DeepSeek, Grok | [@RafaCrackYT](https://x.com/RafaCrackYT) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2111861310619029557) |
@@ -23,10 +24,14 @@
 | [Side-by-side model output comparison](https://x.com/Haleeeemahh/status/2115819373973708975) | Carbon | Claude | [@Haleeeemahh](https://x.com/Haleeeemahh) | — |
 | [Huge haunted vampire cathedral](https://x.com/jan_volad/status/2123205954649100424) | Gemini 4 | GPT | [@jan_volad](https://x.com/jan_volad) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2123205954649100424) |
 | [Alpine Gold visual scene](https://x.com/EnvolDev/status/2122432152340209964) | Argon | Claude, GPT, Qwen | [@EnvolDev](https://x.com/EnvolDev) | — |
+| [Bluetooth electric toothbrush circuit design](https://x.com/seveibar/status/2123229845274653112) | Gemini 4 | Claude, GPT | [@seveibar](https://x.com/seveibar) | — |
+| [Code-built 3D renders](https://x.com/ivanainai/status/2123507543544680797) | Gemini 4 | Claude, GPT | [@ivanainai](https://x.com/ivanainai) | — |
 | [Side-by-side model output comparison](https://x.com/xKaka1456/status/2121623349386477877) | Krypton | Claude | [@xKaka1456](https://x.com/xKaka1456) | — |
 | [Frontier model matchup](https://x.com/RoundtableSpace/status/2116383410335907989) | Carbon | Claude, GPT | [@RoundtableSpace](https://x.com/RoundtableSpace) | — |
+| [Alpine landscape with cliffs and waterfall](https://x.com/EnvolDev/status/2123513643463815333) | Gemini 4 | Claude, GPT | [@EnvolDev](https://x.com/EnvolDev) | — |
 | [Pelican riding a bicycle side-by-side](https://x.com/leo114119/status/2116652334734332212) | Carbon | Claude | [@leo114119](https://x.com/leo114119) | — |
 | [Crocodile rising out of the dark](https://x.com/kinderlayer/status/2123010696602391001) | Carbon | Claude | [@kinderlayer](https://x.com/kinderlayer) | — |
+| [Artistic butterflies](https://x.com/thtbee_/status/2123259795172212871) | Gemini 4 | — | [@thtbee_](https://x.com/thtbee_) | — |
 | [Three.js model comparison](https://x.com/AI_Screening/status/2115849659797373038) | Argon | Claude | [@AI_Screening](https://x.com/AI_Screening) | — |
 | [Night train build comparison](https://x.com/EnvolDev/status/2110408289007604165) | Argon | Claude, GPT | [@EnvolDev](https://x.com/EnvolDev) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2110408289007604165) |
 | [Convenience store on a rainy night](https://x.com/Super_Nius/status/2123169627815698522) | Gemini 4 | GPT | [@Super_Nius](https://x.com/Super_Nius) | — |
@@ -40,6 +45,7 @@
 | [Eiffel Tower build benchmark across models](https://x.com/EnvolDev/status/2111580341626687586) | Argon | Claude, DeepSeek, Meta Muse | [@EnvolDev](https://x.com/EnvolDev) | — |
 | [3D grocery scene comparison](https://x.com/Avenoxai/status/2110249491140071834) | Argon | Claude | [@Avenoxai](https://x.com/Avenoxai) | — |
 | [Robotic eye 3D animation comparison](https://x.com/noclipepe/status/2115728069398757827) | Carbon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | — |
+| [A pixel wizard's world](https://x.com/thtbee_/status/2123279727935033355) | Gemini 4 | Claude | [@thtbee_](https://x.com/thtbee_) | — |
 | [Opus 5.5 vs Gemini 4 Argon lighting test](https://x.com/anxuanng/status/2110357629159854196) | Argon | Claude | [@anxuanng](https://x.com/anxuanng) | — |
 | [Lighting comparison: Gemini 4 Argon vs Claude Haiku 5.5](https://x.com/Da7_Tech/status/2110073840424358377) | Argon | Claude | [@Da7_Tech](https://x.com/Da7_Tech) | — |
 | [Voxel Pagoda: Gemini 4 Argon vs Opus 5.5](https://x.com/LuminaBench/status/2106156060163620924) | Argon | Claude | [@LuminaBench](https://x.com/LuminaBench) | — |

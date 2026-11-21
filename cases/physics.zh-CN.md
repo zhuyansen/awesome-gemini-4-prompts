@@ -1,11 +1,12 @@
 # 物理与材质
 
-共 23 个作品，其中 10 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 24 个作品，其中 10 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
 | [软糖熊软体物理场景](https://x.com/semichenkko/status/2110131790136401989) | Argon | Claude | [@semichenkko](https://x.com/semichenkko) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2110131790136401989) |
 | [水上飞机物理模拟：Gemini对比Opus](https://x.com/AI_Screening/status/2103730716853117183) | Pro | Claude | [@AI_Screening](https://x.com/AI_Screening) | — |
+| [冰冻草莓融化模拟](https://x.com/lemomo_ai/status/2123305001804333337) | Gemini 4 | Claude, GPT | [@lemomo_ai](https://x.com/lemomo_ai) | — |
 | [鸡尾酒晃动效果模型对比](https://x.com/ann_nnng/status/2110234900616126769) | Argon | Claude, GPT, Meta Muse | [@ann_nnng](https://x.com/ann_nnng) | — |
 | [彩虹果冻模拟效果对比](https://x.com/0xRhinoX/status/2115891194383200515) | Carbon | Claude | [@0xRhinoX](https://x.com/0xRhinoX) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2115891194383200515) |
 | [彩虹弹簧走楼梯模型测试](https://x.com/noclipepe/status/2110351087089647783) | Argon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | — |

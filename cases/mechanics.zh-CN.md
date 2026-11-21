@@ -1,6 +1,6 @@
 # 机械原理
 
-共 15 个作品，其中 4 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 16 个作品，其中 4 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -10,6 +10,7 @@
 | [手压泵物理效果对比](https://x.com/kinderlayer/status/2116857033659949157) | Argon | Claude, GPT, Grok | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [星形发动机动画模型对比](https://x.com/olezhavich/status/2116606788241969445) | Argon / Carbon | Claude, GPT | [@olezhavich](https://x.com/olezhavich) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2116606788241969445) |
 | [电动机原理剖面动画](https://x.com/analogalok/status/2122221106304352257) | Hydrogen | Qwen | [@analogalok](https://x.com/analogalok) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2122221106304352257) |
+| [喷气发动机模型](https://x.com/ivanainai/status/2123406931075441111) | Gemini 4 | GPT | [@ivanainai](https://x.com/ivanainai) | — |
 | [发动机构造模型对比](https://x.com/kinderlayer/status/2116486096771043419) | Argon | Claude, GPT, Grok | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [可交互的线粒体分子马达](https://x.com/SidraMiconi/status/2121745863827697687) | Hydrogen | — | [@SidraMiconi](https://x.com/SidraMiconi) | — |
 | [机械蜜蜂模型对比](https://x.com/thtbee_/status/2106050608599842846) | Argon | Claude, GPT | [@thtbee_](https://x.com/thtbee_) | — |

@@ -1,10 +1,11 @@
 # SVG 绘图
 
-共 12 个作品，其中 1 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 13 个作品，其中 2 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
 | [按参考画风用代码绘制的插画](https://x.com/vamsibatchuk/status/2121788887823778297) | Hydrogen | — | [@vamsibatchuk](https://x.com/vamsibatchuk) | — |
+| [骑自行车的鹈鹕](https://x.com/simonw/status/2123305131206967571) | Carbon / Hydrogen | — | [@simonw](https://x.com/simonw) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2123305131206967571) |
 | [骑马的斑马与鹈鹕](https://x.com/RezAIT00/status/2122353119749361808) | Hydrogen | Claude, GPT, Qwen | [@RezAIT00](https://x.com/RezAIT00) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2122353119749361808) |
 | [女孩与猫的双人自行车 SVG](https://x.com/marcthecreatorr/status/2120956699951628637) | Hydrogen | Claude | [@marcthecreatorr](https://x.com/marcthecreatorr) | — |
 | [SVG骑车鹈鹕：Gemini 4 与 Opus 5.5 对比](https://x.com/LuminaBench/status/2106130557310468364) | Argon | Claude | [@LuminaBench](https://x.com/LuminaBench) | — |

@@ -1,12 +1,13 @@
 # 3D 场景
 
-共 82 个作品，其中 22 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 88 个作品，其中 22 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
 | [与 Gemini 4 Carbon 的 3D 生成对比](https://x.com/Mr_Salio/status/2115538112004673599) | Carbon | Claude | [@Mr_Salio](https://x.com/Mr_Salio) | — |
 | [瓶中船体素场景](https://x.com/vib3coded/status/2110136719827747181) | Argon | Claude | [@vib3coded](https://x.com/vib3coded) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2110136719827747181) |
 | [3D鲸鱼跃水场景模型对比](https://x.com/Bhavani_00007/status/2110078803297055212) | Argon | Claude, GPT, Kimi | [@Bhavani_00007](https://x.com/Bhavani_00007) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2110078803297055212) |
+| [由单张图片生成的交互式霓虹雨景](https://x.com/ai_for_success/status/2123467103110078747) | Gemini 4 | — | [@ai_for_success](https://x.com/ai_for_success) | — |
 | [Gemini 4 Argon对比Opus 5.5](https://x.com/VulKan42069/status/2110029722046631985) | Argon | Claude | [@VulKan42069](https://x.com/VulKan42069) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2110029722046631985) |
 | [Opus 5.5对比Gemini 4与GPT 6](https://x.com/rubenssoto_ai/status/2110192618269221048) | Argon | Claude, GPT | [@rubenssoto_ai](https://x.com/rubenssoto_ai) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2110192618269221048) |
 | [多模型复刻1996年巴黎对比](https://x.com/RafaCrackYT/status/2111861310619029557) | Argon | Claude, DeepSeek, Grok | [@RafaCrackYT](https://x.com/RafaCrackYT) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2111861310619029557) |
@@ -23,10 +24,14 @@
 | [模型输出并排对比](https://x.com/Haleeeemahh/status/2115819373973708975) | Carbon | Claude | [@Haleeeemahh](https://x.com/Haleeeemahh) | — |
 | [巨型闹鬼吸血鬼大教堂](https://x.com/jan_volad/status/2123205954649100424) | Gemini 4 | GPT | [@jan_volad](https://x.com/jan_volad) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2123205954649100424) |
 | [Alpine Gold 视觉场景](https://x.com/EnvolDev/status/2122432152340209964) | Argon | Claude, GPT, Qwen | [@EnvolDev](https://x.com/EnvolDev) | — |
+| [蓝牙电动牙刷电路设计](https://x.com/seveibar/status/2123229845274653112) | Gemini 4 | Claude, GPT | [@seveibar](https://x.com/seveibar) | — |
+| [纯代码生成的 3D 渲染作品](https://x.com/ivanainai/status/2123507543544680797) | Gemini 4 | Claude, GPT | [@ivanainai](https://x.com/ivanainai) | — |
 | [模型输出并排对比](https://x.com/xKaka1456/status/2121623349386477877) | Krypton | Claude | [@xKaka1456](https://x.com/xKaka1456) | — |
 | [前沿模型对比](https://x.com/RoundtableSpace/status/2116383410335907989) | Carbon | Claude, GPT | [@RoundtableSpace](https://x.com/RoundtableSpace) | — |
+| [有悬崖和瀑布的高山风景](https://x.com/EnvolDev/status/2123513643463815333) | Gemini 4 | Claude, GPT | [@EnvolDev](https://x.com/EnvolDev) | — |
 | [鹈鹕骑自行车并排对比](https://x.com/leo114119/status/2116652334734332212) | Carbon | Claude | [@leo114119](https://x.com/leo114119) | — |
 | [从黑暗中浮现的鳄鱼](https://x.com/kinderlayer/status/2123010696602391001) | Carbon | Claude | [@kinderlayer](https://x.com/kinderlayer) | — |
+| [艺术风格蝴蝶场景](https://x.com/thtbee_/status/2123259795172212871) | Gemini 4 | — | [@thtbee_](https://x.com/thtbee_) | — |
 | [Three.js模型对比测试](https://x.com/AI_Screening/status/2115849659797373038) | Argon | Claude | [@AI_Screening](https://x.com/AI_Screening) | — |
 | [夜间列车模型对比](https://x.com/EnvolDev/status/2110408289007604165) | Argon | Claude, GPT | [@EnvolDev](https://x.com/EnvolDev) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2110408289007604165) |
 | [雨夜便利店](https://x.com/Super_Nius/status/2123169627815698522) | Gemini 4 | GPT | [@Super_Nius](https://x.com/Super_Nius) | — |
@@ -40,6 +45,7 @@
 | [埃菲尔铁塔建造模型基准对比](https://x.com/EnvolDev/status/2111580341626687586) | Argon | Claude, DeepSeek, Meta Muse | [@EnvolDev](https://x.com/EnvolDev) | — |
 | [3D果蔬店场景对比](https://x.com/Avenoxai/status/2110249491140071834) | Argon | Claude | [@Avenoxai](https://x.com/Avenoxai) | — |
 | [机械眼三维动画对比](https://x.com/noclipepe/status/2115728069398757827) | Carbon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | — |
+| [像素巫师的世界](https://x.com/thtbee_/status/2123279727935033355) | Gemini 4 | Claude | [@thtbee_](https://x.com/thtbee_) | — |
 | [Opus 5.5对比Gemini 4 Argon灯光效果](https://x.com/anxuanng/status/2110357629159854196) | Argon | Claude | [@anxuanng](https://x.com/anxuanng) | — |
 | [灯光效果对比：Gemini 4 Argon对比Claude Haiku 5.5](https://x.com/Da7_Tech/status/2110073840424358377) | Argon | Claude | [@Da7_Tech](https://x.com/Da7_Tech) | — |
 | [体素宝塔：Gemini 4 Argon 与 Opus 5.5 对比](https://x.com/LuminaBench/status/2106156060163620924) | Argon | Claude | [@LuminaBench](https://x.com/LuminaBench) | — |
