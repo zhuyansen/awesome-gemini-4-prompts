@@ -1,6 +1,6 @@
 # Animation
 
-25 works, 3 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+32 works, 4 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -14,16 +14,23 @@
 | [Code-driven self-introduction motion graphics](https://x.com/chetaslua/status/2123219124260315301) | Gemini 4 | — | [@chetaslua](https://x.com/chetaslua) | — |
 | [Pelican riding a bicycle animation](https://x.com/chetaslua/status/2121885449509851415) | Carbon / Hydrogen | — | [@chetaslua](https://x.com/chetaslua) | — |
 | [Motion design for a pelican product](https://x.com/chetaslua/status/2123184113561817370) | Gemini 4 | — | [@chetaslua](https://x.com/chetaslua) | — |
+| [ASCII pelican riding a bicycle](https://x.com/chetaslua/status/2123831991061840145) | Gemini 4 | — | [@chetaslua](https://x.com/chetaslua) | — |
 | [Four-model animation benchmark](https://x.com/higgsfield_ai/status/2111526194248286413) | Argon | Claude, GPT, DeepSeek | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
 | [Claude vs Gemini roast battle](https://x.com/whydeso/status/2110649723497394405) | Argon | Claude | [@whydeso](https://x.com/whydeso) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2110649723497394405) |
 | [Launch video for a new AI model](https://x.com/whydeso/status/2123455226191691813) | Gemini 4 | Claude, GPT | [@whydeso](https://x.com/whydeso) | — |
 | [Zombie hand model comparison](https://x.com/noclipepe/status/2116445289468850366) | Carbon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2116445289468850366) |
 | [Bird to panther single-shot transformation](https://x.com/kinderlayer/status/2115496867681247275) | Argon | Claude | [@kinderlayer](https://x.com/kinderlayer) | — |
+| [Life in the eyes of a squirrel animation](https://x.com/DanielZambrini/status/2123891957529510012) | Gemini 4 | Claude, GPT | [@DanielZambrini](https://x.com/DanielZambrini) | — |
 | [Tiny character animation comparison](https://x.com/0xPorterio/status/2116108534051905642) | Carbon | Claude | [@0xPorterio](https://x.com/0xPorterio) | — |
 | [Ink style animation comparison](https://x.com/renoiseai/status/2110290068514762969) | Argon | Claude | [@renoiseai](https://x.com/renoiseai) | — |
 | [AI labs as stick figures](https://x.com/chetaslua/status/2123517124169834605) | Gemini 4 | — | [@chetaslua](https://x.com/chetaslua) | — |
 | [Ink-style cinematic animation comparison](https://x.com/higgsfield_ai/status/2110530184550236232) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
+| [The world through a squirrel's eyes animation](https://x.com/DanielZambrini/status/2123832990598045903) | Gemini 4 | — | [@DanielZambrini](https://x.com/DanielZambrini) | — |
 | [Ink-style animation storytelling comparison](https://x.com/higgsfield_ai/status/2110436743589876093) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
+| [Stickman war fight sequence](https://x.com/chetaslua/status/2123720700670398680) | Gemini 4 | — | [@chetaslua](https://x.com/chetaslua) | — |
+| [One-shot model debut motion sequence](https://x.com/liu8in/status/2123948163539329148) | Gemini 4 | Claude | [@liu8in](https://x.com/liu8in) | — |
+| [Promotional video style animation](https://x.com/hernes_vr/status/2123941250797908029) | Gemini 4 | — | [@hernes_vr](https://x.com/hernes_vr) | — |
+| [64KB single-file code demo with generated music](https://x.com/Avenoxai/status/2123782371505999968) | Gemini 4 | Claude | [@Avenoxai](https://x.com/Avenoxai) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2123782371505999968) |
 | [Rhino image comparison: Gemini vs Opus](https://x.com/kinderlayer/status/2112514831362175151) | Argon | Claude | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [Motion graphics model comparison](https://x.com/deweytn/status/2118809236046246316) | Hydrogen | Claude | [@deweytn](https://x.com/deweytn) | — |
 | [Animated puffin hat sequence](https://x.com/vamsibatchuk/status/2121846407950639541) | Hydrogen | — | [@vamsibatchuk](https://x.com/vamsibatchuk) | — |

@@ -1,6 +1,6 @@
 # SVG 绘图
 
-共 13 个作品，其中 2 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 15 个作品，其中 2 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -9,7 +9,9 @@
 | [骑马的斑马与鹈鹕](https://x.com/RezAIT00/status/2122353119749361808) | Hydrogen | Claude, GPT, Qwen | [@RezAIT00](https://x.com/RezAIT00) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2122353119749361808) |
 | [女孩与猫的双人自行车 SVG](https://x.com/marcthecreatorr/status/2120956699951628637) | Hydrogen | Claude | [@marcthecreatorr](https://x.com/marcthecreatorr) | — |
 | [SVG骑车鹈鹕：Gemini 4 与 Opus 5.5 对比](https://x.com/LuminaBench/status/2106130557310468364) | Argon | Claude | [@LuminaBench](https://x.com/LuminaBench) | — |
+| [绘制草莓对比测试](https://x.com/AIMind_Ai/status/2123816445180088544) | Carbon | Claude | [@AIMind_Ai](https://x.com/AIMind_Ai) | — |
 | [SVG 绘制的 GTA VI 游戏画面](https://x.com/lyraxana/status/2121694698267976039) | Argon / Carbon / Krypton | — | [@lyraxana](https://x.com/lyraxana) | — |
+| [代码绘制插画延时展示](https://x.com/chetaslua/status/2123895603973537832) | Gemini 4 | — | [@chetaslua](https://x.com/chetaslua) | — |
 | [SVG 插画演示](https://x.com/Angaisb_/status/2122762815757017410) | Carbon | GPT | [@Angaisb_](https://x.com/Angaisb_) | — |
 | [瑞克 SVG 生成对比](https://x.com/dummerspast39/status/2113497132841799858) | Carbon | Claude | [@dummerspast39](https://x.com/dummerspast39) | — |
 | [Google 表格中的代码绘画](https://x.com/vamsibatchuk/status/2122818435381948724) | Hydrogen | — | [@vamsibatchuk](https://x.com/vamsibatchuk) | — |

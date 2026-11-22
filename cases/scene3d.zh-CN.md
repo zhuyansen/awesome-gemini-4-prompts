@@ -1,11 +1,13 @@
 # 3D 场景
 
-共 88 个作品，其中 22 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 95 个作品，其中 25 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
 | [与 Gemini 4 Carbon 的 3D 生成对比](https://x.com/Mr_Salio/status/2115538112004673599) | Carbon | Claude | [@Mr_Salio](https://x.com/Mr_Salio) | — |
+| [水上飞机降落波拉波拉岛 3D 场景](https://x.com/eliadele/status/2123878763624857693) | Gemini 4 | Claude, GPT | [@eliadele](https://x.com/eliadele) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2123878763624857693) |
 | [瓶中船体素场景](https://x.com/vib3coded/status/2110136719827747181) | Argon | Claude | [@vib3coded](https://x.com/vib3coded) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2110136719827747181) |
+| [雨夜京都小巷写实 3D 场景](https://x.com/mizugame_22/status/2123756243827486822) | Gemini 4 | Claude, GPT | [@mizugame_22](https://x.com/mizugame_22) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2123756243827486822) |
 | [3D鲸鱼跃水场景模型对比](https://x.com/Bhavani_00007/status/2110078803297055212) | Argon | Claude, GPT, Kimi | [@Bhavani_00007](https://x.com/Bhavani_00007) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2110078803297055212) |
 | [由单张图片生成的交互式霓虹雨景](https://x.com/ai_for_success/status/2123467103110078747) | Gemini 4 | — | [@ai_for_success](https://x.com/ai_for_success) | — |
 | [Gemini 4 Argon对比Opus 5.5](https://x.com/VulKan42069/status/2110029722046631985) | Argon | Claude | [@VulKan42069](https://x.com/VulKan42069) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2110029722046631985) |
@@ -14,6 +16,7 @@
 | [小鸡过马路测试](https://x.com/whydeso/status/2110251841439084738) | Argon | Claude | [@whydeso](https://x.com/whydeso) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2110251841439084738) |
 | [鲸鱼跃出水面场景对比](https://x.com/Bhavani_00007/status/2113727486580449755) | Argon | Claude, GPT, Kimi | [@Bhavani_00007](https://x.com/Bhavani_00007) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2113727486580449755) |
 | [四模型竞技场对比](https://x.com/Haleeeemahh/status/2113360370811470100) | Argon / Carbon | Claude, Kimi, Qwen | [@Haleeeemahh](https://x.com/Haleeeemahh) | — |
+| [四款模型生成效果对比](https://x.com/jony_palino/status/2123889278501495127) | Gemini 4 | Claude, GPT, DeepSeek | [@jony_palino](https://x.com/jony_palino) | — |
 | [埃菲尔铁塔建模的跨模型对比](https://x.com/AIMind_Ai/status/2111058514311336244) | Argon | Claude | [@AIMind_Ai](https://x.com/AIMind_Ai) | — |
 | [Opus 5.5对比Gemini 4与GPT 6](https://x.com/AdityaJhajhar12/status/2110223026549850196) | Argon | Claude, GPT | [@AdityaJhajhar12](https://x.com/AdityaJhajhar12) | — |
 | [Gemini 4 Argon 与 Opus 5.5 同题测试对比](https://x.com/Adidotdev/status/2110047989280670072) | Argon | Claude | [@Adidotdev](https://x.com/Adidotdev) | — |
@@ -42,6 +45,7 @@
 | [两款AI模型视觉效果对比](https://x.com/HarshithLucky3/status/2103821120009048245) | Pro | Claude | [@HarshithLucky3](https://x.com/HarshithLucky3) | — |
 | [萤火虫罐场景对比](https://x.com/0xRhinoX/status/2110382089476407630) | Argon | Claude | [@0xRhinoX](https://x.com/0xRhinoX) | — |
 | [冰雕大象](https://x.com/kinderlayer/status/2122290663643353165) | Argon | Claude | [@kinderlayer](https://x.com/kinderlayer) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2122290663643353165) |
+| [夜间飞机起飞场景](https://x.com/SamgreyAi/status/2123898746329071698) | Gemini 4 | Claude, GPT | [@SamgreyAi](https://x.com/SamgreyAi) | — |
 | [埃菲尔铁塔建造模型基准对比](https://x.com/EnvolDev/status/2111580341626687586) | Argon | Claude, DeepSeek, Meta Muse | [@EnvolDev](https://x.com/EnvolDev) | — |
 | [3D果蔬店场景对比](https://x.com/Avenoxai/status/2110249491140071834) | Argon | Claude | [@Avenoxai](https://x.com/Avenoxai) | — |
 | [机械眼三维动画对比](https://x.com/noclipepe/status/2115728069398757827) | Carbon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | — |
@@ -56,12 +60,15 @@
 | [三款模型Three.js场景测试对比](https://x.com/AI_Screening/status/2113184121883435047) | Carbon | Claude, GPT | [@AI_Screening](https://x.com/AI_Screening) | — |
 | [多模型赛博朋克角色对比](https://x.com/gtanczyk/status/2111932183946449162) | Argon | Claude, GPT, Grok, Meta Muse | [@gtanczyk](https://x.com/gtanczyk) | — |
 | [霸王龙尝试骑自行车动画对比](https://x.com/olezhavich/status/2116973463378248107) | Argon / Carbon | Claude, GPT | [@olezhavich](https://x.com/olezhavich) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2116973463378248107) |
+| [多模型并排输出效果对比](https://x.com/Da7_Tech/status/2123712489443713478) | Gemini 4 | Claude, GPT | [@Da7_Tech](https://x.com/Da7_Tech) | — |
 | [飞屋房子建模四模型对比测试](https://x.com/noclipepe/status/2121326233044537688) | Carbon / Hydrogen | Claude | [@noclipepe](https://x.com/noclipepe) | — |
+| [Blender 构建的氛围感三维场景](https://x.com/KanaWorks_AI/status/2123950255389749729) | Gemini 4 | — | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | — |
 | [四模型鹈鹕一次性任务对比](https://x.com/VulKan42069/status/2111793164474634612) | Argon | Claude, GPT, DeepSeek | [@VulKan42069](https://x.com/VulKan42069) | — |
 | [特斯拉跑车驾驶效果对比](https://x.com/RafaCrackYT/status/2112247645955895455) | Argon | Claude, DeepSeek, MiniMax | [@RafaCrackYT](https://x.com/RafaCrackYT) | — |
 | [死星三维场景](https://x.com/lyraxana/status/2121705327632511240) | Argon / Carbon / Krypton | — | [@lyraxana](https://x.com/lyraxana) | — |
 | [Gemini与GPT、Claude模型对比评测](https://x.com/masahirochaen/status/2110305558100128164) | Argon | Claude, GPT | [@masahirochaen](https://x.com/masahirochaen) | — |
 | [极光雪林中的狼](https://x.com/0xRhinoX/status/2122387800762810870) | Krypton | Claude, DeepSeek | [@0xRhinoX](https://x.com/0xRhinoX) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2122387800762810870) |
+| [雨后清晨京都千本鸟居与竹林漫步](https://x.com/teddyaisi/status/2123627618146959641) | Gemini 4 | GPT | [@teddyaisi](https://x.com/teddyaisi) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2123627618146959641) |
 | [战斗机3D建模对比](https://x.com/higgsfield_ai/status/2110416198085345694) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
 | [达芬奇工作室3D复原：双模型对比](https://x.com/techhalla/status/2110121002332295599) | Argon | Claude | [@techhalla](https://x.com/techhalla) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2110121002332295599) |
 | [四个模型生成灯塔场景对比](https://x.com/EnvolDev/status/2112995029337936362) | Argon | Claude, GPT, DeepSeek, MiniMax | [@EnvolDev](https://x.com/EnvolDev) | — |

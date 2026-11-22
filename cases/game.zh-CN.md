@@ -1,9 +1,10 @@
 # 游戏
 
-共 15 个作品，其中 1 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 16 个作品，其中 1 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
+| [堆叠精灵图伪 3D 像素游戏](https://x.com/_ryu15_/status/2123597998097899653) | Gemini 4 | — | [@_ryu15_](https://x.com/_ryu15_) | — |
 | [Chrome恐龙游戏模型对比](https://x.com/noclipepe/status/2115953941808550313) | Carbon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | — |
 | [射击游戏与三维世界交互演示合集](https://x.com/kimmonismus/status/2123168299890704735) | Gemini 4 | — | [@kimmonismus](https://x.com/kimmonismus) | — |
 | [Minecraft下界竞速模型对比](https://x.com/fawnunwrap/status/2110154463415558279) | Argon | Claude, GPT | [@fawnunwrap](https://x.com/fawnunwrap) | — |

@@ -1,6 +1,6 @@
 # Websites & UI
 
-14 works, 4 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+18 works, 4 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -15,6 +15,10 @@
 | [Nokia 3310 redesign comparison](https://x.com/AIMind_Ai/status/2117595286109315107) | Argon | Claude, GPT | [@AIMind_Ai](https://x.com/AIMind_Ai) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2117595286109315107) |
 | [Automatic music composition app](https://x.com/Awed_Urshy/status/2122161392828727738) | Hydrogen | — | [@Awed_Urshy](https://x.com/Awed_Urshy) | — |
 | [Galerie Nocturne CSS 3D museum walkthrough](https://x.com/MiaAI_lab/status/2110385278246654052) | Argon | Claude | [@MiaAI_lab](https://x.com/MiaAI_lab) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2110385278246654052) |
+| [Side-by-side build time comparison](https://x.com/Dav338876/status/2123811456525459754) | Gemini 4 | GPT | [@Dav338876](https://x.com/Dav338876) | — |
+| [Interactive web UI elements demo](https://x.com/csaba_kissi/status/2123727410642427904) | Gemini 4 | — | [@csaba_kissi](https://x.com/csaba_kissi) | — |
+| [Side-by-side build time and cost comparison](https://x.com/ZryMiller/status/2123921248191479993) | Gemini 4 | Claude | [@ZryMiller](https://x.com/ZryMiller) | — |
+| [Visual design aesthetic showcase](https://x.com/DDdxx666/status/2123854659513454740) | Gemini 4 | — | [@DDdxx666](https://x.com/DDdxx666) | — |
 | [Haunted house website comparison](https://x.com/keydol123/status/2116556350130163783) | Carbon | Claude | [@keydol123](https://x.com/keydol123) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2116556350130163783) |
 | [Interactive recorder guide](https://x.com/nin222/status/2121877676042682538) | Hydrogen | — | [@nin222](https://x.com/nin222) | — |
 | [Frontend pages across model versions](https://x.com/Lentils80/status/2121868841345237315) | Argon / Carbon / Krypton | — | [@Lentils80](https://x.com/Lentils80) | — |

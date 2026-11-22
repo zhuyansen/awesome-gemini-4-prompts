@@ -1,9 +1,10 @@
 # Games
 
-15 works, 1 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+16 works, 1 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
+| [Stacked-sprite pseudo-3D pixel game](https://x.com/_ryu15_/status/2123597998097899653) | Gemini 4 | — | [@_ryu15_](https://x.com/_ryu15_) | — |
 | [Chrome Dino model comparison](https://x.com/noclipepe/status/2115953941808550313) | Carbon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | — |
 | [Interactive demos with shooters and 3D worlds](https://x.com/kimmonismus/status/2123168299890704735) | Gemini 4 | — | [@kimmonismus](https://x.com/kimmonismus) | — |
 | [Minecraft nether race model comparison](https://x.com/fawnunwrap/status/2110154463415558279) | Argon | Claude, GPT | [@fawnunwrap](https://x.com/fawnunwrap) | — |

@@ -4,8 +4,8 @@
  "released": "2026-10-14T00:00:00Z",
  "inclusion_rule": "Original post by the creator, media attached, >= 5000 views on that post, and the creator's own text says Gemini 4 (Argon, Carbon, Hydrogen, Krypton, Pro...) built it in code; same-prompt comparisons against other models included. Seeded on 2026-11-16 from the Claude 5.5 library. Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-21T01:27:58.126Z",
- "updated_at": "2026-11-21T01:38:26.137Z",
+ "stats_checked_at": "2026-11-22T01:28:17.734Z",
+ "updated_at": "2026-11-22T01:43:51.750Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -455,6 +455,57 @@
    "resources": []
   },
   {
+   "id": "2123878763624857693",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "水上飞机降落波拉波拉岛 3D 场景",
+    "en": "Seaplane landing over Bora Bora in 3D"
+   },
+   "creator": {
+    "handle": "eliadele",
+    "name": "Elia De Leo"
+   },
+   "original_post_url": "https://x.com/eliadele/status/2123878763624857693",
+   "posted_at": "2026-11-20T20:38:51.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1600,
+     "height": 1200,
+     "duration_seconds": 76,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123878694540419072/img/wsLz7tTa9pItro4G.jpg"
+    }
+   ],
+   "views": 186544,
+   "likes": 761,
+   "bookmarks": 334,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [
+    "Claude Opus 5.5",
+    "GPT-6.2 Astra",
+    "Claude Fable 5.2",
+    "Three.js",
+    "OutputBench"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/eliadele/status/2123878763624857693",
+    "length": 96,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2123878763624857693"
+   },
+   "resources": []
+  },
+  {
    "id": "2110136719827747181",
    "category": "scene3d",
    "versions": [
@@ -596,6 +647,59 @@
    "resources": []
   },
   {
+   "id": "2123756243827486822",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "雨夜京都小巷写实 3D 场景",
+    "en": "Rainy night Kyoto alley 3D scene"
+   },
+   "creator": {
+    "handle": "mizugame_22",
+    "name": "MizuGame｜無駄にガチなAI使い"
+   },
+   "original_post_url": "https://x.com/mizugame_22/status/2123756243827486822",
+   "posted_at": "2026-11-20T12:32:00.000Z",
+   "language": "ja",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1920,
+     "duration_seconds": 13,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123756217856339968/img/RZVgvm13zOwM1QpC.jpg"
+    }
+   ],
+   "views": 144826,
+   "likes": 780,
+   "bookmarks": 507,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [
+    "Claude Fable 5.2",
+    "GPT-6.2 Astra",
+    "Blender",
+    "Poly Haven",
+    "Claude Code",
+    "Codex",
+    "Antigravity"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/mizugame_22/status/2123756243827486822",
+    "length": 25,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2123756243827486822"
+   },
+   "resources": []
+  },
+  {
    "id": "2110078803297055212",
    "category": "scene3d",
    "versions": [
@@ -728,6 +832,44 @@
     "length": 3937,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2117276551247278264"
    },
+   "resources": []
+  },
+  {
+   "id": "2123597998097899653",
+   "category": "game",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "堆叠精灵图伪 3D 像素游戏",
+    "en": "Stacked-sprite pseudo-3D pixel game"
+   },
+   "creator": {
+    "handle": "_ryu15_",
+    "name": "Ryu"
+   },
+   "original_post_url": "https://x.com/_ryu15_/status/2123597998097899653",
+   "posted_at": "2026-11-20T02:03:11.000Z",
+   "language": "ja",
+   "media": [
+    {
+     "type": "video",
+     "width": 1280,
+     "height": 720,
+     "duration_seconds": 18,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123597409590902784/img/LRTjKwGNN0zeseRk.jpg"
+    }
+   ],
+   "views": 128530,
+   "likes": 1823,
+   "bookmarks": 1664,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [
+    "Nano Banana"
+   ],
+   "reference_assets": true,
+   "prompt": null,
    "resources": []
   },
   {
@@ -1670,6 +1812,50 @@
    "resources": []
   },
   {
+   "id": "2123889278501495127",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt",
+    "deepseek"
+   ],
+   "title": {
+    "zh": "四款模型生成效果对比",
+    "en": "Four-model output comparison"
+   },
+   "creator": {
+    "handle": "jony_palino",
+    "name": "Jony Palino"
+   },
+   "original_post_url": "https://x.com/jony_palino/status/2123889278501495127",
+   "posted_at": "2026-11-20T21:20:38.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 2160,
+     "height": 2160,
+     "duration_seconds": 16,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123888706998218752/img/CQjHSkLgljxTvNfG.jpg"
+    }
+   ],
+   "views": 85573,
+   "likes": 672,
+   "bookmarks": 126,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [
+    "GPT-6.2 Sol",
+    "DeepSeek V4.1 Flash",
+    "Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110351087089647783",
    "category": "physics",
    "versions": [
@@ -2161,6 +2347,42 @@
     "length": 170,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2123305131206967571"
    },
+   "resources": []
+  },
+  {
+   "id": "2123831991061840145",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "ASCII 字符画骑自行车的鹈鹕",
+    "en": "ASCII pelican riding a bicycle"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2123831991061840145",
+   "posted_at": "2026-11-20T17:33:00.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 3024,
+     "height": 1718,
+     "duration_seconds": 28,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123830970818412544/img/NGzQZ94Ls3mSKnKZ.jpg"
+    }
+   ],
+   "views": 64305,
+   "likes": 1307,
+   "bookmarks": 459,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -3477,6 +3699,48 @@
    "resources": []
   },
   {
+   "id": "2123891957529510012",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "松鼠视角下的生活短片",
+    "en": "Life in the eyes of a squirrel animation"
+   },
+   "creator": {
+    "handle": "DanielZambrini",
+    "name": "Daniel Zambrini"
+   },
+   "original_post_url": "https://x.com/DanielZambrini/status/2123891957529510012",
+   "posted_at": "2026-11-20T21:31:17.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1920,
+     "duration_seconds": 30,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123889572203421696/img/dqNZ4NyPyJW5DlHu.jpg"
+    }
+   ],
+   "views": 45260,
+   "likes": 281,
+   "bookmarks": 139,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [
+    "GPT-6.2 Astra",
+    "Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2123414397980676214",
    "category": "game",
    "versions": [
@@ -3770,6 +4034,48 @@
    "resources": []
   },
   {
+   "id": "2123898746329071698",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "夜间飞机起飞场景",
+    "en": "Airplane taking off at night"
+   },
+   "creator": {
+    "handle": "SamgreyAi",
+    "name": "Sam"
+   },
+   "original_post_url": "https://x.com/SamgreyAi/status/2123898746329071698",
+   "posted_at": "2026-11-20T21:58:15.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 736,
+     "height": 1200,
+     "duration_seconds": 10,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123898554414424064/img/HcUbNwfSS1jt5880.jpg"
+    }
+   ],
+   "views": 39245,
+   "likes": 107,
+   "bookmarks": 40,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [
+    "Opus 5.5",
+    "Astra 6.2"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110746878040055904",
    "category": "physics",
    "versions": [
@@ -3981,6 +4287,51 @@
    "resources": []
   },
   {
+   "id": "2123843882937155607",
+   "category": "mechanics",
+   "versions": [
+    "hydrogen",
+    "krypton"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "3D V12 发动机模型",
+    "en": "Interactive 3D V12 engine model"
+   },
+   "creator": {
+    "handle": "thtbee_",
+    "name": "Bee"
+   },
+   "original_post_url": "https://x.com/thtbee_/status/2123843882937155607",
+   "posted_at": "2026-11-20T18:20:15.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 58,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123843354048053249/img/yfHAPHGqnJwaUWgp.jpg"
+    }
+   ],
+   "views": 37841,
+   "likes": 948,
+   "bookmarks": 396,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/thtbee_/status/2123843882937155607",
+    "length": 46,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2123843882937155607"
+   },
+   "resources": []
+  },
+  {
    "id": "2111580341626687586",
    "category": "scene3d",
    "versions": [
@@ -4098,6 +4449,47 @@
     "Fable 5.2",
     "Gemini 4 Carbon",
     "GPT-6 Astra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123816445180088544",
+   "category": "svg",
+   "versions": [
+    "carbon"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "绘制草莓对比测试",
+    "en": "Drawing a strawberry comparison"
+   },
+   "creator": {
+    "handle": "AIMind_Ai",
+    "name": "AiMind"
+   },
+   "original_post_url": "https://x.com/AIMind_Ai/status/2123816445180088544",
+   "posted_at": "2026-11-20T16:31:13.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1350,
+     "duration_seconds": 31,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123816357686890496/img/DJF74xBBCg4xQ78R.jpg"
+    }
+   ],
+   "views": 35067,
+   "likes": 115,
+   "bookmarks": 53,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [
+    "Claude Opus 5.5",
+    "Claude Fable 5.2"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -4882,6 +5274,42 @@
    "resources": []
   },
   {
+   "id": "2123832990598045903",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "松鼠视角的世界动画",
+    "en": "The world through a squirrel's eyes animation"
+   },
+   "creator": {
+    "handle": "DanielZambrini",
+    "name": "Daniel Zambrini"
+   },
+   "original_post_url": "https://x.com/DanielZambrini/status/2123832990598045903",
+   "posted_at": "2026-11-20T17:36:58.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1152,
+     "height": 1440,
+     "duration_seconds": 30,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123832210214051840/img/vJkB2XsC3zVTxVuX.jpg"
+    }
+   ],
+   "views": 27461,
+   "likes": 231,
+   "bookmarks": 97,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2111932183946449162",
    "category": "scene3d",
    "versions": [
@@ -5015,6 +5443,48 @@
     "length": 2406,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2116973463378248107"
    },
+   "resources": []
+  },
+  {
+   "id": "2123712489443713478",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "多模型并排输出效果对比",
+    "en": "Side-by-side model output comparison"
+   },
+   "creator": {
+    "handle": "Da7_Tech",
+    "name": "Da7em"
+   },
+   "original_post_url": "https://x.com/Da7_Tech/status/2123712489443713478",
+   "posted_at": "2026-11-20T09:38:08.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 2560,
+     "height": 3984,
+     "duration_seconds": 29,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123711861975588864/img/CgPGhUHHYcfjQc6a.jpg"
+    }
+   ],
+   "views": 26935,
+   "likes": 228,
+   "bookmarks": 43,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [
+    "Claude Fable 5.2",
+    "GPT-6.2 Astra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -5351,6 +5821,44 @@
     "length": 1005,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2110385278246654052"
    },
+   "resources": []
+  },
+  {
+   "id": "2123950255389749729",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "Blender 构建的氛围感三维场景",
+    "en": "Atmospheric 3D scene built in Blender"
+   },
+   "creator": {
+    "handle": "KanaWorks_AI",
+    "name": "KANA｜東京AI映像"
+   },
+   "original_post_url": "https://x.com/KanaWorks_AI/status/2123950255389749729",
+   "posted_at": "2026-11-21T01:22:56.000Z",
+   "language": "ja",
+   "media": [
+    {
+     "type": "video",
+     "width": 1280,
+     "height": 720,
+     "duration_seconds": 37,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123949928661872640/img/iLlKWm8uGhUSGzbK.jpg"
+    }
+   ],
+   "views": 24852,
+   "likes": 368,
+   "bookmarks": 268,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [
+    "Blender 5.3"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -5713,6 +6221,53 @@
    "resources": []
   },
   {
+   "id": "2123627618146959641",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "gpt"
+   ],
+   "title": {
+    "zh": "雨后清晨京都千本鸟居与竹林漫步",
+    "en": "Dawn walk through Kyoto Torii path and bamboo grove"
+   },
+   "creator": {
+    "handle": "teddyaisi",
+    "name": "Teddy"
+   },
+   "original_post_url": "https://x.com/teddyaisi/status/2123627618146959641",
+   "posted_at": "2026-11-20T04:00:53.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1280,
+     "height": 1440,
+     "duration_seconds": 20,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123627040813568000/img/qc0EuuPr8VdDshPx.jpg"
+    }
+   ],
+   "views": 21498,
+   "likes": 267,
+   "bookmarks": 83,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [
+    "GPT-6.2-Astra",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/teddyaisi/status/2123692665661444242",
+    "length": 1750,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2123627618146959641"
+   },
+   "resources": []
+  },
+  {
    "id": "2112249972850917704",
    "category": "sim",
    "versions": [
@@ -5749,6 +6304,46 @@
     "Gemini 4 Argon",
     "Blender",
     "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123811456525459754",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "gpt"
+   ],
+   "title": {
+    "zh": "双模型构建耗时对比",
+    "en": "Side-by-side build time comparison"
+   },
+   "creator": {
+    "handle": "Dav338876",
+    "name": "小梦梦"
+   },
+   "original_post_url": "https://x.com/Dav338876/status/2123811456525459754",
+   "posted_at": "2026-11-20T16:11:24.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "video",
+     "width": 1280,
+     "height": 1568,
+     "duration_seconds": 16,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123803679589605376/img/1a-Aryn84xR74xEK.jpg"
+    }
+   ],
+   "views": 20401,
+   "likes": 181,
+   "bookmarks": 72,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [
+    "GPT-6.2 Astra"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -5922,6 +6517,42 @@
    "resources": []
   },
   {
+   "id": "2123727410642427904",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "网页界面元素设计演示",
+    "en": "Interactive web UI elements demo"
+   },
+   "creator": {
+    "handle": "csaba_kissi",
+    "name": "Csaba Kissi"
+   },
+   "original_post_url": "https://x.com/csaba_kissi/status/2123727410642427904",
+   "posted_at": "2026-11-20T10:37:26.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1900,
+     "height": 2082,
+     "duration_seconds": 25,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123727277410181121/img/eEUtLAvqp5uxdGFP.jpg"
+    }
+   ],
+   "views": 19204,
+   "likes": 361,
+   "bookmarks": 230,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110436743589876093",
    "category": "motion",
    "versions": [
@@ -5957,6 +6588,46 @@
    "tools_reported": [
     "Higgsfield",
     "Gemini 4 Argon"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123921248191479993",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "双模型构建耗时与成本对比",
+    "en": "Side-by-side build time and cost comparison"
+   },
+   "creator": {
+    "handle": "ZryMiller",
+    "name": "Zach"
+   },
+   "original_post_url": "https://x.com/ZryMiller/status/2123921248191479993",
+   "posted_at": "2026-11-20T23:27:40.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1350,
+     "duration_seconds": 12,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123921165857239040/img/OZR7QbMjDS479k5i.jpg"
+    }
+   ],
+   "views": 18934,
+   "likes": 269,
+   "bookmarks": 53,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [
+    "Fable 5.2"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -6006,6 +6677,42 @@
     "length": 2130,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2121965512364331497"
    },
+   "resources": []
+  },
+  {
+   "id": "2123854659513454740",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "界面视觉审美效果展示",
+    "en": "Visual design aesthetic showcase"
+   },
+   "creator": {
+    "handle": "DDdxx666",
+    "name": "开源小新"
+   },
+   "original_post_url": "https://x.com/DDdxx666/status/2123854659513454740",
+   "posted_at": "2026-11-20T19:03:04.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "video",
+     "width": 2992,
+     "height": 2174,
+     "duration_seconds": 47,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123854295565316096/img/q6eTNQ9bf7ahQmz9.jpg"
+    }
+   ],
+   "views": 18451,
+   "likes": 131,
+   "bookmarks": 40,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -6149,6 +6856,45 @@
     "length": 29,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2116950986661171337"
    },
+   "resources": []
+  },
+  {
+   "id": "2123720700670398680",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "火柴人战斗动画序列",
+    "en": "Stickman war fight sequence"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2123720700670398680",
+   "posted_at": "2026-11-20T10:10:46.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 73,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXj4gtXaEAEZeqE.jpg"
+    }
+   ],
+   "views": 17941,
+   "likes": 358,
+   "bookmarks": 126,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [
+    "Three.js",
+    "Antigravity"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -6330,6 +7076,174 @@
     "source_url": "https://x.com/higgsfield_ai/status/2110415126964896155",
     "length": 61,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2110415126964896155"
+   },
+   "resources": []
+  },
+  {
+   "id": "2123948163539329148",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "单次生成发布宣传动画序列",
+    "en": "One-shot model debut motion sequence"
+   },
+   "creator": {
+    "handle": "liu8in",
+    "name": "Bin Liu"
+   },
+   "original_post_url": "https://x.com/liu8in/status/2123948163539329148",
+   "posted_at": "2026-11-21T01:14:37.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 24,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123944434253602816/img/k4hTFtG87lBKXDfn.jpg"
+    }
+   ],
+   "views": 17431,
+   "likes": 400,
+   "bookmarks": 113,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [
+    "Claude Opus 5.5",
+    "Google AI Studio",
+    "Gemini 3 Pro",
+    "HyperFrames"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123895603973537832",
+   "category": "svg",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "代码绘制插画延时展示",
+    "en": "Code-drawn illustration timelapse"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2123895603973537832",
+   "posted_at": "2026-11-20T21:45:46.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "gif",
+     "width": 560,
+     "height": 708,
+     "duration_seconds": 0,
+     "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HXmXYcXboAAGgEK.jpg"
+    },
+    {
+     "type": "photo",
+     "width": 992,
+     "height": 1200,
+     "duration_seconds": null,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXmXajxaoAAqp0B?format=jpg&name=small"
+    }
+   ],
+   "views": 17407,
+   "likes": 416,
+   "bookmarks": 180,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123941250797908029",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "宣传片风格动画",
+    "en": "Promotional video style animation"
+   },
+   "creator": {
+    "handle": "hernes_vr",
+    "name": "ヘルネス"
+   },
+   "original_post_url": "https://x.com/hernes_vr/status/2123941250797908029",
+   "posted_at": "2026-11-21T00:47:09.000Z",
+   "language": "ja",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 40,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXnCWM1b0AAspzF.jpg"
+    }
+   ],
+   "views": 16736,
+   "likes": 514,
+   "bookmarks": 163,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123782371505999968",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "64KB 单文件代码生成画面与音乐",
+    "en": "64KB single-file code demo with generated music"
+   },
+   "creator": {
+    "handle": "Avenoxai",
+    "name": "Avenox"
+   },
+   "original_post_url": "https://x.com/Avenoxai/status/2123782371505999968",
+   "posted_at": "2026-11-20T14:15:49.000Z",
+   "language": "tr",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 120,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123782253960654848/img/M510x4M5NOnvUBqG.jpg"
+    }
+   ],
+   "views": 16680,
+   "likes": 146,
+   "bookmarks": 59,
+   "views_checked_at": "2026-11-22T01:28:17.734Z",
+   "tools_reported": [
+    "Claude Opus"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/Avenoxai/status/2123782371505999968",
+    "length": 80,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2123782371505999968"
    },
    "resources": []
   },
