@@ -2,7 +2,7 @@
 
 [English](README.md) | 简体中文
 
-X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写代码**做出来的作品：3D 场景、物理与材质模拟、机械剖面、游戏、网页和 SVG。共 **223** 个，原帖播放都过 5,000，合计 11,931,949 次播放；其中 **176** 个是和 Claude、GPT 等模型的同题对比，**52** 个附作者公开的提示词（22 条完整提示词）。每天自动更新（最近一次：2026-11-22）。
+X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写代码**做出来的作品：3D 场景、物理与材质模拟、机械剖面、游戏、网页和 SVG。共 **247** 个，原帖播放都过 5,000，合计 12,586,425 次播放；其中 **187** 个是和 Claude、GPT 等模型的同题对比，**56** 个附作者公开的提示词（22 条完整提示词）。每天自动更新（最近一次：2026-11-23）。
 
 在线浏览（视频直接播放、提示词一键复制、按版本和对比对象筛选）：**[jasonzhu.ai/zh/prompts/gemini-4](https://jasonzhu.ai/zh/prompts/gemini-4)**
 
@@ -21,14 +21,14 @@ X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写�
   </tr>
 </table>
 
-[3D 场景](#3d-场景)（95） · [物理与材质](#物理与材质)（24） · [机械原理](#机械原理)（17） · [游戏](#游戏)（16） · [模拟系统](#模拟系统)（6） · [网页与界面](#网页与界面)（18） · [SVG 绘图](#svg-绘图)（15） · [动画短片](#动画短片)（32）
+[3D 场景](#3d-场景)（104） · [物理与材质](#物理与材质)（24） · [机械原理](#机械原理)（17） · [游戏](#游戏)（19） · [模拟系统](#模拟系统)（6） · [网页与界面](#网页与界面)（23） · [SVG 绘图](#svg-绘图)（16） · [动画短片](#动画短片)（38）
 
-- **版本**（一个帖子写了几个版本就各算一次）：Argon 109 · Carbon 53 · Gemini 4 42 · Hydrogen 29 · Krypton 9 · Pro 4
-- **同题对比的对象**：Claude 164 · GPT 71 · DeepSeek 13 · Grok 9 · Kimi 7 · Meta Muse 7 · Qwen 5 · MiniMax 5
+- **版本**（一个帖子写了几个版本就各算一次）：Argon 110 · Gemini 4 62 · Carbon 55 · Hydrogen 30 · Krypton 9 · Pro 4
+- **同题对比的对象**：Claude 171 · GPT 78 · DeepSeek 14 · Grok 10 · Kimi 7 · Meta Muse 7 · Qwen 5 · MiniMax 5
 
 ## 3D 场景
 
-95 个作品 · [完整清单](cases/scene3d.zh-CN.md)
+104 个作品 · [完整清单](cases/scene3d.zh-CN.md)
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写�
 
 ## 游戏
 
-16 个作品 · [完整清单](cases/game.zh-CN.md)
+19 个作品 · [完整清单](cases/game.zh-CN.md)
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写�
 
 ## 网页与界面
 
-18 个作品 · [完整清单](cases/ui.zh-CN.md)
+23 个作品 · [完整清单](cases/ui.zh-CN.md)
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -111,12 +111,12 @@ X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写�
 | [闹鬼房屋网站对比](https://x.com/keydol123/status/2116556350130163783) | Carbon | Claude | [@keydol123](https://x.com/keydol123) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2116556350130163783) |
 | [前端页面复刻对比](https://x.com/fiapp_pro/status/2122014257667846338) | Hydrogen | GPT | [@fiapp_pro](https://x.com/fiapp_pro) | — |
 | [AI 制作的界面对比](https://x.com/lengs4189/status/2122349952403927401) | Carbon | GPT | [@lengs4189](https://x.com/lengs4189) | — |
+| [多模型同提示词输出效果对比](https://x.com/JamesMalsawm/status/2123967133084516858) | Gemini 4 | Claude, GPT | [@JamesMalsawm](https://x.com/JamesMalsawm) | — |
 | [基于参考图制作的动态界面组件](https://x.com/op7418/status/2123269503736070603) | Gemini 4 | Claude | [@op7418](https://x.com/op7418) | — |
-| [无广告个性化电视界面](https://x.com/Saboo_Shubham_/status/2122033244627689692) | Carbon | — | [@Saboo_Shubham_](https://x.com/Saboo_Shubham_) | — |
 
 ## SVG 绘图
 
-15 个作品 · [完整清单](cases/svg.zh-CN.md)
+16 个作品 · [完整清单](cases/svg.zh-CN.md)
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -124,14 +124,14 @@ X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写�
 | [骑马的斑马与鹈鹕](https://x.com/RezAIT00/status/2122353119749361808) | Hydrogen | Claude, GPT, Qwen | [@RezAIT00](https://x.com/RezAIT00) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2122353119749361808) |
 | [按参考画风用代码绘制的插画](https://x.com/vamsibatchuk/status/2121788887823778297) | Hydrogen | — | [@vamsibatchuk](https://x.com/vamsibatchuk) | — |
 | [女孩与猫的双人自行车 SVG](https://x.com/marcthecreatorr/status/2120956699951628637) | Hydrogen | Claude | [@marcthecreatorr](https://x.com/marcthecreatorr) | — |
+| [鹈鹕矢量插画](https://x.com/simonw/status/2124217876777464269) | Hydrogen | — | [@simonw](https://x.com/simonw) | — |
 | [SVG骑车鹈鹕：Gemini 4 与 Opus 5.5 对比](https://x.com/LuminaBench/status/2106130557310468364) | Argon | Claude | [@LuminaBench](https://x.com/LuminaBench) | — |
 | [绘制草莓对比测试](https://x.com/AIMind_Ai/status/2123816445180088544) | Carbon | Claude | [@AIMind_Ai](https://x.com/AIMind_Ai) | — |
 | [SVG 绘制的 GTA VI 游戏画面](https://x.com/lyraxana/status/2121694698267976039) | Argon / Carbon / Krypton | — | [@lyraxana](https://x.com/lyraxana) | — |
-| [代码绘制插画延时展示](https://x.com/chetaslua/status/2123895603973537832) | Gemini 4 | — | [@chetaslua](https://x.com/chetaslua) | — |
 
 ## 动画短片
 
-32 个作品 · [完整清单](cases/motion.zh-CN.md)
+38 个作品 · [完整清单](cases/motion.zh-CN.md)
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写�
 
 ## 收录标准
 
-- 创作者本人的原帖，视频或图片是原帖自带的，原帖播放不低于 5,000（快照 2026-11-22）。
+- 创作者本人的原帖，视频或图片是原帖自带的，原帖播放不低于 5,000（快照 2026-11-23）。
 - 作者自己写的正文说用了 Gemini 4，只在引用别人帖子里提到的不算。只收 Gemini 4 写代码做出来的东西；Nano Banana、Imagen、Veo 直接出的图和视频不收。同题对比照收。
 - 版本按作者的写法标注。**模型归属以作者自述为准，没有逐条复现。**
 - 提示词只收作者本人公开的：原帖正文、作者自己的回复、回复里的截图、作者给的链接，原文照录。没公开提示词的作品照常收录，提示词一栏留空。

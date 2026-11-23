@@ -1,6 +1,6 @@
 # Games
 
-16 works, 1 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+19 works, 1 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -18,5 +18,8 @@
 | [Anime combat game dev comparison](https://x.com/higgsfield_ai/status/2110449758439723292) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
 | [Voxel-stacked sailing game](https://x.com/chetaslua/status/2122264764319666388) | Carbon | — | [@chetaslua](https://x.com/chetaslua) | — |
 | [Cyberpunk game dev comparison](https://x.com/higgsfield_ai/status/2110417458846916697) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
+| [3D endurance racing game](https://x.com/vamsibatchuk/status/2124254359831691388) | Carbon | — | [@vamsibatchuk](https://x.com/vamsibatchuk) | — |
+| [GTA-style open-world city game](https://x.com/ivanainai/status/2124273127614017837) | Gemini 4 | Claude | [@ivanainai](https://x.com/ivanainai) | — |
 | [Minecraft house and llama build comparison](https://x.com/nik_akki/status/2110807768550764628) | Argon | Claude | [@nik_akki](https://x.com/nik_akki) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2110807768550764628) |
+| [Mecha action combat prototype in Unity](https://x.com/ShadeLurk/status/2124017427914911930) | Carbon | — | [@ShadeLurk](https://x.com/ShadeLurk) | — |
 | [2D sandbox village game](https://x.com/marcthecreatorr/status/2122266495216459841) | Hydrogen | Qwen | [@marcthecreatorr](https://x.com/marcthecreatorr) | — |

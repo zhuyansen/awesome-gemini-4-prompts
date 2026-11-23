@@ -4,8 +4,8 @@
  "released": "2026-10-14T00:00:00Z",
  "inclusion_rule": "Original post by the creator, media attached, >= 5000 views on that post, and the creator's own text says Gemini 4 (Argon, Carbon, Hydrogen, Krypton, Pro...) built it in code; same-prompt comparisons against other models included. Seeded on 2026-11-16 from the Claude 5.5 library. Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-22T01:28:17.734Z",
- "updated_at": "2026-11-22T01:43:51.750Z",
+ "stats_checked_at": "2026-11-23T01:34:45.555Z",
+ "updated_at": "2026-11-23T01:57:47.325Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -1600,6 +1600,45 @@
    "resources": []
   },
   {
+   "id": "2124131378770182389",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "纯代码生成的音乐视频与合成歌声",
+    "en": "Pure-code music video with synthesized singing"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2124131378770182389",
+   "posted_at": "2026-11-21T13:22:39.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 3024,
+     "height": 1718,
+     "duration_seconds": 107,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124128736383787009/img/-pd6jXTzvw2hyFaB.jpg"
+    }
+   ],
+   "views": 94335,
+   "likes": 1200,
+   "bookmarks": 519,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "Antigravity",
+    "Fable"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110426709422133611",
    "category": "game",
    "versions": [
@@ -2472,6 +2511,49 @@
     "length": 38,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2123205954649100424"
    },
+   "resources": []
+  },
+  {
+   "id": "2123967133084516858",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "多模型同提示词输出效果对比",
+    "en": "Multi-model same-prompt visual output comparison"
+   },
+   "creator": {
+    "handle": "JamesMalsawm",
+    "name": "James Malsawm"
+   },
+   "original_post_url": "https://x.com/JamesMalsawm/status/2123967133084516858",
+   "posted_at": "2026-11-21T02:30:00.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 29,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123812719451344896/img/Qz63uH2_d1grf7DA.jpg"
+    }
+   ],
+   "views": 63776,
+   "likes": 274,
+   "bookmarks": 83,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "Claude Opus 5.5",
+    "Astra 6.2",
+    "Antigravity"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -3536,6 +3618,46 @@
    "resources": []
   },
   {
+   "id": "2124192968345338206",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "交互式 3D 神经角色演示",
+    "en": "Interactive 3D neural character demo"
+   },
+   "creator": {
+    "handle": "ai_for_success",
+    "name": "AshutoshShrivastava"
+   },
+   "original_post_url": "https://x.com/ai_for_success/status/2124192968345338206",
+   "posted_at": "2026-11-21T17:27:23.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 3840,
+     "height": 2160,
+     "duration_seconds": 60,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124192405142614016/img/HCBc-W6xg2B0AX3e.jpg"
+    }
+   ],
+   "views": 47000,
+   "likes": 1027,
+   "bookmarks": 956,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "Antigravity",
+    "NVIDIA MotionBricks",
+    "ONNX"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2123172429791129848",
    "category": "scene3d",
    "versions": [
@@ -3661,6 +3783,44 @@
    "resources": []
   },
   {
+   "id": "2124036193776263671",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "首次动态图形动画测试",
+    "en": "First motion graphics animation test"
+   },
+   "creator": {
+    "handle": "ogabezim",
+    "name": "Gabriel Zim"
+   },
+   "original_post_url": "https://x.com/ogabezim/status/2124036193776263671",
+   "posted_at": "2026-11-21T07:04:25.000Z",
+   "language": "pt",
+   "media": [
+    {
+     "type": "video",
+     "width": 720,
+     "height": 1280,
+     "duration_seconds": 30,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124036145830903809/img/zSUcx8dDOPvbuU5k.jpg"
+    }
+   ],
+   "views": 46199,
+   "likes": 495,
+   "bookmarks": 501,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "OpenMotion"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2103821120009048245",
    "category": "scene3d",
    "versions": [
@@ -3772,6 +3932,45 @@
    "bookmarks": 216,
    "views_checked_at": "2026-11-21T01:27:58.126Z",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124037902594387991",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "程序化法线贴图与 PBR 材质生成器",
+    "en": "Procedural normal map and PBR material generator"
+   },
+   "creator": {
+    "handle": "WrongNebula",
+    "name": "꙲"
+   },
+   "original_post_url": "https://x.com/WrongNebula/status/2124037902594387991",
+   "posted_at": "2026-11-21T07:11:13.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 30,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124036241368952832/img/RgCU3os2QGOjRxOP.jpg"
+    }
+   ],
+   "views": 43934,
+   "likes": 713,
+   "bookmarks": 918,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "Apple Depth Pro 2",
+    "Three.js"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -4164,6 +4363,50 @@
    "resources": []
   },
   {
+   "id": "2124238419140444661",
+   "category": "scene3d",
+   "versions": [
+    "argon"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "阿尔卑斯山 3D 影片",
+    "en": "Alpine mountain 3D film"
+   },
+   "creator": {
+    "handle": "EnvolDev",
+    "name": "Tony"
+   },
+   "original_post_url": "https://x.com/EnvolDev/status/2124238419140444661",
+   "posted_at": "2026-11-21T20:28:00.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 2160,
+     "height": 1920,
+     "duration_seconds": 25,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124039369946460160/img/2F2qYdsMlhADoGcG.jpg"
+    }
+   ],
+   "views": 38657,
+   "likes": 191,
+   "bookmarks": 60,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "GPT-6.2 Astra",
+    "Fable 5.2",
+    "Argon 4",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110799218734502048",
    "category": "physics",
    "versions": [
@@ -4207,6 +4450,49 @@
    "resources": [
     "https://pokeable.app/jelly/cube"
    ]
+  },
+  {
+   "id": "2124217876777464269",
+   "category": "svg",
+   "versions": [
+    "hydrogen"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "鹈鹕矢量插画",
+    "en": "Pelican vector drawing"
+   },
+   "creator": {
+    "handle": "simonw",
+    "name": "Simon Willison"
+   },
+   "original_post_url": "https://x.com/simonw/status/2124217876777464269",
+   "posted_at": "2026-11-21T19:06:22.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1036,
+     "height": 882,
+     "duration_seconds": null,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXq82B8b0AAIxPm?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1036,
+     "height": 828,
+     "duration_seconds": null,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXq8Q5Ha8AAVH6_?format=jpg&name=small"
+    }
+   ],
+   "views": 38358,
+   "likes": 417,
+   "bookmarks": 70,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
   },
   {
    "id": "2122886670240669809",
@@ -4451,6 +4737,74 @@
     "GPT-6 Astra"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124148150525128836",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "gpt",
+    "grok"
+   ],
+   "title": {
+    "zh": "全息 3D 视差收藏闪卡动画",
+    "en": "Holographic 3D parallax collectible card animation"
+   },
+   "creator": {
+    "handle": "DeepBlueX0",
+    "name": "DeepBlue深藍"
+   },
+   "original_post_url": "https://x.com/DeepBlueX0/status/2124148150525128836",
+   "posted_at": "2026-11-21T14:29:18.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "video",
+     "width": 720,
+     "height": 1280,
+     "duration_seconds": 4,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124147936204644352/img/HbHCTP2WAohJ3_ZK.jpg"
+    },
+    {
+     "type": "video",
+     "width": 720,
+     "height": 1280,
+     "duration_seconds": 4,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124147936380739584/img/IWRBI5AeOO6_nnKj.jpg"
+    },
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1920,
+     "duration_seconds": 4,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124147937827856384/img/Ht2N715TX5_bH1zl.jpg"
+    },
+    {
+     "type": "gif",
+     "width": 360,
+     "height": 640,
+     "duration_seconds": 0,
+     "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HXp9SzMboAAp9En.jpg"
+    }
+   ],
+   "views": 35763,
+   "likes": 346,
+   "bookmarks": 340,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "GPT 6",
+    "Grok Bot",
+    "Muse",
+    "Python",
+    "OpenCV",
+    "NumPy",
+    "Pillow"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -5021,6 +5375,42 @@
    "resources": []
   },
   {
+   "id": "2124083607635718386",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "基于物理的胶片渲染与扫描模拟器",
+    "en": "Physically based film rendering and scanning emulator"
+   },
+   "creator": {
+    "handle": "WrongNebula",
+    "name": "꙲"
+   },
+   "original_post_url": "https://x.com/WrongNebula/status/2124083607635718386",
+   "posted_at": "2026-11-21T10:12:50.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 2400,
+     "height": 1600,
+     "duration_seconds": null,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXpACxfasAAdBm_?format=jpg&name=small"
+    }
+   ],
+   "views": 29566,
+   "likes": 499,
+   "bookmarks": 694,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110345498028810390",
    "category": "scene3d",
    "versions": [
@@ -5269,6 +5659,47 @@
    "bookmarks": 87,
    "views_checked_at": "2026-11-21T01:27:58.126Z",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124175490516918376",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "知识科普动画视频",
+    "en": "Knowledge explainer video animation"
+   },
+   "creator": {
+    "handle": "GeekCatX",
+    "name": "知识猫"
+   },
+   "original_post_url": "https://x.com/GeekCatX/status/2124175490516918376",
+   "posted_at": "2026-11-21T16:17:56.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 161,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124164517139808256/img/d_NC1VLDiiXq783z.jpg"
+    }
+   ],
+   "views": 27566,
+   "likes": 188,
+   "bookmarks": 220,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "Claude Opus 5.5",
+    "vibe-zhishi"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -5775,6 +6206,53 @@
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123993556419264532",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "gpt"
+   ],
+   "title": {
+    "zh": "哥特式大教堂 3D 漫步场景",
+    "en": "Gothic cathedral 3D walkthrough"
+   },
+   "creator": {
+    "handle": "teddyaisi",
+    "name": "Teddy"
+   },
+   "original_post_url": "https://x.com/teddyaisi/status/2123993556419264532",
+   "posted_at": "2026-11-21T04:15:00.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1280,
+     "height": 1440,
+     "duration_seconds": 20,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123964695354966017/img/1ddj0K5jMrV-RQbu.jpg"
+    }
+   ],
+   "views": 25401,
+   "likes": 237,
+   "bookmarks": 97,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "Three.js",
+    "GPT-6.2-Astra"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/teddyaisi/status/2123993556419264532",
+    "length": 85,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2123993556419264532"
+   },
    "resources": []
   },
   {
@@ -6430,6 +6908,46 @@
    "resources": []
   },
   {
+   "id": "2124109788883853698",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "三维世界场景生成",
+    "en": "3D world generation"
+   },
+   "creator": {
+    "handle": "thebuggeddev",
+    "name": "The Bugged Dev"
+   },
+   "original_post_url": "https://x.com/thebuggeddev/status/2124109788883853698",
+   "posted_at": "2026-11-21T11:56:52.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 2828,
+     "height": 1840,
+     "duration_seconds": 45,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124109343666896896/img/v1Xp4ghspZKK5Khf.jpg"
+    }
+   ],
+   "views": 19750,
+   "likes": 402,
+   "bookmarks": 172,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "Claude Opus 5.5"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110417458846916697",
    "category": "game",
    "versions": [
@@ -6467,6 +6985,50 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124130234454938102",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "纯代码 Three.js 三维展示",
+    "en": "Single-HTML Three.js 3D showcase"
+   },
+   "creator": {
+    "handle": "lucian__03",
+    "name": "루샨 lucian"
+   },
+   "original_post_url": "https://x.com/lucian__03/status/2124130234454938102",
+   "posted_at": "2026-11-21T13:18:06.000Z",
+   "language": "ko",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 14,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124129778018181120/img/VxPwCiUoxeTdeta2.jpg"
+    }
+   ],
+   "views": 19489,
+   "likes": 185,
+   "bookmarks": 85,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/lucian__03/status/2124130234454938102",
+    "length": 29,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2124130234454938102"
+   },
    "resources": []
   },
   {
@@ -7333,6 +7895,44 @@
    "resources": []
   },
   {
+   "id": "2124254359831691388",
+   "category": "game",
+   "versions": [
+    "carbon"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "3D 耐力赛车游戏",
+    "en": "3D endurance racing game"
+   },
+   "creator": {
+    "handle": "vamsibatchuk",
+    "name": "Vamsi Batchu"
+   },
+   "original_post_url": "https://x.com/vamsibatchuk/status/2124254359831691388",
+   "posted_at": "2026-11-21T21:31:20.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 3840,
+     "height": 2092,
+     "duration_seconds": 19,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124253312027435008/img/cT8bjmZkCgNdly93.jpg"
+    }
+   ],
+   "views": 15802,
+   "likes": 337,
+   "bookmarks": 154,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "Antigravity"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110526612500623718",
    "category": "scene3d",
    "versions": [
@@ -7466,6 +8066,46 @@
    "resources": []
   },
   {
+   "id": "2124273127614017837",
+   "category": "game",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "GTA 风格开放世界城市游戏",
+    "en": "GTA-style open-world city game"
+   },
+   "creator": {
+    "handle": "ivanainai",
+    "name": "Ivana"
+   },
+   "original_post_url": "https://x.com/ivanainai/status/2124273127614017837",
+   "posted_at": "2026-11-21T22:45:55.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1280,
+     "height": 1444,
+     "duration_seconds": 24,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124271262151159808/img/A73iEX8oG_EBhiJI.jpg"
+    }
+   ],
+   "views": 15273,
+   "likes": 195,
+   "bookmarks": 43,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "Claude Opus 5.5"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110329593441796383",
    "category": "physics",
    "versions": [
@@ -7547,6 +8187,47 @@
    "bookmarks": 39,
    "views_checked_at": "2026-11-16T10:43:30.012Z",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123978932336881882",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "deepseek"
+   ],
+   "title": {
+    "zh": "60 秒概念宣传片",
+    "en": "60-second conceptual promo film"
+   },
+   "creator": {
+    "handle": "likka_ailive",
+    "name": "Likka"
+   },
+   "original_post_url": "https://x.com/likka_ailive/status/2123978932336881882",
+   "posted_at": "2026-11-21T03:16:53.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 60,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123976453423566849/img/JjQfPrD94Y5dw1mB.jpg"
+    }
+   ],
+   "views": 14798,
+   "likes": 144,
+   "bookmarks": 58,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "Antigravity",
+    "OpenMotion"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -7932,6 +8613,53 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124190810900140286",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "gpt"
+   ],
+   "title": {
+    "zh": "威尼斯大运河日落贡多拉场景",
+    "en": "Sunset gondola ride on Grand Canal"
+   },
+   "creator": {
+    "handle": "teddyaisi",
+    "name": "Teddy"
+   },
+   "original_post_url": "https://x.com/teddyaisi/status/2124190810900140286",
+   "posted_at": "2026-11-21T17:18:49.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1280,
+     "height": 1440,
+     "duration_seconds": 20,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124190147470401536/img/hS00QMRK_dslgAp7.jpg"
+    }
+   ],
+   "views": 13182,
+   "likes": 149,
+   "bookmarks": 41,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "GPT-6.2-Astra",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/teddyaisi/status/2124190810900140286",
+    "length": 80,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2124190810900140286"
+   },
    "resources": []
   },
   {
@@ -8426,6 +9154,46 @@
    "resources": []
   },
   {
+   "id": "2124017427914911930",
+   "category": "game",
+   "versions": [
+    "carbon"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "Unity 机甲动作连招原型",
+    "en": "Mecha action combat prototype in Unity"
+   },
+   "creator": {
+    "handle": "ShadeLurk",
+    "name": "ShadeLurk"
+   },
+   "original_post_url": "https://x.com/ShadeLurk/status/2124017427914911930",
+   "posted_at": "2026-11-21T05:49:51.000Z",
+   "language": "ja",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 13,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124016105656287232/img/DiZXG5rt5IDbIy7T.jpg"
+    }
+   ],
+   "views": 10766,
+   "likes": 284,
+   "bookmarks": 94,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "Tripo",
+    "Fable 5.2",
+    "Unity"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2122818435381948724",
    "category": "svg",
    "versions": [
@@ -8459,6 +9227,42 @@
    "tools_reported": [
     "Google Sheets"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124157978425294867",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "纯代码生成的动态 ASCII 艺术",
+    "en": "Code-generated animated ASCII art"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2124157978425294867",
+   "posted_at": "2026-11-21T15:08:21.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 67,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124157575537348608/img/crz0duTLHqOIchGg.jpg"
+    }
+   ],
+   "views": 10688,
+   "likes": 290,
+   "bookmarks": 53,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -8594,6 +9398,48 @@
    "resources": []
   },
   {
+   "id": "2124147232635035902",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "多模型编程效果同屏对比",
+    "en": "Side-by-side model coding comparison"
+   },
+   "creator": {
+    "handle": "DavidOndrej1",
+    "name": "David Ondrej"
+   },
+   "original_post_url": "https://x.com/DavidOndrej1/status/2124147232635035902",
+   "posted_at": "2026-11-21T14:25:39.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 570,
+     "thumbnail_url": "https://pbs.twimg.com/ext_tw_video_thumb/2124146984583856128/pu/img/VDBor2vSakrlmh33.jpg"
+    }
+   ],
+   "views": 10079,
+   "likes": 185,
+   "bookmarks": 78,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "Fable 5.2",
+    "GPT-6.2 Astra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2116148349791346698",
    "category": "svg",
    "versions": [
@@ -8677,6 +9523,85 @@
     "length": 8222,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2112476644757639411"
    },
+   "resources": []
+  },
+  {
+   "id": "2124290043481338317",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "在 Blender 中构建的破旧拼装 AK-47 模型",
+    "en": "Battered scavenged AK-47 model built in Blender"
+   },
+   "creator": {
+    "handle": "maxt3chno",
+    "name": "Max"
+   },
+   "original_post_url": "https://x.com/maxt3chno/status/2124290043481338317",
+   "posted_at": "2026-11-21T23:53:08.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 2220,
+     "height": 1440,
+     "duration_seconds": 23,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124289890787438592/img/a6GpgpG5yuVLB_It.jpg"
+    }
+   ],
+   "views": 9534,
+   "likes": 164,
+   "bookmarks": 84,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "Gemini 3.8 Flash",
+    "Blender",
+    "Blender MCP"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124205275272097970",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "带合成引擎声的载具作品",
+    "en": "Vehicle build with synthesized engine sound"
+   },
+   "creator": {
+    "handle": "HarshithLucky3",
+    "name": "Harshith"
+   },
+   "original_post_url": "https://x.com/HarshithLucky3/status/2124205275272097970",
+   "posted_at": "2026-11-21T18:16:18.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 2056,
+     "duration_seconds": 85,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124204284086775808/img/Slo3-NdaMNptMBsb.jpg"
+    }
+   ],
+   "views": 9461,
+   "likes": 109,
+   "bookmarks": 22,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "Gemini 3.7 Flash High",
+    "Antigravity"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -9007,6 +9932,42 @@
    "likes": 213,
    "bookmarks": 21,
    "views_checked_at": "2026-11-16T17:58:53.900Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124028084022353961",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "交互式源码与动态状态机可视化页面",
+    "en": "Interactive HTML code and state machine viewer"
+   },
+   "creator": {
+    "handle": "antiAIvo",
+    "name": "纳米AI"
+   },
+   "original_post_url": "https://x.com/antiAIvo/status/2124028084022353961",
+   "posted_at": "2026-11-21T06:32:12.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "video",
+     "width": 3060,
+     "height": 1830,
+     "duration_seconds": 37,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124024875480412160/img/nWESBnxXPBV--jlR.jpg"
+    }
+   ],
+   "views": 8501,
+   "likes": 113,
+   "bookmarks": 94,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -9437,6 +10398,56 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124203254011854973",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "Three.js 埃菲尔铁塔",
+    "en": "Eiffel Tower in Three.js"
+   },
+   "creator": {
+    "handle": "Bhavani_00007",
+    "name": "Bhavy☄️"
+   },
+   "original_post_url": "https://x.com/Bhavani_00007/status/2124203254011854973",
+   "posted_at": "2026-11-21T18:08:16.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1200,
+     "height": 1600,
+     "duration_seconds": 30,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124203061245792256/img/SENilKsXzxtN6le4.jpg"
+    }
+   ],
+   "views": 6598,
+   "likes": 106,
+   "bookmarks": 14,
+   "views_checked_at": "2026-11-23T01:34:45.555Z",
+   "tools_reported": [
+    "GPT-6.2 Astra",
+    "GPT-6.2 Sol",
+    "Opus 5.5",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/Bhavani_00007/status/2124203254011854973",
+    "length": 34,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2124203254011854973"
+   },
    "resources": []
   },
   {

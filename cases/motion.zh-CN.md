@@ -1,6 +1,6 @@
 # 动画短片
 
-共 32 个作品，其中 4 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 38 个作品，其中 4 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -11,6 +11,7 @@
 | [巨型机器人动画场景模型对比](https://x.com/SahilPanhotra/status/2117276551247278264) | Argon | Claude | [@SahilPanhotra](https://x.com/SahilPanhotra) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2117276551247278264) |
 | [白虎视频模型对比](https://x.com/kinderlayer/status/2112887335687749657) | Argon | Claude | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [Gemini与Opus象动画对比](https://x.com/kinderlayer/status/2111760509372404142) | Argon | Claude | [@kinderlayer](https://x.com/kinderlayer) | — |
+| [纯代码生成的音乐视频与合成歌声](https://x.com/chetaslua/status/2124131378770182389) | Gemini 4 | — | [@chetaslua](https://x.com/chetaslua) | — |
 | [代码生成的自我介绍动态图形](https://x.com/chetaslua/status/2123219124260315301) | Gemini 4 | — | [@chetaslua](https://x.com/chetaslua) | — |
 | [骑自行车的鹈鹕动画](https://x.com/chetaslua/status/2121885449509851415) | Carbon / Hydrogen | — | [@chetaslua](https://x.com/chetaslua) | — |
 | [鹈鹕主题产品动态设计](https://x.com/chetaslua/status/2123184113561817370) | Gemini 4 | — | [@chetaslua](https://x.com/chetaslua) | — |
@@ -20,11 +21,14 @@
 | [新 AI 模型发布宣传视频](https://x.com/whydeso/status/2123455226191691813) | Gemini 4 | Claude, GPT | [@whydeso](https://x.com/whydeso) | — |
 | [丧尸手生成效果对比](https://x.com/noclipepe/status/2116445289468850366) | Carbon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2116445289468850366) |
 | [飞鸟化身黑豹一次生成的变形对比](https://x.com/kinderlayer/status/2115496867681247275) | Argon | Claude | [@kinderlayer](https://x.com/kinderlayer) | — |
+| [首次动态图形动画测试](https://x.com/ogabezim/status/2124036193776263671) | Gemini 4 | — | [@ogabezim](https://x.com/ogabezim) | — |
 | [松鼠视角下的生活短片](https://x.com/DanielZambrini/status/2123891957529510012) | Gemini 4 | Claude, GPT | [@DanielZambrini](https://x.com/DanielZambrini) | — |
 | [微型角色动画对比](https://x.com/0xPorterio/status/2116108534051905642) | Carbon | Claude | [@0xPorterio](https://x.com/0xPorterio) | — |
 | [水墨风格动画对比](https://x.com/renoiseai/status/2110290068514762969) | Argon | Claude | [@renoiseai](https://x.com/renoiseai) | — |
+| [全息 3D 视差收藏闪卡动画](https://x.com/DeepBlueX0/status/2124148150525128836) | Gemini 4 | GPT, Grok | [@DeepBlueX0](https://x.com/DeepBlueX0) | — |
 | [以火柴人演绎的 AI 实验室对决](https://x.com/chetaslua/status/2123517124169834605) | Gemini 4 | — | [@chetaslua](https://x.com/chetaslua) | — |
 | [水墨风格动画镜头对比](https://x.com/higgsfield_ai/status/2110530184550236232) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
+| [知识科普动画视频](https://x.com/GeekCatX/status/2124175490516918376) | Gemini 4 | Claude | [@GeekCatX](https://x.com/GeekCatX) | — |
 | [松鼠视角的世界动画](https://x.com/DanielZambrini/status/2123832990598045903) | Gemini 4 | — | [@DanielZambrini](https://x.com/DanielZambrini) | — |
 | [水墨风格叙事动画对比](https://x.com/higgsfield_ai/status/2110436743589876093) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
 | [火柴人战斗动画序列](https://x.com/chetaslua/status/2123720700670398680) | Gemini 4 | — | [@chetaslua](https://x.com/chetaslua) | — |
@@ -32,7 +36,9 @@
 | [宣传片风格动画](https://x.com/hernes_vr/status/2123941250797908029) | Gemini 4 | — | [@hernes_vr](https://x.com/hernes_vr) | — |
 | [64KB 单文件代码生成画面与音乐](https://x.com/Avenoxai/status/2123782371505999968) | Gemini 4 | Claude | [@Avenoxai](https://x.com/Avenoxai) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2123782371505999968) |
 | [犀牛图像对比：Gemini对比Opus](https://x.com/kinderlayer/status/2112514831362175151) | Argon | Claude | [@kinderlayer](https://x.com/kinderlayer) | — |
+| [60 秒概念宣传片](https://x.com/likka_ailive/status/2123978932336881882) | Gemini 4 | DeepSeek | [@likka_ailive](https://x.com/likka_ailive) | — |
 | [动效模型对比](https://x.com/deweytn/status/2118809236046246316) | Hydrogen | Claude | [@deweytn](https://x.com/deweytn) | — |
 | [帽子被吹走的海鹦动画](https://x.com/vamsibatchuk/status/2121846407950639541) | Hydrogen | — | [@vamsibatchuk](https://x.com/vamsibatchuk) | — |
 | [AI模型空战生成对比](https://x.com/RafaCrackYT/status/2112929520239996946) | Argon | Claude, DeepSeek, MiniMax | [@RafaCrackYT](https://x.com/RafaCrackYT) | — |
+| [纯代码生成的动态 ASCII 艺术](https://x.com/chetaslua/status/2124157978425294867) | Gemini 4 | — | [@chetaslua](https://x.com/chetaslua) | — |
 | [自定义 MIDI 编辑器中的自行车滑奏](https://x.com/alexanderchen/status/2122337187970879968) | Carbon | — | [@alexanderchen](https://x.com/alexanderchen) | — |

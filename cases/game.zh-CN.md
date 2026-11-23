@@ -1,6 +1,6 @@
 # 游戏
 
-共 16 个作品，其中 1 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 19 个作品，其中 1 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -18,5 +18,8 @@
 | [动漫格斗游戏开发对比测试](https://x.com/higgsfield_ai/status/2110449758439723292) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
 | [体素堆叠帆船游戏](https://x.com/chetaslua/status/2122264764319666388) | Carbon | — | [@chetaslua](https://x.com/chetaslua) | — |
 | [赛博朋克游戏开发对比](https://x.com/higgsfield_ai/status/2110417458846916697) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
+| [3D 耐力赛车游戏](https://x.com/vamsibatchuk/status/2124254359831691388) | Carbon | — | [@vamsibatchuk](https://x.com/vamsibatchuk) | — |
+| [GTA 风格开放世界城市游戏](https://x.com/ivanainai/status/2124273127614017837) | Gemini 4 | Claude | [@ivanainai](https://x.com/ivanainai) | — |
 | [Minecraft房屋与羊驼搭建对比](https://x.com/nik_akki/status/2110807768550764628) | Argon | Claude | [@nik_akki](https://x.com/nik_akki) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2110807768550764628) |
+| [Unity 机甲动作连招原型](https://x.com/ShadeLurk/status/2124017427914911930) | Carbon | — | [@ShadeLurk](https://x.com/ShadeLurk) | — |
 | [二维沙盒村庄游戏](https://x.com/marcthecreatorr/status/2122266495216459841) | Hydrogen | Qwen | [@marcthecreatorr](https://x.com/marcthecreatorr) | — |

@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 95 个作品，其中 25 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 104 个作品，其中 29 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -40,12 +40,14 @@
 | [雨夜便利店](https://x.com/Super_Nius/status/2123169627815698522) | Gemini 4 | GPT | [@Super_Nius](https://x.com/Super_Nius) | — |
 | [穿过水面的奔马](https://x.com/SamgreyAi/status/2122440859891409372) | Carbon / Hydrogen | Claude, GPT | [@SamgreyAi](https://x.com/SamgreyAi) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2122440859891409372) |
 | [三维建模测试](https://x.com/SPAC89/status/2123171830739632189) | Hydrogen | Claude, GPT | [@SPAC89](https://x.com/SPAC89) | — |
+| [交互式 3D 神经角色演示](https://x.com/ai_for_success/status/2124192968345338206) | Gemini 4 | — | [@ai_for_success](https://x.com/ai_for_success) | — |
 | [同提示词视觉细节测试](https://x.com/notjazii/status/2123172429791129848) | Carbon / Hydrogen | Claude | [@notjazii](https://x.com/notjazii) | — |
 | [3D西瓜毛发渲染对比](https://x.com/vib3coded/status/2111501344750059978) | Argon | Claude | [@vib3coded](https://x.com/vib3coded) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2111501344750059978) |
 | [两款AI模型视觉效果对比](https://x.com/HarshithLucky3/status/2103821120009048245) | Pro | Claude | [@HarshithLucky3](https://x.com/HarshithLucky3) | — |
 | [萤火虫罐场景对比](https://x.com/0xRhinoX/status/2110382089476407630) | Argon | Claude | [@0xRhinoX](https://x.com/0xRhinoX) | — |
 | [冰雕大象](https://x.com/kinderlayer/status/2122290663643353165) | Argon | Claude | [@kinderlayer](https://x.com/kinderlayer) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2122290663643353165) |
 | [夜间飞机起飞场景](https://x.com/SamgreyAi/status/2123898746329071698) | Gemini 4 | Claude, GPT | [@SamgreyAi](https://x.com/SamgreyAi) | — |
+| [阿尔卑斯山 3D 影片](https://x.com/EnvolDev/status/2124238419140444661) | Argon | Claude, GPT | [@EnvolDev](https://x.com/EnvolDev) | — |
 | [埃菲尔铁塔建造模型基准对比](https://x.com/EnvolDev/status/2111580341626687586) | Argon | Claude, DeepSeek, Meta Muse | [@EnvolDev](https://x.com/EnvolDev) | — |
 | [3D果蔬店场景对比](https://x.com/Avenoxai/status/2110249491140071834) | Argon | Claude | [@Avenoxai](https://x.com/Avenoxai) | — |
 | [机械眼三维动画对比](https://x.com/noclipepe/status/2115728069398757827) | Carbon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | — |
@@ -62,6 +64,7 @@
 | [霸王龙尝试骑自行车动画对比](https://x.com/olezhavich/status/2116973463378248107) | Argon / Carbon | Claude, GPT | [@olezhavich](https://x.com/olezhavich) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2116973463378248107) |
 | [多模型并排输出效果对比](https://x.com/Da7_Tech/status/2123712489443713478) | Gemini 4 | Claude, GPT | [@Da7_Tech](https://x.com/Da7_Tech) | — |
 | [飞屋房子建模四模型对比测试](https://x.com/noclipepe/status/2121326233044537688) | Carbon / Hydrogen | Claude | [@noclipepe](https://x.com/noclipepe) | — |
+| [哥特式大教堂 3D 漫步场景](https://x.com/teddyaisi/status/2123993556419264532) | Gemini 4 | GPT | [@teddyaisi](https://x.com/teddyaisi) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2123993556419264532) |
 | [Blender 构建的氛围感三维场景](https://x.com/KanaWorks_AI/status/2123950255389749729) | Gemini 4 | — | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | — |
 | [四模型鹈鹕一次性任务对比](https://x.com/VulKan42069/status/2111793164474634612) | Argon | Claude, GPT, DeepSeek | [@VulKan42069](https://x.com/VulKan42069) | — |
 | [特斯拉跑车驾驶效果对比](https://x.com/RafaCrackYT/status/2112247645955895455) | Argon | Claude, DeepSeek, MiniMax | [@RafaCrackYT](https://x.com/RafaCrackYT) | — |
@@ -70,6 +73,8 @@
 | [极光雪林中的狼](https://x.com/0xRhinoX/status/2122387800762810870) | Krypton | Claude, DeepSeek | [@0xRhinoX](https://x.com/0xRhinoX) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2122387800762810870) |
 | [雨后清晨京都千本鸟居与竹林漫步](https://x.com/teddyaisi/status/2123627618146959641) | Gemini 4 | GPT | [@teddyaisi](https://x.com/teddyaisi) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2123627618146959641) |
 | [战斗机3D建模对比](https://x.com/higgsfield_ai/status/2110416198085345694) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
+| [三维世界场景生成](https://x.com/thebuggeddev/status/2124109788883853698) | Gemini 4 | Claude | [@thebuggeddev](https://x.com/thebuggeddev) | — |
+| [纯代码 Three.js 三维展示](https://x.com/lucian__03/status/2124130234454938102) | Gemini 4 | — | [@lucian__03](https://x.com/lucian__03) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2124130234454938102) |
 | [达芬奇工作室3D复原：双模型对比](https://x.com/techhalla/status/2110121002332295599) | Argon | Claude | [@techhalla](https://x.com/techhalla) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2110121002332295599) |
 | [四个模型生成灯塔场景对比](https://x.com/EnvolDev/status/2112995029337936362) | Argon | Claude, GPT, DeepSeek, MiniMax | [@EnvolDev](https://x.com/EnvolDev) | — |
 | [埃菲尔铁塔Three.js对比](https://x.com/Bhavani_00007/status/2110417051680694613) | Argon | Claude, GPT, Kimi | [@Bhavani_00007](https://x.com/Bhavani_00007) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2110417051680694613) |
@@ -82,12 +87,15 @@
 | [Arena三款模型生成效果对比](https://x.com/AI_Screening/status/2113321010913292308) | Argon / Carbon | Claude, Kimi | [@AI_Screening](https://x.com/AI_Screening) | — |
 | [Three.js一次生成的两个纽约场景](https://x.com/thehypedotnews/status/2110153216772202945) | Argon | Claude | [@thehypedotnews](https://x.com/thehypedotnews) | — |
 | [冰之大教堂场景](https://x.com/EnvolDev/status/2122105333887934810) | Carbon / Hydrogen | GPT, Meta Muse | [@EnvolDev](https://x.com/EnvolDev) | — |
+| [威尼斯大运河日落贡多拉场景](https://x.com/teddyaisi/status/2124190810900140286) | Gemini 4 | GPT | [@teddyaisi](https://x.com/teddyaisi) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2124190810900140286) |
 | [Opus 与 Gemini 效果对比](https://x.com/Haleeeemahh/status/2116813166009106935) | Carbon | Claude | [@Haleeeemahh](https://x.com/Haleeeemahh) | — |
 | [带有草地与野花的柔和草甸](https://x.com/GlitterPixely/status/2122469864505798795) | Carbon | — | [@GlitterPixely](https://x.com/GlitterPixely) | — |
 | [四模型图像对比](https://x.com/abhinavflac/status/2105300298483019839) | Pro | Claude, GPT | [@abhinavflac](https://x.com/abhinavflac) | — |
 | [三个模型的Three.js场景对比](https://x.com/AI_Screening/status/2111112282583548122) | Argon | Claude, Meta Muse | [@AI_Screening](https://x.com/AI_Screening) | — |
 | [暴风雨灯塔场景模型对比](https://x.com/anxuanng/status/2110819776281079978) | Argon | Claude | [@anxuanng](https://x.com/anxuanng) | — |
 | [太空列车场景模型对比](https://x.com/EnvolDev/status/2110795590858571945) | Argon | Claude | [@EnvolDev](https://x.com/EnvolDev) | — |
+| [在 Blender 中构建的破旧拼装 AK-47 模型](https://x.com/maxt3chno/status/2124290043481338317) | Gemini 4 | — | [@maxt3chno](https://x.com/maxt3chno) | — |
+| [带合成引擎声的载具作品](https://x.com/HarshithLucky3/status/2124205275272097970) | Gemini 4 | — | [@HarshithLucky3](https://x.com/HarshithLucky3) | — |
 | [同一提示词一次生成对比](https://x.com/Haleeeemahh/status/2113243268569870459) | Argon / Carbon | Claude | [@Haleeeemahh](https://x.com/Haleeeemahh) | — |
 | [城堡基准测试三维场景](https://x.com/nemumusitocha/status/2121848375998063012) | Hydrogen | — | [@nemumusitocha](https://x.com/nemumusitocha) | — |
 | [同一提示词四模型并排对比](https://x.com/hsprafrique/status/2112184729307091130) | Argon | Claude, GPT | [@hsprafrique](https://x.com/hsprafrique) | — |
@@ -97,5 +105,6 @@
 | [背负微型世界的鹈鹕](https://x.com/chetaslua/status/2122357141889777713) | Carbon | — | [@chetaslua](https://x.com/chetaslua) | — |
 | [体素浮空王国效果对比](https://x.com/marcthecreatorr/status/2120479775764459951) | Carbon | Claude | [@marcthecreatorr](https://x.com/marcthecreatorr) | — |
 | [通过 MCP 在 Blender 中搭建的三维场景](https://x.com/HarshithLucky3/status/2122297342350995697) | Carbon | — | [@HarshithLucky3](https://x.com/HarshithLucky3) | — |
+| [Three.js 埃菲尔铁塔](https://x.com/Bhavani_00007/status/2124203254011854973) | Gemini 4 | Claude, GPT | [@Bhavani_00007](https://x.com/Bhavani_00007) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2124203254011854973) |
 | [同一任务的模型对比](https://x.com/Haleeeemahh/status/2114392673947709526) | Carbon | Claude | [@Haleeeemahh](https://x.com/Haleeeemahh) | — |
 | [Blender 三维建模作品](https://x.com/SPAC89/status/2122424240641376674) | Hydrogen / Krypton | — | [@SPAC89](https://x.com/SPAC89) | — |
