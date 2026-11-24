@@ -1,9 +1,10 @@
 # Machines & cutaways
 
-17 works, 5 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+18 works, 6 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
+| [Cross-section engine firing animation](https://x.com/kinderlayer/status/2124465319087308918) | Gemini 4 | Claude, GPT, Grok | [@kinderlayer](https://x.com/kinderlayer) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2124465319087308918) |
 | [Water pump mechanism built by four models](https://x.com/kinderlayer/status/2113937338938150958) | Argon | Claude, GPT, Grok | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [Lobe pump model comparison](https://x.com/kinderlayer/status/2114312573390602417) | Argon | Claude, GPT, Grok | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [Electric motor animation model comparison](https://x.com/rubenssoto_ai/status/2110065587279798719) | Argon | Claude | [@rubenssoto_ai](https://x.com/rubenssoto_ai) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2110065587279798719) |

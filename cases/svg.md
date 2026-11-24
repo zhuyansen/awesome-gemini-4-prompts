@@ -6,8 +6,8 @@
 |---|---|---|---|---|
 | [Code-drawn illustrations in a reference art style](https://x.com/vamsibatchuk/status/2121788887823778297) | Hydrogen | — | [@vamsibatchuk](https://x.com/vamsibatchuk) | — |
 | [Pelican riding a bicycle](https://x.com/simonw/status/2123305131206967571) | Carbon / Hydrogen | — | [@simonw](https://x.com/simonw) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2123305131206967571) |
-| [Pelican riding a zebra riding a horse](https://x.com/RezAIT00/status/2122353119749361808) | Hydrogen | Claude, GPT, Qwen | [@RezAIT00](https://x.com/RezAIT00) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2122353119749361808) |
 | [Girl and cat tandem ride SVG](https://x.com/marcthecreatorr/status/2120956699951628637) | Hydrogen | Claude | [@marcthecreatorr](https://x.com/marcthecreatorr) | — |
+| [Pelican riding a zebra riding a horse](https://x.com/RezAIT00/status/2122353119749361808) | Hydrogen | Claude, GPT, Qwen | [@RezAIT00](https://x.com/RezAIT00) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2122353119749361808) |
 | [Pelican vector drawing](https://x.com/simonw/status/2124217876777464269) | Hydrogen | — | [@simonw](https://x.com/simonw) | — |
 | [SVG Pelican on Bike: Gemini 4 vs Opus 5.5](https://x.com/LuminaBench/status/2106130557310468364) | Argon | Claude | [@LuminaBench](https://x.com/LuminaBench) | — |
 | [Drawing a strawberry comparison](https://x.com/AIMind_Ai/status/2123816445180088544) | Carbon | Claude | [@AIMind_Ai](https://x.com/AIMind_Ai) | — |

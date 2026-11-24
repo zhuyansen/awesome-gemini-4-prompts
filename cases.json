@@ -4,10 +4,60 @@
  "released": "2026-10-14T00:00:00Z",
  "inclusion_rule": "Original post by the creator, media attached, >= 5000 views on that post, and the creator's own text says Gemini 4 (Argon, Carbon, Hydrogen, Krypton, Pro...) built it in code; same-prompt comparisons against other models included. Seeded on 2026-11-16 from the Claude 5.5 library. Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-23T01:34:45.555Z",
- "updated_at": "2026-11-23T01:57:47.325Z",
+ "stats_checked_at": "2026-11-24T11:25:04.779Z",
+ "updated_at": "2026-11-24T11:30:46.410Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
+  {
+   "id": "2124465319087308918",
+   "category": "mechanics",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt",
+    "grok"
+   ],
+   "title": {
+    "zh": "发动机剖面点火运行动画",
+    "en": "Cross-section engine firing animation"
+   },
+   "creator": {
+    "handle": "kinderlayer",
+    "name": "Kinder"
+   },
+   "original_post_url": "https://x.com/kinderlayer/status/2124465319087308918",
+   "posted_at": "2026-11-22T11:29:37.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "video",
+     "width": 720,
+     "height": 1280,
+     "duration_seconds": 12,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124465251814977536/img/tO4cssVkNf8KfMs4.jpg"
+    }
+   ],
+   "views": 827391,
+   "likes": 1354,
+   "bookmarks": 852,
+   "views_checked_at": "2026-11-24T11:11:12.811Z",
+   "tools_reported": [
+    "Claude Fable 5.2",
+    "GPT-6.2 Astra",
+    "Grok 4.7"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/kinderlayer/status/2124465319087308918",
+    "length": 72,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2124465319087308918"
+   },
+   "resources": []
+  },
   {
    "id": "2110131790136401989",
    "category": "physics",
@@ -37,10 +87,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110131742086500352/img/g1OYPRpR370-gIrm.jpg"
     }
    ],
-   "views": 632567,
-   "likes": 3959,
-   "bookmarks": 1207,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 633975,
+   "likes": 3952,
+   "bookmarks": 1202,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Three.js"
    ],
@@ -85,14 +135,90 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2113937290183544832/img/tMW1RAGCVVsorSfK.jpg"
     }
    ],
-   "views": 433166,
-   "likes": 365,
+   "views": 433220,
+   "likes": 364,
    "bookmarks": 389,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "GPT-6 Astra",
     "Grok 4.7"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124784458528420031",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "高斯泼溅草地日出与蝴蝶",
+    "en": "Gaussian splat meadow sunrise with butterfly"
+   },
+   "creator": {
+    "handle": "sonuv_dev",
+    "name": "sou | Ai & Tech"
+   },
+   "original_post_url": "https://x.com/sonuv_dev/status/2124784458528420031",
+   "posted_at": "2026-11-23T08:37:46.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 10,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124784122929508352/img/L0UQR-NLNAbX0zor.jpg"
+    }
+   ],
+   "views": 430724,
+   "likes": 105,
+   "bookmarks": 2,
+   "views_checked_at": "2026-11-24T11:25:04.779Z",
+   "tools_reported": [
+    "Ink Studio"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124322570652528876",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "编程生成的《The Current Thing》音乐视频",
+    "en": "Coded music video 'The Current Thing'"
+   },
+   "creator": {
+    "handle": "anabology",
+    "name": "anabology"
+   },
+   "original_post_url": "https://x.com/anabology/status/2124322570652528876",
+   "posted_at": "2026-11-22T02:02:23.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 226,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124322406088966144/img/pfI4VnGJrTRlJqqn.jpg"
+    }
+   ],
+   "views": 300700,
+   "likes": 2525,
+   "bookmarks": 1098,
+   "views_checked_at": "2026-11-24T11:11:12.811Z",
+   "tools_reported": [
+    "Fable"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -128,10 +254,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116908516107591680/img/0XIIiOrKFwnGjvXf.jpg"
     }
    ],
-   "views": 243560,
-   "likes": 1399,
+   "views": 243796,
+   "likes": 1394,
    "bookmarks": 503,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "GPT-6.1 Terra"
@@ -177,10 +303,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114312405362655232/img/MFUwS_kic6PhFuEZ.jpg"
     }
    ],
-   "views": 230403,
-   "likes": 243,
+   "views": 230430,
+   "likes": 242,
    "bookmarks": 164,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "GPT-6 Astra",
     "Grok 4.7",
@@ -220,10 +346,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111175360448696320/img/buen_LfPjkmalmmp.jpg"
     }
    ],
-   "views": 216870,
-   "likes": 1230,
-   "bookmarks": 326,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 217114,
+   "likes": 1228,
+   "bookmarks": 328,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Three.js",
     "FFmpeg"
@@ -311,10 +437,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103730502557745152/img/WEKSkoO3GrgrRfaB.jpg"
     }
    ],
-   "views": 204044,
-   "likes": 970,
-   "bookmarks": 149,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 205941,
+   "likes": 969,
+   "bookmarks": 150,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -349,10 +475,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2115537804901933056/img/bu_AMXXFA2B1Pkw_.jpg"
     }
    ],
-   "views": 198484,
-   "likes": 2012,
-   "bookmarks": 395,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 198716,
+   "likes": 2008,
+   "bookmarks": 394,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Carbon"
    ],
@@ -389,10 +515,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110065442639228928/img/4e4zETqvMxZMmGnU.jpg"
     }
    ],
-   "views": 195952,
-   "likes": 2134,
-   "bookmarks": 632,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 196726,
+   "likes": 2136,
+   "bookmarks": 631,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Three.js",
     "Gemini 4 Argon"
@@ -534,10 +660,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110136618275233792/img/1zIXiXzSRLDCwIIm.jpg"
     }
    ],
-   "views": 160630,
-   "likes": 1577,
-   "bookmarks": 589,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 160799,
+   "likes": 1575,
+   "bookmarks": 588,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "WebGL"
    ],
@@ -647,6 +773,47 @@
    "resources": []
   },
   {
+   "id": "2121701704139956250",
+   "category": "motion",
+   "versions": [
+    "hydrogen"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "《云端之上》影片对比",
+    "en": "Rio Above the Clouds film comparison"
+   },
+   "creator": {
+    "handle": "EnvolDev",
+    "name": "Tony"
+   },
+   "original_post_url": "https://x.com/EnvolDev/status/2121701704139956250",
+   "posted_at": "2026-11-14T20:28:00.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 810,
+     "height": 720,
+     "duration_seconds": 25,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121475910901841920/img/wrYF-a81VM_5OH-o.jpg"
+    }
+   ],
+   "views": 146091,
+   "likes": 341,
+   "bookmarks": 185,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2123756243827486822",
    "category": "scene3d",
    "versions": [
@@ -730,10 +897,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110078141389828096/img/-OwYuBX4lBaubMrO.jpg"
     }
    ],
-   "views": 130643,
-   "likes": 713,
-   "bookmarks": 158,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 130709,
+   "likes": 712,
+   "bookmarks": 157,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "GPT 6 Astra",
@@ -747,47 +914,6 @@
     "length": 32,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2110078803297055212"
    },
-   "resources": []
-  },
-  {
-   "id": "2121701704139956250",
-   "category": "motion",
-   "versions": [
-    "hydrogen"
-   ],
-   "compared_with": [
-    "claude",
-    "gpt"
-   ],
-   "title": {
-    "zh": "《云端之上》影片对比",
-    "en": "Rio Above the Clouds film comparison"
-   },
-   "creator": {
-    "handle": "EnvolDev",
-    "name": "Tony"
-   },
-   "original_post_url": "https://x.com/EnvolDev/status/2121701704139956250",
-   "posted_at": "2026-11-14T20:28:00.000Z",
-   "language": "en",
-   "media": [
-    {
-     "type": "video",
-     "width": 810,
-     "height": 720,
-     "duration_seconds": 25,
-     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121475910901841920/img/wrYF-a81VM_5OH-o.jpg"
-    }
-   ],
-   "views": 130193,
-   "likes": 327,
-   "bookmarks": 176,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
-   "tools_reported": [
-    "Three.js"
-   ],
-   "reference_assets": false,
-   "prompt": null,
    "resources": []
   },
   {
@@ -819,10 +945,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2117276182257553408/img/GidNEbWi_hca4iM_.jpg"
     }
    ],
-   "views": 129419,
-   "likes": 1407,
-   "bookmarks": 397,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 129594,
+   "likes": 1404,
+   "bookmarks": 393,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": {
@@ -1002,10 +1128,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110029451736264704/img/uYjPzqQjzJILQXe3.jpg"
     }
    ],
-   "views": 122622,
-   "likes": 1232,
-   "bookmarks": 166,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 122691,
+   "likes": 1229,
+   "bookmarks": 165,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon"
    ],
@@ -1017,6 +1143,44 @@
     "length": 92,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2110029722046631985"
    },
+   "resources": []
+  },
+  {
+   "id": "2124565795003105494",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "塞尔达时之笛纸艺卷轴动画",
+    "en": "Ocarina of Time papercraft scrolling animation"
+   },
+   "creator": {
+    "handle": "xikhar",
+    "name": "Shikhar"
+   },
+   "original_post_url": "https://x.com/xikhar/status/2124565795003105494",
+   "posted_at": "2026-11-22T18:08:52.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 47,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124564372186185728/img/uRbTQ0wxzd_esVoo.jpg"
+    }
+   ],
+   "views": 122409,
+   "likes": 3081,
+   "bookmarks": 2454,
+   "views_checked_at": "2026-11-24T11:11:12.811Z",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -1048,12 +1212,52 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2112887268285272064/img/3FFPsXZ6R-KAfbYi.jpg"
     }
    ],
-   "views": 119785,
-   "likes": 139,
+   "views": 120608,
+   "likes": 138,
    "bookmarks": 105,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124585541328896367",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "Windows XP 桌面界面复刻",
+    "en": "Windows XP desktop recreation"
+   },
+   "creator": {
+    "handle": "0xRhinoX",
+    "name": "Rhino"
+   },
+   "original_post_url": "https://x.com/0xRhinoX/status/2124585541328896367",
+   "posted_at": "2026-11-22T19:27:20.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1222,
+     "duration_seconds": 30,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124577655030677504/img/B_MSaDLZyClsPm9A.jpg"
+    }
+   ],
+   "views": 120519,
+   "likes": 933,
+   "bookmarks": 424,
+   "views_checked_at": "2026-11-24T11:11:12.811Z",
+   "tools_reported": [
+    "Claude Fable 5.2"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -1088,15 +1292,64 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111760408763584512/img/r9i-OlEbYyJsBg5c.jpg"
     }
    ],
-   "views": 117352,
-   "likes": 237,
-   "bookmarks": 177,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 117394,
+   "likes": 236,
+   "bookmarks": 178,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon"
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2110192618269221048",
+   "category": "scene3d",
+   "versions": [
+    "argon"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "Opus 5.5对比Gemini 4与GPT 6",
+    "en": "Opus 5.5 vs Gemini 4 vs GPT 6 comparison"
+   },
+   "creator": {
+    "handle": "rubenssoto_ai",
+    "name": "Rubens Soto | AI & SaaS"
+   },
+   "original_post_url": "https://x.com/rubenssoto_ai/status/2110192618269221048",
+   "posted_at": "2026-10-14T02:15:00.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1280,
+     "height": 720,
+     "duration_seconds": 30,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110178014185041922/img/tMMJdHFu-SzuM6bB.jpg"
+    }
+   ],
+   "views": 115488,
+   "likes": 645,
+   "bookmarks": 92,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
+   "tools_reported": [
+    "Gemini 4 Argon",
+    "GPT 6.1 Sol",
+    "GPT 6 Astra"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "author_reply",
+    "source_url": "https://x.com/rubenssoto_ai/status/2110477365071819210",
+    "length": 87,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2110192618269221048"
+   },
    "resources": []
   },
   {
@@ -1143,55 +1396,6 @@
    "resources": []
   },
   {
-   "id": "2110192618269221048",
-   "category": "scene3d",
-   "versions": [
-    "argon"
-   ],
-   "compared_with": [
-    "claude",
-    "gpt"
-   ],
-   "title": {
-    "zh": "Opus 5.5对比Gemini 4与GPT 6",
-    "en": "Opus 5.5 vs Gemini 4 vs GPT 6 comparison"
-   },
-   "creator": {
-    "handle": "rubenssoto_ai",
-    "name": "Rubens Soto | AI & SaaS"
-   },
-   "original_post_url": "https://x.com/rubenssoto_ai/status/2110192618269221048",
-   "posted_at": "2026-10-14T02:15:00.000Z",
-   "language": "en",
-   "media": [
-    {
-     "type": "video",
-     "width": 1280,
-     "height": 720,
-     "duration_seconds": 30,
-     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110178014185041922/img/tMMJdHFu-SzuM6bB.jpg"
-    }
-   ],
-   "views": 115428,
-   "likes": 645,
-   "bookmarks": 92,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
-   "tools_reported": [
-    "Gemini 4 Argon",
-    "GPT 6.1 Sol",
-    "GPT 6 Astra"
-   ],
-   "reference_assets": false,
-   "prompt": {
-    "kind": "brief",
-    "source": "author_reply",
-    "source_url": "https://x.com/rubenssoto_ai/status/2110477365071819210",
-    "length": 87,
-    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2110192618269221048"
-   },
-   "resources": []
-  },
-  {
    "id": "2115953941808550313",
    "category": "game",
    "versions": [
@@ -1221,10 +1425,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2115953743229222912/img/RCCfXn-Npg54kX9K.jpg"
     }
    ],
-   "views": 113509,
+   "views": 113601,
    "likes": 569,
    "bookmarks": 152,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Carbon",
     "GPT-6.1 Terra",
@@ -1266,10 +1470,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111861133535567872/img/mt7higf76X_fqFLn.jpg"
     }
    ],
-   "views": 109481,
-   "likes": 1000,
-   "bookmarks": 325,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 109551,
+   "likes": 1001,
+   "bookmarks": 324,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "DeepSeek Flash 1017",
@@ -1314,10 +1518,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110247729695805440/img/3p7zX1JF1q2gJ_VC.jpg"
     }
    ],
-   "views": 105531,
-   "likes": 497,
+   "views": 105546,
+   "likes": 495,
    "bookmarks": 169,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon"
    ],
@@ -1401,10 +1605,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116857010553569281/img/jZMaG953owbHmy0p.jpg"
     }
    ],
-   "views": 98859,
-   "likes": 185,
-   "bookmarks": 92,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 98923,
+   "likes": 186,
+   "bookmarks": 91,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "GPT-6 Astra",
     "Grok 4.7",
@@ -1444,10 +1648,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110154327218147329/img/qQMK1AxdQ6rmSH4a.jpg"
     }
    ],
-   "views": 97159,
-   "likes": 876,
-   "bookmarks": 193,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 97243,
+   "likes": 875,
+   "bookmarks": 192,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "GPT 6.1 Sol"
@@ -1487,10 +1691,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2113727359480393728/img/69jKhU8HUMP5blPn.jpg"
     }
    ],
-   "views": 95937,
-   "likes": 1096,
-   "bookmarks": 232,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 96003,
+   "likes": 1092,
+   "bookmarks": 230,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Kimi K3.1",
     "GPT-6 Astra",
@@ -1537,10 +1741,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110232579509227520/img/w2c0R7ECo4TZYO6-.jpg"
     }
    ],
-   "views": 95335,
-   "likes": 1058,
-   "bookmarks": 366,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 95696,
+   "likes": 1059,
+   "bookmarks": 367,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "Muse Wonder",
@@ -1582,10 +1786,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2115890626784813056/img/HCUNWk9MNqR_3Cg-.jpg"
     }
    ],
-   "views": 94909,
-   "likes": 970,
-   "bookmarks": 227,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 94988,
+   "likes": 969,
+   "bookmarks": 226,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Carbon"
    ],
@@ -1667,10 +1871,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110426116154695680/img/-qNjc0Hq1mR6CPnO.jpg"
     }
    ],
-   "views": 92998,
-   "likes": 1104,
-   "bookmarks": 317,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 93268,
+   "likes": 1100,
+   "bookmarks": 315,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon"
    ],
@@ -1747,10 +1951,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116604145687818240/img/LRu0KWixYUeTJFXD.jpg"
     }
    ],
-   "views": 87829,
-   "likes": 339,
+   "views": 88030,
+   "likes": 337,
    "bookmarks": 87,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Three.js"
    ],
@@ -1762,6 +1966,52 @@
     "length": 3295,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2116606788241969445"
    },
+   "resources": []
+  },
+  {
+   "id": "2113360370811470100",
+   "category": "scene3d",
+   "versions": [
+    "argon",
+    "carbon"
+   ],
+   "compared_with": [
+    "claude",
+    "kimi",
+    "qwen"
+   ],
+   "title": {
+    "zh": "四模型竞技场对比",
+    "en": "Four-model arena comparison"
+   },
+   "creator": {
+    "handle": "Haleeeemahh",
+    "name": "Haleemah"
+   },
+   "original_post_url": "https://x.com/Haleeeemahh/status/2113360370811470100",
+   "posted_at": "2026-10-22T20:02:31.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1168,
+     "height": 720,
+     "duration_seconds": 12,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2113360316046135296/img/_lZkHSfDhpVF1sib.jpg"
+    }
+   ],
+   "views": 87873,
+   "likes": 278,
+   "bookmarks": 50,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
+   "tools_reported": [
+    "Gemini 4 Carbon",
+    "Gemini 4 Argon",
+    "Kimi K3.1",
+    "Qwen 4"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -1805,49 +2055,45 @@
    "resources": []
   },
   {
-   "id": "2113360370811470100",
-   "category": "scene3d",
+   "id": "2124460788501106722",
+   "category": "motion",
    "versions": [
-    "argon",
-    "carbon"
+    "gemini-4"
    ],
-   "compared_with": [
-    "claude",
-    "kimi",
-    "qwen"
-   ],
+   "compared_with": [],
    "title": {
-    "zh": "四模型竞技场对比",
-    "en": "Four-model arena comparison"
+    "zh": "纯代码驱动的歌唱 ASCII 字符动画",
+    "en": "Singing ASCII art animation in pure code"
    },
    "creator": {
-    "handle": "Haleeeemahh",
-    "name": "Haleemah"
+    "handle": "chetaslua",
+    "name": "Chetaslua"
    },
-   "original_post_url": "https://x.com/Haleeeemahh/status/2113360370811470100",
-   "posted_at": "2026-10-22T20:02:31.000Z",
-   "language": "en",
+   "original_post_url": "https://x.com/chetaslua/status/2124460788501106722",
+   "posted_at": "2026-11-22T11:11:37.000Z",
+   "language": "",
    "media": [
     {
      "type": "video",
-     "width": 1168,
-     "height": 720,
-     "duration_seconds": 12,
-     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2113360316046135296/img/_lZkHSfDhpVF1sib.jpg"
+     "width": 2048,
+     "height": 1164,
+     "duration_seconds": 146,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXuYnwqbwAA-roJ.jpg"
     }
    ],
-   "views": 87606,
-   "likes": 278,
-   "bookmarks": 49,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
-   "tools_reported": [
-    "Gemini 4 Carbon",
-    "Gemini 4 Argon",
-    "Kimi K3.1",
-    "Qwen 4"
-   ],
+   "views": 87149,
+   "likes": 480,
+   "bookmarks": 236,
+   "views_checked_at": "2026-11-24T11:11:12.811Z",
+   "tools_reported": [],
    "reference_assets": false,
-   "prompt": null,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/chetaslua/status/2124460788501106722",
+    "length": 121,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2124460788501106722"
+   },
    "resources": []
   },
   {
@@ -1924,10 +2170,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110349415919632385/img/Clsc7hkM-brFwATH.jpg"
     }
    ],
-   "views": 85235,
-   "likes": 204,
+   "views": 85244,
+   "likes": 201,
    "bookmarks": 96,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "GPT-6 Astra"
@@ -2004,10 +2250,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111058399886503936/img/bzmPjbxWr5kJuGtc.jpg"
     }
    ],
-   "views": 81336,
-   "likes": 297,
+   "views": 81351,
+   "likes": 295,
    "bookmarks": 116,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini"
    ],
@@ -2044,10 +2290,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110049906429689856/img/jVQLQc7Kq60cHc7o.jpg"
     }
    ],
-   "views": 79248,
-   "likes": 1256,
+   "views": 79464,
+   "likes": 1253,
    "bookmarks": 79,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon"
    ],
@@ -2085,10 +2331,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110221532215791616/img/BhyIHgzlMnWrmb9Y.jpg"
     }
    ],
-   "views": 77874,
+   "views": 77901,
    "likes": 496,
    "bookmarks": 95,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "Gpt 6.1 Sol",
@@ -2127,10 +2373,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110047947220221952/img/xPDgcTz604S6eSIG.jpg"
     }
    ],
-   "views": 77057,
+   "views": 77072,
    "likes": 429,
    "bookmarks": 122,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon"
    ],
@@ -2246,10 +2492,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110442137024131072/img/d8juT3iFpz9ALThF.jpg"
     }
    ],
-   "views": 68451,
-   "likes": 634,
-   "bookmarks": 180,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 68466,
+   "likes": 633,
+   "bookmarks": 181,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Three.js",
     "Gemini 4 Argon"
@@ -2293,10 +2539,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110146934837235712/img/3zYdylleJG_NRARR.jpg"
     }
    ],
-   "views": 67463,
-   "likes": 333,
+   "views": 67525,
+   "likes": 331,
    "bookmarks": 97,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon"
    ],
@@ -2333,10 +2579,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110144789559562241/img/WgpCnuTlEj3sz4fX.jpg"
     }
    ],
-   "views": 65492,
+   "views": 65514,
    "likes": 318,
    "bookmarks": 107,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -2453,10 +2699,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2115819047853940737/img/dFBCS9p6HkhXPdH0.jpg"
     }
    ],
-   "views": 64124,
+   "views": 64245,
    "likes": 1136,
-   "bookmarks": 137,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "bookmarks": 138,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Carbon"
    ],
@@ -2587,10 +2833,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111524851727114240/img/LAfKa84WU-uVz7VI.jpg"
     }
    ],
-   "views": 63041,
-   "likes": 576,
+   "views": 63156,
+   "likes": 575,
    "bookmarks": 176,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Higgsfield"
    ],
@@ -2673,10 +2919,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110648334289448960/img/GiTvBWG8VaJgMEya.jpg"
     }
    ],
-   "views": 62058,
-   "likes": 308,
-   "bookmarks": 133,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 62077,
+   "likes": 304,
+   "bookmarks": 131,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon"
    ],
@@ -2688,6 +2934,46 @@
     "length": 16,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2110649723497394405"
    },
+   "resources": []
+  },
+  {
+   "id": "2121623349386477877",
+   "category": "scene3d",
+   "versions": [
+    "krypton"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "模型输出并排对比",
+    "en": "Side-by-side model output comparison"
+   },
+   "creator": {
+    "handle": "xKaka1456",
+    "name": "卡卡"
+   },
+   "original_post_url": "https://x.com/xKaka1456/status/2121623349386477877",
+   "posted_at": "2026-11-14T15:16:39.000Z",
+   "language": "ja",
+   "media": [
+    {
+     "type": "video",
+     "width": 720,
+     "height": 972,
+     "duration_seconds": 12,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121620876638703616/img/lpTt70njVWQ-QB6K.jpg"
+    }
+   ],
+   "views": 61608,
+   "likes": 541,
+   "bookmarks": 97,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
+   "tools_reported": [
+    "Gemini 4 Krypton"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -2776,6 +3062,42 @@
    "resources": []
   },
   {
+   "id": "2124508873897726028",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "交互式 3D 人眼结构与视觉模拟",
+    "en": "Interactive 3D human eye and vision model"
+   },
+   "creator": {
+    "handle": "thebuggeddev",
+    "name": "The Bugged Dev"
+   },
+   "original_post_url": "https://x.com/thebuggeddev/status/2124508873897726028",
+   "posted_at": "2026-11-22T14:22:41.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "video",
+     "width": 2828,
+     "height": 1840,
+     "duration_seconds": 85,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124506977971892224/img/yUdKs3yxdtJwGZqH.jpg"
+    }
+   ],
+   "views": 58780,
+   "likes": 1157,
+   "bookmarks": 894,
+   "views_checked_at": "2026-11-24T11:11:12.811Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2122221106304352257",
    "category": "mechanics",
    "versions": [
@@ -2820,46 +3142,6 @@
     "length": 170,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2122221106304352257"
    },
-   "resources": []
-  },
-  {
-   "id": "2121623349386477877",
-   "category": "scene3d",
-   "versions": [
-    "krypton"
-   ],
-   "compared_with": [
-    "claude"
-   ],
-   "title": {
-    "zh": "模型输出并排对比",
-    "en": "Side-by-side model output comparison"
-   },
-   "creator": {
-    "handle": "xKaka1456",
-    "name": "卡卡"
-   },
-   "original_post_url": "https://x.com/xKaka1456/status/2121623349386477877",
-   "posted_at": "2026-11-14T15:16:39.000Z",
-   "language": "ja",
-   "media": [
-    {
-     "type": "video",
-     "width": 720,
-     "height": 972,
-     "duration_seconds": 12,
-     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121620876638703616/img/lpTt70njVWQ-QB6K.jpg"
-    }
-   ],
-   "views": 57562,
-   "likes": 537,
-   "bookmarks": 93,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
-   "tools_reported": [
-    "Gemini 4 Krypton"
-   ],
-   "reference_assets": false,
-   "prompt": null,
    "resources": []
   },
   {
@@ -2935,10 +3217,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116368946857115648/img/BeoFS-BiPQHnWUAv.jpg"
     }
    ],
-   "views": 56710,
-   "likes": 102,
+   "views": 56801,
+   "likes": 101,
    "bookmarks": 15,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -3058,10 +3340,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116651814292430850/img/tvmLGDRKg9hw1JL4.jpg"
     }
    ],
-   "views": 54526,
+   "views": 54601,
    "likes": 160,
    "bookmarks": 26,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Carbon"
    ],
@@ -3100,10 +3382,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2113418074816724992/img/2CZKGzz9WaNkTo0V.jpg"
     }
    ],
-   "views": 54020,
-   "likes": 288,
-   "bookmarks": 109,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 54046,
+   "likes": 287,
+   "bookmarks": 108,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "DeepSeek V4.1",
@@ -3299,10 +3581,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2115849523096637441/img/TCMeP5TM0cgp0hhY.jpg"
     }
    ],
-   "views": 51901,
+   "views": 51967,
    "likes": 316,
    "bookmarks": 46,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Three.js",
     "Gemini 4 Argon"
@@ -3341,10 +3623,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116442127278198785/img/gq3wCT3NSt4VdImQ.jpg"
     }
    ],
-   "views": 51788,
+   "views": 51967,
    "likes": 175,
    "bookmarks": 64,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Carbon",
     "GPT-6 Astra"
@@ -3357,6 +3639,48 @@
     "length": 61,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2116445289468850366"
    },
+   "resources": []
+  },
+  {
+   "id": "2120956699951628637",
+   "category": "svg",
+   "versions": [
+    "hydrogen"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "女孩与猫的双人自行车 SVG",
+    "en": "Girl and cat tandem ride SVG"
+   },
+   "creator": {
+    "handle": "marcthecreatorr",
+    "name": "Marcel"
+   },
+   "original_post_url": "https://x.com/marcthecreatorr/status/2120956699951628637",
+   "posted_at": "2026-11-12T19:07:37.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 720,
+     "height": 720,
+     "duration_seconds": 28,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120956511706820608/img/--IRgcT_lAngEvPo.jpg"
+    }
+   ],
+   "views": 51250,
+   "likes": 381,
+   "bookmarks": 101,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
+   "tools_reported": [
+    "Gemini 4 Hydrogen",
+    "Claude Code",
+    "Cursor"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -3389,10 +3713,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110407944546443264/img/RSOb0cy84eIIDenv.jpg"
     }
    ],
-   "views": 51048,
-   "likes": 344,
-   "bookmarks": 111,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 51074,
+   "likes": 342,
+   "bookmarks": 110,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": {
@@ -3566,10 +3890,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110087261584834560/img/XCcTIm5TAxYcpk6M.jpg"
     }
    ],
-   "views": 47573,
-   "likes": 207,
+   "views": 47586,
+   "likes": 206,
    "bookmarks": 54,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon"
    ],
@@ -3606,10 +3930,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2115496768523603969/img/eO_CQhYlf5iZzbjI.jpg"
     }
    ],
-   "views": 47065,
-   "likes": 200,
+   "views": 47082,
+   "likes": 199,
    "bookmarks": 88,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon"
    ],
@@ -3699,6 +4023,52 @@
    "resources": []
   },
   {
+   "id": "2111501344750059978",
+   "category": "scene3d",
+   "versions": [
+    "argon"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "3D西瓜毛发渲染对比",
+    "en": "3D watermelon fur render comparison"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2111501344750059978",
+   "posted_at": "2026-10-17T16:55:25.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 720,
+     "height": 910,
+     "duration_seconds": 15,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111501172259401728/img/ie1WUG426dYfuoTw.jpg"
+    }
+   ],
+   "views": 46520,
+   "likes": 282,
+   "bookmarks": 88,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
+   "tools_reported": [
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2111502058608050536",
+    "length": 3848,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2111501344750059978"
+   },
+   "resources": []
+  },
+  {
    "id": "2123411465143009414",
    "category": "ui",
    "versions": [
@@ -3734,52 +4104,6 @@
    ],
    "reference_assets": false,
    "prompt": null,
-   "resources": []
-  },
-  {
-   "id": "2111501344750059978",
-   "category": "scene3d",
-   "versions": [
-    "argon"
-   ],
-   "compared_with": [
-    "claude"
-   ],
-   "title": {
-    "zh": "3D西瓜毛发渲染对比",
-    "en": "3D watermelon fur render comparison"
-   },
-   "creator": {
-    "handle": "vib3coded",
-    "name": "Vib3Coded"
-   },
-   "original_post_url": "https://x.com/vib3coded/status/2111501344750059978",
-   "posted_at": "2026-10-17T16:55:25.000Z",
-   "language": "en",
-   "media": [
-    {
-     "type": "video",
-     "width": 720,
-     "height": 910,
-     "duration_seconds": 15,
-     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111501172259401728/img/ie1WUG426dYfuoTw.jpg"
-    }
-   ],
-   "views": 46386,
-   "likes": 282,
-   "bookmarks": 88,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
-   "tools_reported": [
-    "Three.js"
-   ],
-   "reference_assets": false,
-   "prompt": {
-    "kind": "full",
-    "source": "author_reply",
-    "source_url": "https://x.com/vib3coded/status/2111502058608050536",
-    "length": 3848,
-    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2111501344750059978"
-   },
    "resources": []
   },
   {
@@ -3849,10 +4173,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103820769495261185/img/5qlLZ8wvfTgqE0Yg.jpg"
     }
    ],
-   "views": 46142,
-   "likes": 230,
+   "views": 46151,
+   "likes": 229,
    "bookmarks": 30,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -4097,10 +4421,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110381448989401088/img/w9wCPRUUQPKJ3zhO.jpg"
     }
    ],
-   "views": 42470,
+   "views": 42475,
    "likes": 123,
    "bookmarks": 54,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -4137,10 +4461,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116108348554649602/img/T_pDBHYziDY4bI-o.jpg"
     }
    ],
-   "views": 42052,
+   "views": 42345,
    "likes": 309,
-   "bookmarks": 63,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "bookmarks": 62,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Carbon"
    ],
@@ -4233,6 +4557,49 @@
    "resources": []
   },
   {
+   "id": "2119927838321328577",
+   "category": "game",
+   "versions": [
+    "carbon"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "Chrome 恐龙游戏模型对比",
+    "en": "Chrome Dino model comparison"
+   },
+   "creator": {
+    "handle": "noclipepe",
+    "name": "noclipepe"
+   },
+   "original_post_url": "https://x.com/noclipepe/status/2119927838321328577",
+   "posted_at": "2026-11-09T22:59:17.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 720,
+     "height": 900,
+     "duration_seconds": 27,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119923874267607040/img/3L1LL6Id1yXrKHCY.jpg"
+    }
+   ],
+   "views": 39544,
+   "likes": 183,
+   "bookmarks": 94,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
+   "tools_reported": [
+    "Fable 5.2",
+    "Gemini 4 Carbon",
+    "GPT-6 Astra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2123898746329071698",
    "category": "scene3d",
    "versions": [
@@ -4303,10 +4670,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110746821240803328/img/y-pZu-KMyU0He6Xf.jpg"
     }
    ],
-   "views": 38724,
-   "likes": 378,
-   "bookmarks": 133,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 38733,
+   "likes": 375,
+   "bookmarks": 132,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Three.js"
    ],
@@ -4318,48 +4685,6 @@
     "length": 1778,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2110746878040055904"
    },
-   "resources": []
-  },
-  {
-   "id": "2120956699951628637",
-   "category": "svg",
-   "versions": [
-    "hydrogen"
-   ],
-   "compared_with": [
-    "claude"
-   ],
-   "title": {
-    "zh": "女孩与猫的双人自行车 SVG",
-    "en": "Girl and cat tandem ride SVG"
-   },
-   "creator": {
-    "handle": "marcthecreatorr",
-    "name": "Marcel"
-   },
-   "original_post_url": "https://x.com/marcthecreatorr/status/2120956699951628637",
-   "posted_at": "2026-11-12T19:07:37.000Z",
-   "language": "en",
-   "media": [
-    {
-     "type": "video",
-     "width": 720,
-     "height": 720,
-     "duration_seconds": 28,
-     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120956511706820608/img/--IRgcT_lAngEvPo.jpg"
-    }
-   ],
-   "views": 38676,
-   "likes": 379,
-   "bookmarks": 99,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
-   "tools_reported": [
-    "Gemini 4 Hydrogen",
-    "Claude Code",
-    "Cursor"
-   ],
-   "reference_assets": false,
-   "prompt": null,
    "resources": []
   },
   {
@@ -4436,10 +4761,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110798802378534912/img/7VogbIXJIeFpxmgJ.jpg"
     }
    ],
-   "views": 38375,
+   "views": 38384,
    "likes": 128,
    "bookmarks": 47,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "ChatGPT-6 Astra",
@@ -4563,10 +4888,50 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106127606571515904/img/wIge5Xkamjzt3kAb.jpg"
     }
    ],
-   "views": 37941,
+   "views": 37953,
    "likes": 140,
    "bookmarks": 15,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2111580341626687586",
+   "category": "scene3d",
+   "versions": [
+    "argon"
+   ],
+   "compared_with": [
+    "claude",
+    "deepseek",
+    "muse"
+   ],
+   "title": {
+    "zh": "埃菲尔铁塔建造模型基准对比",
+    "en": "Eiffel Tower build benchmark across models"
+   },
+   "creator": {
+    "handle": "EnvolDev",
+    "name": "Tony"
+   },
+   "original_post_url": "https://x.com/EnvolDev/status/2111580341626687586",
+   "posted_at": "2026-10-17T22:09:19.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 810,
+     "height": 720,
+     "duration_seconds": 20,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111580062806061056/img/_aLvjTlSfGM6FTqA.jpg"
+    }
+   ],
+   "views": 37893,
+   "likes": 222,
+   "bookmarks": 49,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -4618,46 +4983,6 @@
    "resources": []
   },
   {
-   "id": "2111580341626687586",
-   "category": "scene3d",
-   "versions": [
-    "argon"
-   ],
-   "compared_with": [
-    "claude",
-    "deepseek",
-    "muse"
-   ],
-   "title": {
-    "zh": "埃菲尔铁塔建造模型基准对比",
-    "en": "Eiffel Tower build benchmark across models"
-   },
-   "creator": {
-    "handle": "EnvolDev",
-    "name": "Tony"
-   },
-   "original_post_url": "https://x.com/EnvolDev/status/2111580341626687586",
-   "posted_at": "2026-10-17T22:09:19.000Z",
-   "language": "en",
-   "media": [
-    {
-     "type": "video",
-     "width": 810,
-     "height": 720,
-     "duration_seconds": 20,
-     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111580062806061056/img/_aLvjTlSfGM6FTqA.jpg"
-    }
-   ],
-   "views": 37791,
-   "likes": 220,
-   "bookmarks": 49,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
-   "tools_reported": [],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
    "id": "2110290068514762969",
    "category": "motion",
    "versions": [
@@ -4686,55 +5011,12 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110289271114625025/img/-vLHDdB930-t9ugz.jpg"
     }
    ],
-   "views": 37605,
-   "likes": 160,
+   "views": 37618,
+   "likes": 161,
    "bookmarks": 90,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Renoise CLI"
-   ],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
-   "id": "2119927838321328577",
-   "category": "game",
-   "versions": [
-    "carbon"
-   ],
-   "compared_with": [
-    "claude",
-    "gpt"
-   ],
-   "title": {
-    "zh": "Chrome 恐龙游戏模型对比",
-    "en": "Chrome Dino model comparison"
-   },
-   "creator": {
-    "handle": "noclipepe",
-    "name": "noclipepe"
-   },
-   "original_post_url": "https://x.com/noclipepe/status/2119927838321328577",
-   "posted_at": "2026-11-09T22:59:17.000Z",
-   "language": "en",
-   "media": [
-    {
-     "type": "video",
-     "width": 720,
-     "height": 900,
-     "duration_seconds": 27,
-     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119923874267607040/img/3L1LL6Id1yXrKHCY.jpg"
-    }
-   ],
-   "views": 37274,
-   "likes": 177,
-   "bookmarks": 92,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
-   "tools_reported": [
-    "Fable 5.2",
-    "Gemini 4 Carbon",
-    "GPT-6 Astra"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -4809,6 +5091,50 @@
    "resources": []
   },
   {
+   "id": "2124760560445030409",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "3D 场景生成测试",
+    "en": "3D scene generation test"
+   },
+   "creator": {
+    "handle": "SPAC89",
+    "name": "Iam_"
+   },
+   "original_post_url": "https://x.com/SPAC89/status/2124760560445030409",
+   "posted_at": "2026-11-23T07:02:48.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 30,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124760428240687104/img/eNKF9M_ictO0dcBV.jpg"
+    }
+   ],
+   "views": 35350,
+   "likes": 281,
+   "bookmarks": 65,
+   "views_checked_at": "2026-11-24T11:25:04.779Z",
+   "tools_reported": [
+    "GLM 5.4 Max",
+    "Claude Opus 5.5",
+    "Fable 5.2",
+    "Kimi 3.1 Pro",
+    "Cerebras"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2123816445180088544",
    "category": "svg",
    "versions": [
@@ -4878,10 +5204,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110501463197974528/img/IWApoMaNubi-8jZH.jpg"
     }
    ],
-   "views": 34862,
-   "likes": 389,
+   "views": 34910,
+   "likes": 390,
    "bookmarks": 124,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Higgsfield",
     "Gemini 4 Argon"
@@ -4919,10 +5245,10 @@
      "thumbnail_url": "https://pbs.twimg.com/ext_tw_video_thumb/2110249314362765312/pu/img/msk2Ef6FnrrOUxkU.jpg"
     }
    ],
-   "views": 33413,
-   "likes": 174,
-   "bookmarks": 80,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 33464,
+   "likes": 173,
+   "bookmarks": 79,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -4957,10 +5283,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105710903782252544/img/24GHVyULICkEjE5v.jpg"
     }
    ],
-   "views": 32714,
-   "likes": 234,
+   "views": 32724,
+   "likes": 233,
    "bookmarks": 40,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "Google Lyria 3.5"
@@ -4999,10 +5325,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2115727567328051200/img/OUeAZmTZVGw7vFy8.jpg"
     }
    ],
-   "views": 32352,
+   "views": 32390,
    "likes": 344,
    "bookmarks": 104,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Carbon",
     "GPT-6 Astra"
@@ -5054,6 +5380,44 @@
    "resources": []
   },
   {
+   "id": "2124497953016656155",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "潮水修道院光线追踪体素短片",
+    "en": "Tidewater Abbey ray-traced voxel film"
+   },
+   "creator": {
+    "handle": "IamEmily2050",
+    "name": "Emily"
+   },
+   "original_post_url": "https://x.com/IamEmily2050/status/2124497953016656155",
+   "posted_at": "2026-11-22T13:39:17.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "video",
+     "width": 3840,
+     "height": 2160,
+     "duration_seconds": 120,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXu65nRasAEvwdG.jpg"
+    }
+   ],
+   "views": 32114,
+   "likes": 572,
+   "bookmarks": 295,
+   "views_checked_at": "2026-11-24T11:11:12.811Z",
+   "tools_reported": [
+    "Antigravity"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110357629159854196",
    "category": "scene3d",
    "versions": [
@@ -5082,10 +5446,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110357575376289792/img/ffNokU8APNOKZp0Z.jpg"
     }
    ],
-   "views": 31679,
-   "likes": 455,
+   "views": 31691,
+   "likes": 453,
    "bookmarks": 186,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "Blender",
@@ -5125,10 +5489,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110071272088403969/img/lg-_W08m60zA3b_y.jpg"
     }
    ],
-   "views": 30841,
-   "likes": 412,
+   "views": 30850,
+   "likes": 410,
    "bookmarks": 61,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon"
    ],
@@ -5165,10 +5529,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106153164386775041/img/SzVGT8VlWZDCOJ4H.jpg"
     }
    ],
-   "views": 30781,
-   "likes": 286,
+   "views": 30790,
+   "likes": 285,
    "bookmarks": 37,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -5241,13 +5605,53 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110511322442190849/img/Sa56MrniM6RTA24X.jpg"
     }
    ],
-   "views": 30622,
-   "likes": 208,
-   "bookmarks": 44,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 30643,
+   "likes": 209,
+   "bookmarks": 43,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Higgsfield",
     "Gemini 4 Argon"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2112583451958538598",
+   "category": "sim",
+   "versions": [
+    "argon"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "芯片厂模拟策略场景对比",
+    "en": "Chip fab strategy sim comparison"
+   },
+   "creator": {
+    "handle": "anxuanng",
+    "name": "An Xuan"
+   },
+   "original_post_url": "https://x.com/anxuanng/status/2112583451958538598",
+   "posted_at": "2026-10-20T16:35:19.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 720,
+     "height": 810,
+     "duration_seconds": 30,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2112583320798404608/img/l_yfgPNneGXnTucU.jpg"
+    }
+   ],
+   "views": 29835,
+   "likes": 721,
+   "bookmarks": 538,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
+   "tools_reported": [
+    "Blender"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -5335,46 +5739,6 @@
    "resources": []
   },
   {
-   "id": "2112583451958538598",
-   "category": "sim",
-   "versions": [
-    "argon"
-   ],
-   "compared_with": [
-    "claude"
-   ],
-   "title": {
-    "zh": "芯片厂模拟策略场景对比",
-    "en": "Chip fab strategy sim comparison"
-   },
-   "creator": {
-    "handle": "anxuanng",
-    "name": "An Xuan"
-   },
-   "original_post_url": "https://x.com/anxuanng/status/2112583451958538598",
-   "posted_at": "2026-10-20T16:35:19.000Z",
-   "language": "en",
-   "media": [
-    {
-     "type": "video",
-     "width": 720,
-     "height": 810,
-     "duration_seconds": 30,
-     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2112583320798404608/img/l_yfgPNneGXnTucU.jpg"
-    }
-   ],
-   "views": 29742,
-   "likes": 721,
-   "bookmarks": 539,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
-   "tools_reported": [
-    "Blender"
-   ],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
    "id": "2124083607635718386",
    "category": "ui",
    "versions": [
@@ -5441,10 +5805,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110345396547645440/img/ISOqAMtVQuw2Hr1s.jpg"
     }
    ],
-   "views": 29228,
-   "likes": 934,
-   "bookmarks": 426,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 29377,
+   "likes": 931,
+   "bookmarks": 427,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "Muse Wonder",
@@ -5485,10 +5849,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2113961215198212096/img/sHs44hnhRfzikIls.jpg"
     }
    ],
-   "views": 29139,
+   "views": 29210,
    "likes": 317,
    "bookmarks": 35,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Claude Code",
     "Gemini 4 Carbon"
@@ -5526,10 +5890,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110530007248642048/img/t7-54e9SVu-ZBDjV.jpg"
     }
    ],
-   "views": 28909,
-   "likes": 235,
+   "views": 29058,
+   "likes": 236,
    "bookmarks": 44,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Higgsfield",
     "Gemini 4 Argon"
@@ -5567,10 +5931,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118366550528778241/img/mQomyrf7RGdYLYr6.jpg"
     }
    ],
-   "views": 28516,
+   "views": 28597,
    "likes": 143,
    "bookmarks": 54,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Carbon"
    ],
@@ -5614,15 +5978,53 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2113183443815436288/img/tQvV-jgsCeNdHMrw.jpg"
     }
    ],
-   "views": 28132,
-   "likes": 402,
-   "bookmarks": 64,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 28201,
+   "likes": 403,
+   "bookmarks": 65,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Three.js",
     "Gemini 4 Carbon",
     "GPT-6 Astra"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124408795334119710",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "deepseek"
+   ],
+   "title": {
+    "zh": "智能体循环架构交互式网页",
+    "en": "Agent loop architecture HTML visualization"
+   },
+   "creator": {
+    "handle": "antiAIvo",
+    "name": "纳米AI"
+   },
+   "original_post_url": "https://x.com/antiAIvo/status/2124408795334119710",
+   "posted_at": "2026-11-22T07:45:01.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "video",
+     "width": 3060,
+     "height": 1830,
+     "duration_seconds": 24,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124407300790345728/img/iYqrsoaR8INGYMl5.jpg"
+    }
+   ],
+   "views": 28132,
+   "likes": 515,
+   "bookmarks": 435,
+   "views_checked_at": "2026-11-24T11:11:12.811Z",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -5705,6 +6107,51 @@
    "resources": []
   },
   {
+   "id": "2111932183946449162",
+   "category": "scene3d",
+   "versions": [
+    "argon"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt",
+    "grok",
+    "muse"
+   ],
+   "title": {
+    "zh": "多模型赛博朋克角色对比",
+    "en": "Multi-model cyberpunk character comparison"
+   },
+   "creator": {
+    "handle": "gtanczyk",
+    "name": "Grzegorz Tańczyk"
+   },
+   "original_post_url": "https://x.com/gtanczyk/status/2111932183946449162",
+   "posted_at": "2026-10-18T21:27:25.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1280,
+     "height": 720,
+     "duration_seconds": 24,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111930547479904257/img/wsxjnQcZi2jTf_xN.jpg"
+    }
+   ],
+   "views": 27480,
+   "likes": 229,
+   "bookmarks": 138,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
+   "tools_reported": [
+    "Claude Code",
+    "OpenRouter",
+    "Gemini API"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2123832990598045903",
    "category": "motion",
    "versions": [
@@ -5741,51 +6188,6 @@
    "resources": []
   },
   {
-   "id": "2111932183946449162",
-   "category": "scene3d",
-   "versions": [
-    "argon"
-   ],
-   "compared_with": [
-    "claude",
-    "gpt",
-    "grok",
-    "muse"
-   ],
-   "title": {
-    "zh": "多模型赛博朋克角色对比",
-    "en": "Multi-model cyberpunk character comparison"
-   },
-   "creator": {
-    "handle": "gtanczyk",
-    "name": "Grzegorz Tańczyk"
-   },
-   "original_post_url": "https://x.com/gtanczyk/status/2111932183946449162",
-   "posted_at": "2026-10-18T21:27:25.000Z",
-   "language": "en",
-   "media": [
-    {
-     "type": "video",
-     "width": 1280,
-     "height": 720,
-     "duration_seconds": 24,
-     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111930547479904257/img/wsxjnQcZi2jTf_xN.jpg"
-    }
-   ],
-   "views": 27458,
-   "likes": 229,
-   "bookmarks": 138,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
-   "tools_reported": [
-    "Claude Code",
-    "OpenRouter",
-    "Gemini API"
-   ],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
    "id": "2110471008285282669",
    "category": "physics",
    "versions": [
@@ -5814,10 +6216,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110469584964968448/img/49VuQKrejwMGS-Zk.jpg"
     }
    ],
-   "views": 27340,
+   "views": 27365,
    "likes": 220,
    "bookmarks": 52,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Higgsfield",
     "Gemini 4 Argon"
@@ -5857,10 +6259,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116970661721624576/img/9J8Pax3kXnKko06G.jpg"
     }
    ],
-   "views": 27023,
+   "views": 27055,
    "likes": 122,
-   "bookmarks": 24,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "bookmarks": 23,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "SVG",
     "CSS",
@@ -5873,6 +6275,53 @@
     "source_url": "https://x.com/olezhavich/status/2116974037729423558",
     "length": 2406,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2116973463378248107"
+   },
+   "resources": []
+  },
+  {
+   "id": "2124353151646200097",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "gpt"
+   ],
+   "title": {
+    "zh": "巴洛克图书馆漫游场景",
+    "en": "Baroque library synchronized walkthrough"
+   },
+   "creator": {
+    "handle": "teddyaisi",
+    "name": "Teddy"
+   },
+   "original_post_url": "https://x.com/teddyaisi/status/2124353151646200097",
+   "posted_at": "2026-11-22T04:03:54.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "video",
+     "width": 1280,
+     "height": 1440,
+     "duration_seconds": 20,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124352679287959552/img/HY8O2kU6zwLIyBW5.jpg"
+    }
+   ],
+   "views": 27050,
+   "likes": 219,
+   "bookmarks": 86,
+   "views_checked_at": "2026-11-24T11:11:12.811Z",
+   "tools_reported": [
+    "GPT-6.2-Astra",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/teddyaisi/status/2124353151646200097",
+    "length": 59,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2124353151646200097"
    },
    "resources": []
   },
@@ -5919,6 +6368,45 @@
    "resources": []
   },
   {
+   "id": "2121326233044537688",
+   "category": "scene3d",
+   "versions": [
+    "carbon",
+    "hydrogen"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "飞屋房子建模四模型对比测试",
+    "en": "Up house build test across four models"
+   },
+   "creator": {
+    "handle": "noclipepe",
+    "name": "noclipepe"
+   },
+   "original_post_url": "https://x.com/noclipepe/status/2121326233044537688",
+   "posted_at": "2026-11-13T19:36:00.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 720,
+     "duration_seconds": 36,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121325889690460160/img/Ej_0aw6X-YRrAMZ9.jpg"
+    }
+   ],
+   "views": 26851,
+   "likes": 147,
+   "bookmarks": 43,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110449758439723292",
    "category": "game",
    "versions": [
@@ -5947,10 +6435,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110441207944171520/img/2hFZa9n2lKoEYUSy.jpg"
     }
    ],
-   "views": 26385,
-   "likes": 211,
+   "views": 26453,
+   "likes": 212,
    "bookmarks": 59,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Higgsfield",
     "Gemini 4 Argon"
@@ -5990,10 +6478,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116486021432901632/img/FoSRhi_RQP2Xlfr3.jpg"
     }
    ],
-   "views": 26332,
-   "likes": 122,
+   "views": 26350,
+   "likes": 119,
    "bookmarks": 46,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "GPT-6 Astra",
     "Gemini 4 Argon",
@@ -6033,10 +6521,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2117595173412626432/img/ecEmg1rayOgqx5IH.jpg"
     }
    ],
-   "views": 26170,
-   "likes": 152,
+   "views": 26306,
+   "likes": 155,
    "bookmarks": 66,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "GPT-6.1 Terra"
@@ -6116,10 +6604,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2117655771341066240/img/Dzyv1kebil0lJyBn.jpg"
     }
    ],
-   "views": 25965,
+   "views": 26050,
    "likes": 431,
    "bookmarks": 75,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Carbon"
    ],
@@ -6131,45 +6619,6 @@
     "length": 38,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2117682945116774562"
    },
-   "resources": []
-  },
-  {
-   "id": "2121326233044537688",
-   "category": "scene3d",
-   "versions": [
-    "carbon",
-    "hydrogen"
-   ],
-   "compared_with": [
-    "claude"
-   ],
-   "title": {
-    "zh": "飞屋房子建模四模型对比测试",
-    "en": "Up house build test across four models"
-   },
-   "creator": {
-    "handle": "noclipepe",
-    "name": "noclipepe"
-   },
-   "original_post_url": "https://x.com/noclipepe/status/2121326233044537688",
-   "posted_at": "2026-11-13T19:36:00.000Z",
-   "language": "en",
-   "media": [
-    {
-     "type": "video",
-     "width": 1080,
-     "height": 720,
-     "duration_seconds": 36,
-     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121325889690460160/img/Ej_0aw6X-YRrAMZ9.jpg"
-    }
-   ],
-   "views": 25864,
-   "likes": 144,
-   "bookmarks": 42,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
-   "tools_reported": [],
-   "reference_assets": true,
-   "prompt": null,
    "resources": []
   },
   {
@@ -6256,6 +6705,54 @@
    "resources": []
   },
   {
+   "id": "2124625485590327733",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "Blender 北欧战王王座模型",
+    "en": "Norse war-king throne built in Blender"
+   },
+   "creator": {
+    "handle": "maxt3chno",
+    "name": "Max"
+   },
+   "original_post_url": "https://x.com/maxt3chno/status/2124625485590327733",
+   "posted_at": "2026-11-22T22:06:04.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "video",
+     "width": 2220,
+     "height": 1440,
+     "duration_seconds": 19,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124624167647469568/img/4vtbZ7Lyfl2akGlw.jpg"
+    }
+   ],
+   "views": 25303,
+   "likes": 228,
+   "bookmarks": 153,
+   "views_checked_at": "2026-11-24T11:11:12.811Z",
+   "tools_reported": [
+    "Blender",
+    "Blender MCP",
+    "Claude Opus 5.5"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/maxt3chno/status/2124625701697368556",
+    "length": 4748,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2124625485590327733"
+   },
+   "resources": []
+  },
+  {
    "id": "2110385278246654052",
    "category": "ui",
    "versions": [
@@ -6284,10 +6781,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110384917833994240/img/XnoXoDtMopEAeEdE.jpg"
     }
    ],
-   "views": 25228,
-   "likes": 217,
+   "views": 25243,
+   "likes": 216,
    "bookmarks": 68,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon"
    ],
@@ -6370,16 +6867,52 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111784639845318656/img/-UMM30-0NWWdHB1R.jpg"
     }
    ],
-   "views": 24763,
-   "likes": 113,
+   "views": 24778,
+   "likes": 114,
    "bookmarks": 23,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "DeepSeek",
     "Gemini",
     "GPT"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124352577852821919",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "Pi 智能体架构交互式可视化网页",
+    "en": "Interactive Pi agent architecture visualizer"
+   },
+   "creator": {
+    "handle": "chasen_liao",
+    "name": "Chasen"
+   },
+   "original_post_url": "https://x.com/chasen_liao/status/2124352577852821919",
+   "posted_at": "2026-11-22T04:01:37.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 30,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124351290855874560/img/gDkwk-2Tm1nOT31W.jpg"
+    }
+   ],
+   "views": 23792,
+   "likes": 415,
+   "bookmarks": 427,
+   "views_checked_at": "2026-11-24T11:11:12.811Z",
+   "tools_reported": [],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -6413,10 +6946,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106049666899202048/img/AkmVBxaBY9AO5JFY.jpg"
     }
    ],
-   "views": 23504,
+   "views": 23521,
    "likes": 159,
    "bookmarks": 44,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4",
     "Astra",
@@ -6457,10 +6990,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110405435475873792/img/CxbjLQaCRJONX88M.jpg"
     }
    ],
-   "views": 23295,
-   "likes": 110,
+   "views": 23296,
+   "likes": 109,
    "bookmarks": 48,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "GPT-6 Astra",
@@ -6507,10 +7040,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2112247157142978560/img/Cvn9QjcLBf7bvk5k.jpg"
     }
    ],
-   "views": 23090,
-   "likes": 247,
+   "views": 23097,
+   "likes": 246,
    "bookmarks": 79,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "DeepSeek V4.1",
     "MiniMax M3.1 Flash",
@@ -6640,10 +7173,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110302479145668609/img/ee4KvRwx85Xm_Wn0.jpg"
     }
    ],
-   "views": 22286,
+   "views": 22317,
    "likes": 104,
-   "bookmarks": 46,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "bookmarks": 45,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -6774,14 +7307,53 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2112249852096901120/img/kvBcF5dOmCB4HWbx.jpg"
     }
    ],
-   "views": 21378,
+   "views": 21426,
    "likes": 456,
-   "bookmarks": 352,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "bookmarks": 353,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "Blender",
     "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124572099750891577",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "图像转 3D 动态效果演示",
+    "en": "Image-to-3D motion teaser"
+   },
+   "creator": {
+    "handle": "ai_for_success",
+    "name": "AshutoshShrivastava"
+   },
+   "original_post_url": "https://x.com/ai_for_success/status/2124572099750891577",
+   "posted_at": "2026-11-22T18:33:55.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "video",
+     "width": 3840,
+     "height": 1928,
+     "duration_seconds": 8,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124571243206889472/img/TSs-qQJ5LUMWbyN9.jpg"
+    }
+   ],
+   "views": 20991,
+   "likes": 458,
+   "bookmarks": 410,
+   "views_checked_at": "2026-11-24T11:11:12.811Z",
+   "tools_reported": [
+    "Antigravity",
+    "Magnific MCP"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -6856,10 +7428,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110420431207612416/img/RJT21LyqRR1O7iS-.jpg"
     }
    ],
-   "views": 19991,
-   "likes": 153,
+   "views": 20016,
+   "likes": 154,
    "bookmarks": 29,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Higgsfield"
    ],
@@ -6896,10 +7468,50 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110412754549084160/img/pD2TBFu2ofirZ6bP.jpg"
     }
    ],
-   "views": 19869,
+   "views": 19912,
    "likes": 318,
    "bookmarks": 91,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
+   "tools_reported": [
+    "Higgsfield"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2110417458846916697",
+   "category": "game",
+   "versions": [
+    "argon"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "赛博朋克游戏开发对比",
+    "en": "Cyberpunk game dev comparison"
+   },
+   "creator": {
+    "handle": "higgsfield_ai",
+    "name": "Higgsfield AI 🧩"
+   },
+   "original_post_url": "https://x.com/higgsfield_ai/status/2110417458846916697",
+   "posted_at": "2026-10-14T17:08:26.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 720,
+     "height": 810,
+     "duration_seconds": 20,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110416827285377024/img/_XAtiwwkhY69HJ65.jpg"
+    }
+   ],
+   "views": 19808,
+   "likes": 189,
+   "bookmarks": 39,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Higgsfield"
    ],
@@ -6948,8 +7560,60 @@
    "resources": []
   },
   {
-   "id": "2110417458846916697",
-   "category": "game",
+   "id": "2124470064422527151",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "Blender Q 版低多边形人体素模",
+    "en": "Chibi low-poly base body mesh in Blender"
+   },
+   "creator": {
+    "handle": "fe_yukichi",
+    "name": "ゆきち/ AI"
+   },
+   "original_post_url": "https://x.com/fe_yukichi/status/2124470064422527151",
+   "posted_at": "2026-11-22T11:48:28.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "video",
+     "width": 1024,
+     "height": 938,
+     "duration_seconds": 17,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124470047800426496/img/4lbMNiHb2-CzgWDf.jpg"
+    },
+    {
+     "type": "photo",
+     "width": 543,
+     "height": 768,
+     "duration_seconds": null,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXuiEbjbQAAU7lK?format=png&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 403,
+     "height": 768,
+     "duration_seconds": null,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXuiFr_agAA9NhS?format=png&name=small"
+    }
+   ],
+   "views": 19515,
+   "likes": 245,
+   "bookmarks": 243,
+   "views_checked_at": "2026-11-24T11:11:12.811Z",
+   "tools_reported": [
+    "Blender"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2110121002332295599",
+   "category": "scene3d",
    "versions": [
     "argon"
    ],
@@ -6957,34 +7621,41 @@
     "claude"
    ],
    "title": {
-    "zh": "赛博朋克游戏开发对比",
-    "en": "Cyberpunk game dev comparison"
+    "zh": "达芬奇工作室3D复原：双模型对比",
+    "en": "Da Vinci workshop 3D build: Gemini vs Opus"
    },
    "creator": {
-    "handle": "higgsfield_ai",
-    "name": "Higgsfield AI 🧩"
+    "handle": "techhalla",
+    "name": "TechHalla"
    },
-   "original_post_url": "https://x.com/higgsfield_ai/status/2110417458846916697",
-   "posted_at": "2026-10-14T17:08:26.000Z",
+   "original_post_url": "https://x.com/techhalla/status/2110121002332295599",
+   "posted_at": "2026-10-13T21:30:25.000Z",
    "language": "en",
    "media": [
     {
      "type": "video",
      "width": 720,
-     "height": 810,
-     "duration_seconds": 20,
-     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110416827285377024/img/_XAtiwwkhY69HJ65.jpg"
+     "height": 900,
+     "duration_seconds": 101,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110119796457033728/img/gn7uGEhyKPj8auZm.jpg"
     }
    ],
-   "views": 19746,
-   "likes": 189,
-   "bookmarks": 39,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 19504,
+   "likes": 127,
+   "bookmarks": 77,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
-    "Higgsfield"
+    "Three.js",
+    "WebGL"
    ],
    "reference_assets": false,
-   "prompt": null,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/techhalla/status/2110121005201150011",
+    "length": 503,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2110121002332295599"
+   },
    "resources": []
   },
   {
@@ -7028,53 +7699,6 @@
     "source_url": "https://x.com/lucian__03/status/2124130234454938102",
     "length": 29,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2124130234454938102"
-   },
-   "resources": []
-  },
-  {
-   "id": "2110121002332295599",
-   "category": "scene3d",
-   "versions": [
-    "argon"
-   ],
-   "compared_with": [
-    "claude"
-   ],
-   "title": {
-    "zh": "达芬奇工作室3D复原：双模型对比",
-    "en": "Da Vinci workshop 3D build: Gemini vs Opus"
-   },
-   "creator": {
-    "handle": "techhalla",
-    "name": "TechHalla"
-   },
-   "original_post_url": "https://x.com/techhalla/status/2110121002332295599",
-   "posted_at": "2026-10-13T21:30:25.000Z",
-   "language": "en",
-   "media": [
-    {
-     "type": "video",
-     "width": 720,
-     "height": 900,
-     "duration_seconds": 101,
-     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110119796457033728/img/gn7uGEhyKPj8auZm.jpg"
-    }
-   ],
-   "views": 19461,
-   "likes": 127,
-   "bookmarks": 77,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
-   "tools_reported": [
-    "Three.js",
-    "WebGL"
-   ],
-   "reference_assets": false,
-   "prompt": {
-    "kind": "full",
-    "source": "author_reply",
-    "source_url": "https://x.com/techhalla/status/2110121005201150011",
-    "length": 503,
-    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2110121002332295599"
    },
    "resources": []
   },
@@ -7143,15 +7767,56 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110435166456016896/img/WM0BQnT2j6GuxvOC.jpg"
     }
    ],
-   "views": 19059,
+   "views": 19111,
    "likes": 196,
    "bookmarks": 62,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Higgsfield",
     "Gemini 4 Argon"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124525907113361657",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "基于录音生成的动态图形短视频",
+    "en": "Motion graphics Reels from audio recording"
+   },
+   "creator": {
+    "handle": "Avenoxai",
+    "name": "Avenox"
+   },
+   "original_post_url": "https://x.com/Avenoxai/status/2124525907113361657",
+   "posted_at": "2026-11-22T15:30:22.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1920,
+     "duration_seconds": 28,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124525879821000704/img/Vth4-NneUw0E-mAt.jpg"
+    }
+   ],
+   "views": 19075,
+   "likes": 229,
+   "bookmarks": 247,
+   "views_checked_at": "2026-11-24T11:11:12.811Z",
+   "tools_reported": [
+    "Antigravity",
+    "Opus"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -7309,13 +7974,110 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2112994531318939648/img/BrpQWjDFm8G8Ku1l.jpg"
     }
    ],
-   "views": 18356,
+   "views": 18387,
    "likes": 159,
    "bookmarks": 33,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124558621782495548",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "带动画微交互的 HTML 测试落地页",
+    "en": "Animated HTML and CSS test landing page"
+   },
+   "creator": {
+    "handle": "niachito",
+    "name": "Nacho Iannella"
+   },
+   "original_post_url": "https://x.com/niachito/status/2124558621782495548",
+   "posted_at": "2026-11-22T17:40:22.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "video",
+     "width": 2880,
+     "height": 1636,
+     "duration_seconds": 37,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124557906947215360/img/ZbzCAfHmS56XXb1-.jpg"
+    }
+   ],
+   "views": 18377,
+   "likes": 289,
+   "bookmarks": 197,
+   "views_checked_at": "2026-11-24T11:11:12.811Z",
+   "tools_reported": [
+    "Antigravity CLI",
+    "Claude Opus 5.5",
+    "Claude Sonnet 5.5",
+    "Claude Code"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/niachito/status/2124558621782495548",
+    "length": 175,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2124558621782495548"
+   },
+   "resources": []
+  },
+  {
+   "id": "2116950986661171337",
+   "category": "physics",
+   "versions": [
+    "argon"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt",
+    "deepseek"
+   ],
+   "title": {
+    "zh": "果冻魔方模型对比",
+    "en": "Jelly Rubik's cube model comparison"
+   },
+   "creator": {
+    "handle": "0xRhinoX",
+    "name": "Rhino"
+   },
+   "original_post_url": "https://x.com/0xRhinoX/status/2116950986661171337",
+   "posted_at": "2026-11-01T17:50:20.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1212,
+     "height": 720,
+     "duration_seconds": 30,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116946475099832320/img/H0bns7kuY9BtK-c0.jpg"
+    }
+   ],
+   "views": 18172,
+   "likes": 154,
+   "bookmarks": 38,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
+   "tools_reported": [
+    "DeepSeek V4.1 Flash",
+    "GPT-6 Astra",
+    "Gemini 4 Argon"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/0xRhinoX/status/2116950986661171337",
+    "length": 29,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2116950986661171337"
+   },
    "resources": []
   },
   {
@@ -7371,53 +8133,41 @@
    "resources": []
   },
   {
-   "id": "2116950986661171337",
-   "category": "physics",
+   "id": "2124792127422959781",
+   "category": "ui",
    "versions": [
-    "argon"
+    "gemini-4"
    ],
-   "compared_with": [
-    "claude",
-    "gpt",
-    "deepseek"
-   ],
+   "compared_with": [],
    "title": {
-    "zh": "果冻魔方模型对比",
-    "en": "Jelly Rubik's cube model comparison"
+    "zh": "模型生成效果对比",
+    "en": "Model output comparison"
    },
    "creator": {
-    "handle": "0xRhinoX",
-    "name": "Rhino"
+    "handle": "Mr_Salio",
+    "name": "Salio"
    },
-   "original_post_url": "https://x.com/0xRhinoX/status/2116950986661171337",
-   "posted_at": "2026-11-01T17:50:20.000Z",
-   "language": "en",
+   "original_post_url": "https://x.com/Mr_Salio/status/2124792127422959781",
+   "posted_at": "2026-11-23T09:08:14.000Z",
+   "language": "",
    "media": [
     {
      "type": "video",
-     "width": 1212,
-     "height": 720,
-     "duration_seconds": 30,
-     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116946475099832320/img/H0bns7kuY9BtK-c0.jpg"
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 24,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124791950310039552/img/9Guc6PdgkuoBsdtm.jpg"
     }
    ],
-   "views": 18138,
-   "likes": 155,
-   "bookmarks": 39,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 18001,
+   "likes": 133,
+   "bookmarks": 15,
+   "views_checked_at": "2026-11-24T11:25:04.779Z",
    "tools_reported": [
-    "DeepSeek V4.1 Flash",
-    "GPT-6 Astra",
-    "Gemini 4 Argon"
+    "GLM 5.4"
    ],
    "reference_assets": false,
-   "prompt": {
-    "kind": "brief",
-    "source": "post",
-    "source_url": "https://x.com/0xRhinoX/status/2116950986661171337",
-    "length": 29,
-    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2116950986661171337"
-   },
+   "prompt": null,
    "resources": []
   },
   {
@@ -7490,10 +8240,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114297087235850240/img/2S1ZChrPewww1eal.jpg"
     }
    ],
-   "views": 17918,
+   "views": 17929,
    "likes": 109,
    "bookmarks": 30,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "GPT-6 Astra",
@@ -7534,10 +8284,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2115399408128815104/img/Pd0U5Sm2QTWFohBK.jpg"
     }
    ],
-   "views": 17816,
+   "views": 17829,
    "likes": 105,
    "bookmarks": 52,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "GPT-6 Astra",
     "Gemini 4 Argon",
@@ -7578,10 +8328,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110416590814752768/img/baWZqzdQ_Ca_g13W.jpg"
     }
    ],
-   "views": 17524,
+   "views": 17531,
    "likes": 183,
    "bookmarks": 36,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Three.js"
    ],
@@ -7624,10 +8374,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110414744138170368/img/D4as_KLiuf9hyr5f.jpg"
     }
    ],
-   "views": 17453,
+   "views": 17480,
    "likes": 219,
    "bookmarks": 43,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon"
    ],
@@ -7724,6 +8474,93 @@
    "views_checked_at": "2026-11-22T01:28:17.734Z",
    "tools_reported": [],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124421508563149279",
+   "category": "scene3d",
+   "versions": [
+    "hydrogen",
+    "krypton"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "Three.js 构建的兰博基尼毒药三维模型",
+    "en": "Three.js 3D model of a Lamborghini Veneno"
+   },
+   "creator": {
+    "handle": "Leviwoyun",
+    "name": "Levi 卧云"
+   },
+   "original_post_url": "https://x.com/Leviwoyun/status/2124421508563149279",
+   "posted_at": "2026-11-22T08:35:32.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 32,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124421429336948737/img/CGRHD0Jj2HXI5tjx.jpg"
+    }
+   ],
+   "views": 16857,
+   "likes": 138,
+   "bookmarks": 81,
+   "views_checked_at": "2026-11-24T11:11:12.811Z",
+   "tools_reported": [
+    "GPT",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/Leviwoyun/status/2124421508563149279",
+    "length": 21,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2124421508563149279"
+   },
+   "resources": []
+  },
+  {
+   "id": "2124698835801031129",
+   "category": "sim",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "实时 3D 卫星轨道追踪器",
+    "en": "Live 3D satellite orbital tracker"
+   },
+   "creator": {
+    "handle": "DynamicWebPaige",
+    "name": "👩‍💻 Paige Bailey"
+   },
+   "original_post_url": "https://x.com/DynamicWebPaige/status/2124698835801031129",
+   "posted_at": "2026-11-23T02:57:32.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "video",
+     "width": 1280,
+     "height": 720,
+     "duration_seconds": 67,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124698740179283968/img/5mBCmKFX8G0O5R3o.jpg"
+    }
+   ],
+   "views": 16837,
+   "likes": 404,
+   "bookmarks": 221,
+   "views_checked_at": "2026-11-24T11:25:04.779Z",
+   "tools_reported": [
+    "CelesTrak",
+    "satellite.js",
+    "Three.js",
+    "Python"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -7847,6 +8684,48 @@
    "resources": []
   },
   {
+   "id": "2121221667619852660",
+   "category": "scene3d",
+   "versions": [
+    "hydrogen"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "同一提示词的3D飞船建模对比",
+    "en": "3D ship build comparison with same prompt"
+   },
+   "creator": {
+    "handle": "marcthecreatorr",
+    "name": "Marcel"
+   },
+   "original_post_url": "https://x.com/marcthecreatorr/status/2121221667619852660",
+   "posted_at": "2026-11-13T12:40:30.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 720,
+     "height": 720,
+     "duration_seconds": 54,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121221429853134848/img/tmfLYkezKWakHyki.jpg"
+    }
+   ],
+   "views": 16103,
+   "likes": 121,
+   "bookmarks": 27,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
+   "tools_reported": [
+    "Claude Code",
+    "Cursor",
+    "Gemini 4 Hydrogen"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2111365849793593530",
    "category": "scene3d",
    "versions": [
@@ -7876,10 +8755,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111365793673777152/img/kIAUgoikSRN7yXX9.jpg"
     }
    ],
-   "views": 16057,
+   "views": 16079,
    "likes": 130,
    "bookmarks": 43,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "GPT-6 Astra"
@@ -7961,55 +8840,13 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110523523743813632/img/tAZUWyFzl3apHJXa.jpg"
     }
    ],
-   "views": 15637,
+   "views": 15664,
    "likes": 113,
    "bookmarks": 24,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Higgsfield",
     "Gemini 4 Argon"
-   ],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
-   "id": "2121221667619852660",
-   "category": "scene3d",
-   "versions": [
-    "hydrogen"
-   ],
-   "compared_with": [
-    "claude"
-   ],
-   "title": {
-    "zh": "同一提示词的3D飞船建模对比",
-    "en": "3D ship build comparison with same prompt"
-   },
-   "creator": {
-    "handle": "marcthecreatorr",
-    "name": "Marcel"
-   },
-   "original_post_url": "https://x.com/marcthecreatorr/status/2121221667619852660",
-   "posted_at": "2026-11-13T12:40:30.000Z",
-   "language": "en",
-   "media": [
-    {
-     "type": "video",
-     "width": 720,
-     "height": 720,
-     "duration_seconds": 54,
-     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121221429853134848/img/tmfLYkezKWakHyki.jpg"
-    }
-   ],
-   "views": 15533,
-   "likes": 119,
-   "bookmarks": 27,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
-   "tools_reported": [
-    "Claude Code",
-    "Cursor",
-    "Gemini 4 Hydrogen"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -8046,10 +8883,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2113748461871058944/img/m190G7XoSVrIp35s.jpg"
     }
    ],
-   "views": 15487,
+   "views": 15505,
    "likes": 128,
    "bookmarks": 15,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Kimi K3.1",
     "Gemini 4 Argon",
@@ -8062,6 +8899,54 @@
     "source_url": "https://x.com/Bhavani_00007/status/2113749929395114129",
     "length": 22,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2113749929395114129"
+   },
+   "resources": []
+  },
+  {
+   "id": "2110329593441796383",
+   "category": "physics",
+   "versions": [
+    "argon"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "运河风车3D场景模型对比",
+    "en": "3D canal and windmill scene model comparison"
+   },
+   "creator": {
+    "handle": "vib3coded",
+    "name": "Vib3Coded"
+   },
+   "original_post_url": "https://x.com/vib3coded/status/2110329593441796383",
+   "posted_at": "2026-10-14T11:19:17.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 720,
+     "height": 910,
+     "duration_seconds": 18,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110329499719966720/img/ng3OjfgDWIERJp0Z.jpg"
+    }
+   ],
+   "views": 15334,
+   "likes": 318,
+   "bookmarks": 129,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
+   "tools_reported": [
+    "ChatGPT-6 Astra",
+    "Gemini 4 Argon"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/vib3coded/status/2110329833653772346",
+    "length": 7357,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2110329593441796383"
    },
    "resources": []
   },
@@ -8106,54 +8991,6 @@
    "resources": []
   },
   {
-   "id": "2110329593441796383",
-   "category": "physics",
-   "versions": [
-    "argon"
-   ],
-   "compared_with": [
-    "claude",
-    "gpt"
-   ],
-   "title": {
-    "zh": "运河风车3D场景模型对比",
-    "en": "3D canal and windmill scene model comparison"
-   },
-   "creator": {
-    "handle": "vib3coded",
-    "name": "Vib3Coded"
-   },
-   "original_post_url": "https://x.com/vib3coded/status/2110329593441796383",
-   "posted_at": "2026-10-14T11:19:17.000Z",
-   "language": "en",
-   "media": [
-    {
-     "type": "video",
-     "width": 720,
-     "height": 910,
-     "duration_seconds": 18,
-     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110329499719966720/img/ng3OjfgDWIERJp0Z.jpg"
-    }
-   ],
-   "views": 15263,
-   "likes": 318,
-   "bookmarks": 129,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
-   "tools_reported": [
-    "ChatGPT-6 Astra",
-    "Gemini 4 Argon"
-   ],
-   "reference_assets": false,
-   "prompt": {
-    "kind": "full",
-    "source": "author_reply",
-    "source_url": "https://x.com/vib3coded/status/2110329833653772346",
-    "length": 7357,
-    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2110329593441796383"
-   },
-   "resources": []
-  },
-  {
    "id": "2112514831362175151",
    "category": "motion",
    "versions": [
@@ -8182,11 +9019,52 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2112514710453030912/img/E13x1-aM_5KEsnH-.jpg"
     }
    ],
-   "views": 14822,
-   "likes": 110,
+   "views": 14834,
+   "likes": 108,
    "bookmarks": 39,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2118809236046246316",
+   "category": "motion",
+   "versions": [
+    "hydrogen"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "动效模型对比",
+    "en": "Motion graphics model comparison"
+   },
+   "creator": {
+    "handle": "deweytn",
+    "name": "Claudia Galeán (💫,💫)"
+   },
+   "original_post_url": "https://x.com/deweytn/status/2118809236046246316",
+   "posted_at": "2026-11-06T20:54:22.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1280,
+     "height": 720,
+     "duration_seconds": 43,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118808656166682624/img/ufROIdABFBKkgA2d.jpg"
+    }
+   ],
+   "views": 14817,
+   "likes": 165,
+   "bookmarks": 58,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
+   "tools_reported": [
+    "Gemini 4 Hydrogen",
+    "Gemini 3.8 Flash"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -8233,47 +9111,6 @@
    "resources": []
   },
   {
-   "id": "2118809236046246316",
-   "category": "motion",
-   "versions": [
-    "hydrogen"
-   ],
-   "compared_with": [
-    "claude"
-   ],
-   "title": {
-    "zh": "动效模型对比",
-    "en": "Motion graphics model comparison"
-   },
-   "creator": {
-    "handle": "deweytn",
-    "name": "Claudia Galeán (💫,💫)"
-   },
-   "original_post_url": "https://x.com/deweytn/status/2118809236046246316",
-   "posted_at": "2026-11-06T20:54:22.000Z",
-   "language": "en",
-   "media": [
-    {
-     "type": "video",
-     "width": 1280,
-     "height": 720,
-     "duration_seconds": 43,
-     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118808656166682624/img/ufROIdABFBKkgA2d.jpg"
-    }
-   ],
-   "views": 14761,
-   "likes": 165,
-   "bookmarks": 60,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
-   "tools_reported": [
-    "Gemini 4 Hydrogen",
-    "Gemini 3.8 Flash"
-   ],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
    "id": "2113321010913292308",
    "category": "scene3d",
    "versions": [
@@ -8304,10 +9141,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2113320560168185857/img/No8sqhymrRlktf1L.jpg"
     }
    ],
-   "views": 14593,
+   "views": 14605,
    "likes": 152,
    "bookmarks": 26,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "Kimi K3.1"
@@ -8345,10 +9182,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110056309823557632/img/lMEe0EjV82CI8o4E.jpg"
     }
    ],
-   "views": 14430,
+   "views": 14440,
    "likes": 176,
    "bookmarks": 28,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Three.js",
     "Gemini 4 Argon"
@@ -8386,10 +9223,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110057723484069888/img/hZIVKwpdZIuVz0Hw.jpg"
     }
    ],
-   "views": 14285,
+   "views": 14298,
    "likes": 130,
    "bookmarks": 46,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Devin CLI",
     "Gemini 4 Argon"
@@ -8468,10 +9305,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116556181271658496/img/Cm_tuqceX5qrbbW-.jpg"
     }
    ],
-   "views": 14063,
+   "views": 14114,
    "likes": 114,
    "bookmarks": 33,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": {
@@ -8512,10 +9349,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110800105624535040/img/Hk0Cem5ssUI3NLUn.jpg"
     }
    ],
-   "views": 13977,
-   "likes": 125,
+   "views": 14004,
+   "likes": 124,
    "bookmarks": 40,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon"
    ],
@@ -8558,10 +9395,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110152630370525184/img/quBv2eAAxUrFVtmU.jpg"
     }
    ],
-   "views": 13812,
+   "views": 13824,
    "likes": 120,
    "bookmarks": 45,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Three.js",
     "Gemini 4 Argon"
@@ -8727,10 +9564,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116812685681532928/img/VhAP8kk5SIiNux-Z.jpg"
     }
    ],
-   "views": 12429,
-   "likes": 135,
+   "views": 12521,
+   "likes": 134,
    "bookmarks": 16,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -8805,10 +9642,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2113494818680954880/img/xbVzJ3Re1ZKnwRDi.jpg"
     }
    ],
-   "views": 12329,
+   "views": 12350,
    "likes": 125,
    "bookmarks": 44,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Fable 5.5",
     "Gemini 4 Carbon"
@@ -8847,10 +9684,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103749982360891392/img/As6FzEVJxg8n5o3P.jpg"
     }
    ],
-   "views": 12176,
+   "views": 12181,
    "likes": 93,
    "bookmarks": 8,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Three.js"
    ],
@@ -8930,10 +9767,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105297214889492480/img/NuegqCsJ0GKEIXqc.jpg"
     }
    ],
-   "views": 11891,
+   "views": 11895,
    "likes": 105,
    "bookmarks": 26,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
@@ -8970,10 +9807,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2112929348911026176/img/sNxueAKpIYcBYITV.jpg"
     }
    ],
-   "views": 11731,
+   "views": 11739,
    "likes": 114,
    "bookmarks": 40,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "DeepSeek V4.1 Flash 1017",
@@ -9015,10 +9852,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2112572793585881088/img/IcfaI9qapFYg9Xo4.jpg"
     }
    ],
-   "views": 11663,
+   "views": 11665,
    "likes": 141,
    "bookmarks": 40,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "DeepSeek V4.1",
     "MiniMax M3.1 Flash",
@@ -9059,10 +9896,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2115039129910018048/img/XHOBw3i2QCJr1HzG.jpg"
     }
    ],
-   "views": 11193,
-   "likes": 103,
+   "views": 11203,
+   "likes": 102,
    "bookmarks": 62,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "GPT-6 Astra",
@@ -9140,10 +9977,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111112145845002240/img/bod4WW3c_TIa020A.jpg"
     }
    ],
-   "views": 10893,
-   "likes": 103,
+   "views": 10906,
+   "likes": 102,
    "bookmarks": 11,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "Muse Wonderful",
@@ -9296,10 +10133,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110484595812503552/img/Mdj2Kdczf6p4VgBu.jpg"
     }
    ],
-   "views": 10389,
-   "likes": 122,
+   "views": 10401,
+   "likes": 121,
    "bookmarks": 49,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Three.js",
     "Gemini 4 Argon"
@@ -9343,10 +10180,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110819651974492160/img/zR2g6u1mZ1utO7me.jpg"
     }
    ],
-   "views": 10298,
+   "views": 10304,
    "likes": 105,
    "bookmarks": 33,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Blender",
     "Three.js",
@@ -9385,10 +10222,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110780951982989312/img/7GFzjie_5Xx_x4Ey.jpg"
     }
    ],
-   "views": 10182,
+   "views": 10192,
    "likes": 111,
    "bookmarks": 41,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "Fable"
@@ -9468,10 +10305,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116148244681981952/img/xLVyvyZkK9kByxHk.jpg"
     }
    ],
-   "views": 9834,
+   "views": 9869,
    "likes": 126,
    "bookmarks": 18,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Claude Code"
    ],
@@ -9508,10 +10345,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2112476512142114816/img/p0m_He2A0INNBcEm.jpg"
     }
    ],
-   "views": 9825,
-   "likes": 111,
+   "views": 9844,
+   "likes": 112,
    "bookmarks": 54,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon"
    ],
@@ -9634,10 +10471,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2113242600190685184/img/BDoY8pAJup9sHEDm.jpg"
     }
    ],
-   "views": 9437,
-   "likes": 129,
-   "bookmarks": 17,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 9444,
+   "likes": 128,
+   "bookmarks": 18,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Carbon",
     "Gemini 4 Argon"
@@ -9734,10 +10571,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111428656052477952/img/DCz9xlj1bZa0pN_Z.jpg"
     }
    ],
-   "views": 9037,
-   "likes": 136,
+   "views": 9093,
+   "likes": 135,
    "bookmarks": 41,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon"
    ],
@@ -9781,10 +10618,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2112184440973611008/img/WAekGvcIDTdjInaf.jpg"
     }
    ],
-   "views": 9028,
-   "likes": 138,
+   "views": 9037,
+   "likes": 137,
    "bookmarks": 39,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon",
     "GPT-6 Astra"
@@ -9862,10 +10699,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111965538771419136/img/oiQ_idPNUC9VeYDF.jpg"
     }
    ],
-   "views": 8885,
+   "views": 8957,
    "likes": 125,
    "bookmarks": 38,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Three.js",
     "Gemini 4 Argon"
@@ -9938,6 +10775,86 @@
    "resources": []
   },
   {
+   "id": "2124678987725336848",
+   "category": "sim",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "风驱动爆炸烟羽扩散模型",
+    "en": "Wind-driven explosion plume dispersion model"
+   },
+   "creator": {
+    "handle": "DanielleFong",
+    "name": "Danielle Fong 🔆"
+   },
+   "original_post_url": "https://x.com/DanielleFong/status/2124678987725336848",
+   "posted_at": "2026-11-23T01:38:39.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "video",
+     "width": 1900,
+     "height": 1830,
+     "duration_seconds": 225,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124678400065585152/img/6xE7xxi148aHGA_K.jpg"
+    }
+   ],
+   "views": 8570,
+   "likes": 189,
+   "bookmarks": 55,
+   "views_checked_at": "2026-11-24T11:25:04.779Z",
+   "tools_reported": [
+    "earth.nullschool.net"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2110525248257089589",
+   "category": "scene3d",
+   "versions": [
+    "argon"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "Gemini与Opus的3D渲染对比",
+    "en": "3D render comparison Gemini vs Opus"
+   },
+   "creator": {
+    "handle": "xikhar",
+    "name": "Shikhar"
+   },
+   "original_post_url": "https://x.com/xikhar/status/2110525248257089589",
+   "posted_at": "2026-10-15T00:16:45.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1280,
+     "height": 720,
+     "duration_seconds": 10,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110525186193883136/img/Axl_xVDcX38awL9n.jpg"
+    }
+   ],
+   "views": 8522,
+   "likes": 178,
+   "bookmarks": 43,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
+   "tools_reported": [
+    "Gemini 4 Argon",
+    "Astra",
+    "Codex"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2124028084022353961",
    "category": "ui",
    "versions": [
@@ -9974,45 +10891,50 @@
    "resources": []
   },
   {
-   "id": "2110525248257089589",
+   "id": "2124721602856354005",
    "category": "scene3d",
    "versions": [
-    "argon"
+    "gemini-4"
    ],
    "compared_with": [
-    "claude"
+    "gpt"
    ],
    "title": {
-    "zh": "Gemini与Opus的3D渲染对比",
-    "en": "3D render comparison Gemini vs Opus"
+    "zh": "维多利亚式水晶玻璃植物温室漫步",
+    "en": "Victorian glass botanical conservatory walk"
    },
    "creator": {
-    "handle": "xikhar",
-    "name": "Shikhar"
+    "handle": "teddyaisi",
+    "name": "Teddy"
    },
-   "original_post_url": "https://x.com/xikhar/status/2110525248257089589",
-   "posted_at": "2026-10-15T00:16:45.000Z",
-   "language": "en",
+   "original_post_url": "https://x.com/teddyaisi/status/2124721602856354005",
+   "posted_at": "2026-11-23T04:28:00.000Z",
+   "language": "",
    "media": [
     {
      "type": "video",
      "width": 1280,
-     "height": 720,
-     "duration_seconds": 10,
-     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110525186193883136/img/Axl_xVDcX38awL9n.jpg"
+     "height": 1440,
+     "duration_seconds": 20,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124720694026199040/img/CyzjOWDtvfOcGQ6R.jpg"
     }
    ],
-   "views": 8468,
-   "likes": 179,
-   "bookmarks": 42,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 8446,
+   "likes": 135,
+   "bookmarks": 30,
+   "views_checked_at": "2026-11-24T11:25:04.779Z",
    "tools_reported": [
-    "Gemini 4 Argon",
-    "Astra",
-    "Codex"
+    "GPT-6.2-Astra",
+    "Three.js"
    ],
    "reference_assets": false,
-   "prompt": null,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/teddyaisi/status/2124721602856354005",
+    "length": 79,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2124721602856354005"
+   },
    "resources": []
   },
   {
@@ -10045,10 +10967,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111888414630940673/img/bYsC1uWWBuFNH09f.jpg"
     }
    ],
-   "views": 8333,
+   "views": 8412,
    "likes": 137,
    "bookmarks": 43,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Three.js",
     "GPT-6.1 Sol",
@@ -10134,10 +11056,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110685732012793856/img/ktT4R_irOKG3xsND.jpg"
     }
    ],
-   "views": 7951,
-   "likes": 111,
+   "views": 7957,
+   "likes": 110,
    "bookmarks": 26,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "GPT-6",
     "Gemini 4",
@@ -10228,6 +11150,46 @@
    "resources": []
   },
   {
+   "id": "2120479775764459951",
+   "category": "scene3d",
+   "versions": [
+    "carbon"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "体素浮空王国效果对比",
+    "en": "Voxel floating kingdom comparison"
+   },
+   "creator": {
+    "handle": "marcthecreatorr",
+    "name": "Marcel"
+   },
+   "original_post_url": "https://x.com/marcthecreatorr/status/2120479775764459951",
+   "posted_at": "2026-11-11T11:32:29.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1280,
+     "height": 720,
+     "duration_seconds": 58,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120477994527391744/img/Xf2Zn7kQpJ1y4o3-.jpg"
+    }
+   ],
+   "views": 7256,
+   "likes": 109,
+   "bookmarks": 20,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
+   "tools_reported": [
+    "Gemini 4 Carbon"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2121868841345237315",
    "category": "ui",
    "versions": [
@@ -10283,46 +11245,6 @@
    "resources": []
   },
   {
-   "id": "2120479775764459951",
-   "category": "scene3d",
-   "versions": [
-    "carbon"
-   ],
-   "compared_with": [
-    "claude"
-   ],
-   "title": {
-    "zh": "体素浮空王国效果对比",
-    "en": "Voxel floating kingdom comparison"
-   },
-   "creator": {
-    "handle": "marcthecreatorr",
-    "name": "Marcel"
-   },
-   "original_post_url": "https://x.com/marcthecreatorr/status/2120479775764459951",
-   "posted_at": "2026-11-11T11:32:29.000Z",
-   "language": "en",
-   "media": [
-    {
-     "type": "video",
-     "width": 1280,
-     "height": 720,
-     "duration_seconds": 58,
-     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120477994527391744/img/Xf2Zn7kQpJ1y4o3-.jpg"
-    }
-   ],
-   "views": 7114,
-   "likes": 109,
-   "bookmarks": 20,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
-   "tools_reported": [
-    "Gemini 4 Carbon"
-   ],
-   "reference_assets": false,
-   "prompt": null,
-   "resources": []
-  },
-  {
    "id": "2115802517942497491",
    "category": "mechanics",
    "versions": [
@@ -10351,10 +11273,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2115800356542119936/img/SmAcA93FSyV9Pvfb.jpg"
     }
    ],
-   "views": 7077,
-   "likes": 131,
-   "bookmarks": 26,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views": 7097,
+   "likes": 130,
+   "bookmarks": 25,
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Carbon"
    ],
@@ -10479,10 +11401,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114392568964272129/img/XWG7fOInL42dmZGB.jpg"
     }
    ],
-   "views": 6392,
+   "views": 6403,
    "likes": 129,
    "bookmarks": 9,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Carbon",
     "Gemini 4 Flash"
@@ -10520,10 +11442,10 @@
      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2110420888650952704/img/MVN8BA09pFz2lSmc.jpg"
     }
    ],
-   "views": 6261,
+   "views": 6262,
    "likes": 113,
    "bookmarks": 13,
-   "views_checked_at": "2026-11-16T10:43:30.012Z",
+   "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini"
    ],

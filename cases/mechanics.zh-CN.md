@@ -1,9 +1,10 @@
 # 机械原理
 
-共 17 个作品，其中 5 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 18 个作品，其中 6 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
+| [发动机剖面点火运行动画](https://x.com/kinderlayer/status/2124465319087308918) | Gemini 4 | Claude, GPT, Grok | [@kinderlayer](https://x.com/kinderlayer) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2124465319087308918) |
 | [四个模型打造的水泵机械对比](https://x.com/kinderlayer/status/2113937338938150958) | Argon | Claude, GPT, Grok | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [凸轮泵模型对比](https://x.com/kinderlayer/status/2114312573390602417) | Argon | Claude, GPT, Grok | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [电动机动画模型对比](https://x.com/rubenssoto_ai/status/2110065587279798719) | Argon | Claude | [@rubenssoto_ai](https://x.com/rubenssoto_ai) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2110065587279798719) |
