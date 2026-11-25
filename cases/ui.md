@@ -1,6 +1,6 @@
 # Websites & UI
 
-28 works, 5 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+29 works, 5 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -8,6 +8,7 @@
 | [Frontend recreation comparison](https://x.com/fiapp_pro/status/2122014257667846338) | Hydrogen | GPT | [@fiapp_pro](https://x.com/fiapp_pro) | — |
 | [AI-built interface comparison](https://x.com/lengs4189/status/2122349952403927401) | Carbon | GPT | [@lengs4189](https://x.com/lengs4189) | — |
 | [Windows XP desktop recreation](https://x.com/0xRhinoX/status/2124585541328896367) | Gemini 4 | Claude | [@0xRhinoX](https://x.com/0xRhinoX) | — |
+| [Windows 7 desktop recreation in the browser](https://x.com/0xRhinoX/status/2124943461107576865) | Gemini 4 | Claude | [@0xRhinoX](https://x.com/0xRhinoX) | — |
 | [Multi-model same-prompt visual output comparison](https://x.com/JamesMalsawm/status/2123967133084516858) | Gemini 4 | Claude, GPT | [@JamesMalsawm](https://x.com/JamesMalsawm) | — |
 | [Animated UI components based on reference images](https://x.com/op7418/status/2123269503736070603) | Gemini 4 | Claude | [@op7418](https://x.com/op7418) | — |
 | [Ad-free personalized TV interface](https://x.com/Saboo_Shubham_/status/2122033244627689692) | Carbon | — | [@Saboo_Shubham_](https://x.com/Saboo_Shubham_) | — |

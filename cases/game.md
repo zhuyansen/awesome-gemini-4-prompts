@@ -1,6 +1,6 @@
 # Games
 
-19 works, 1 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+20 works, 1 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Tower defense game](https://x.com/DeryaTR_/status/2123276863481254210) | Gemini 4 | — | [@DeryaTR_](https://x.com/DeryaTR_) | — |
 | [Anime combat game dev comparison](https://x.com/higgsfield_ai/status/2110449758439723292) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
 | [Voxel-stacked sailing game](https://x.com/chetaslua/status/2122264764319666388) | Carbon | — | [@chetaslua](https://x.com/chetaslua) | — |
+| [Shader-rendered browser game in one HTML file](https://x.com/kevin_t_ngo/status/2125001629850345678) | Gemini 4 | — | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | — |
 | [Cyberpunk game dev comparison](https://x.com/higgsfield_ai/status/2110417458846916697) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
 | [3D endurance racing game](https://x.com/vamsibatchuk/status/2124254359831691388) | Carbon | — | [@vamsibatchuk](https://x.com/vamsibatchuk) | — |
 | [GTA-style open-world city game](https://x.com/ivanainai/status/2124273127614017837) | Gemini 4 | Claude | [@ivanainai](https://x.com/ivanainai) | — |

@@ -1,6 +1,6 @@
 # 动画短片
 
-共 43 个作品，其中 5 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 47 个作品，其中 5 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -24,8 +24,10 @@
 | [新 AI 模型发布宣传视频](https://x.com/whydeso/status/2123455226191691813) | Gemini 4 | Claude, GPT | [@whydeso](https://x.com/whydeso) | — |
 | [丧尸手生成效果对比](https://x.com/noclipepe/status/2116445289468850366) | Carbon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2116445289468850366) |
 | [飞鸟化身黑豹一次生成的变形对比](https://x.com/kinderlayer/status/2115496867681247275) | Argon | Claude | [@kinderlayer](https://x.com/kinderlayer) | — |
+| [落叶穿行四季变化动画](https://x.com/ZryMiller/status/2124897056280219998) | Gemini 4 | GPT | [@ZryMiller](https://x.com/ZryMiller) | — |
 | [首次动态图形动画测试](https://x.com/ogabezim/status/2124036193776263671) | Gemini 4 | — | [@ogabezim](https://x.com/ogabezim) | — |
 | [松鼠视角下的生活短片](https://x.com/DanielZambrini/status/2123891957529510012) | Gemini 4 | Claude, GPT | [@DanielZambrini](https://x.com/DanielZambrini) | — |
+| [流畅短视频动画效果](https://x.com/369Serena/status/2124846677547004099) | Gemini 4 | — | [@369Serena](https://x.com/369Serena) | — |
 | [微型角色动画对比](https://x.com/0xPorterio/status/2116108534051905642) | Carbon | Claude | [@0xPorterio](https://x.com/0xPorterio) | — |
 | [水墨风格动画对比](https://x.com/renoiseai/status/2110290068514762969) | Argon | Claude | [@renoiseai](https://x.com/renoiseai) | — |
 | [全息 3D 视差收藏闪卡动画](https://x.com/DeepBlueX0/status/2124148150525128836) | Gemini 4 | GPT, Grok | [@DeepBlueX0](https://x.com/DeepBlueX0) | — |
@@ -33,6 +35,7 @@
 | [水墨风格动画镜头对比](https://x.com/higgsfield_ai/status/2110530184550236232) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
 | [知识科普动画视频](https://x.com/GeekCatX/status/2124175490516918376) | Gemini 4 | Claude | [@GeekCatX](https://x.com/GeekCatX) | — |
 | [松鼠视角的世界动画](https://x.com/DanielZambrini/status/2123832990598045903) | Gemini 4 | — | [@DanielZambrini](https://x.com/DanielZambrini) | — |
+| [五条悟领域展开素描风格动画](https://x.com/notjazii/status/2124917188742242616) | Gemini 4 | — | [@notjazii](https://x.com/notjazii) | — |
 | [图像转 3D 动态效果演示](https://x.com/ai_for_success/status/2124572099750891577) | Gemini 4 | — | [@ai_for_success](https://x.com/ai_for_success) | — |
 | [水墨风格叙事动画对比](https://x.com/higgsfield_ai/status/2110436743589876093) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
 | [基于录音生成的动态图形短视频](https://x.com/Avenoxai/status/2124525907113361657) | Gemini 4 | Claude | [@Avenoxai](https://x.com/Avenoxai) | — |
@@ -47,3 +50,4 @@
 | [AI模型空战生成对比](https://x.com/RafaCrackYT/status/2112929520239996946) | Argon | Claude, DeepSeek, MiniMax | [@RafaCrackYT](https://x.com/RafaCrackYT) | — |
 | [纯代码生成的动态 ASCII 艺术](https://x.com/chetaslua/status/2124157978425294867) | Gemini 4 | — | [@chetaslua](https://x.com/chetaslua) | — |
 | [自定义 MIDI 编辑器中的自行车滑奏](https://x.com/alexanderchen/status/2122337187970879968) | Carbon | — | [@alexanderchen](https://x.com/alexanderchen) | — |
+| [英伟达 CEO 新闻一周回顾梗动画](https://x.com/chetaslua/status/2124922352698073593) | Gemini 4 | — | [@chetaslua](https://x.com/chetaslua) | — |

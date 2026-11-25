@@ -2,7 +2,7 @@
 
 [English](README.md) | 简体中文
 
-X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写代码**做出来的作品：3D 场景、物理与材质模拟、机械剖面、游戏、网页和 SVG。共 **269** 个，原帖播放都过 5,000，合计 14,901,115 次播放；其中 **195** 个是和 Claude、GPT 等模型的同题对比，**63** 个附作者公开的提示词（23 条完整提示词）。每天自动更新（最近一次：2026-11-24）。
+X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写代码**做出来的作品：3D 场景、物理与材质模拟、机械剖面、游戏、网页和 SVG。共 **280** 个，原帖播放都过 5,000，合计 15,385,542 次播放；其中 **198** 个是和 Claude、GPT 等模型的同题对比，**65** 个附作者公开的提示词（25 条完整提示词）。每天自动更新（最近一次：2026-11-25）。
 
 在线浏览（视频直接播放、提示词一键复制、按版本和对比对象筛选）：**[jasonzhu.ai/zh/prompts/gemini-4](https://jasonzhu.ai/zh/prompts/gemini-4)**
 
@@ -21,14 +21,14 @@ X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写�
   </tr>
 </table>
 
-[3D 场景](#3d-场景)（113） · [物理与材质](#物理与材质)（24） · [机械原理](#机械原理)（18） · [游戏](#游戏)（19） · [模拟系统](#模拟系统)（8） · [网页与界面](#网页与界面)（28） · [SVG 绘图](#svg-绘图)（16） · [动画短片](#动画短片)（43）
+[3D 场景](#3d-场景)（117） · [物理与材质](#物理与材质)（24） · [机械原理](#机械原理)（18） · [游戏](#游戏)（20） · [模拟系统](#模拟系统)（9） · [网页与界面](#网页与界面)（29） · [SVG 绘图](#svg-绘图)（16） · [动画短片](#动画短片)（47）
 
-- **版本**（一个帖子写了几个版本就各算一次）：Argon 110 · Gemini 4 83 · Carbon 55 · Hydrogen 31 · Krypton 10 · Pro 4
-- **同题对比的对象**：Claude 176 · GPT 81 · DeepSeek 15 · Grok 11 · Kimi 7 · Meta Muse 7 · Qwen 5 · MiniMax 5
+- **版本**（一个帖子写了几个版本就各算一次）：Argon 110 · Gemini 4 94 · Carbon 55 · Hydrogen 31 · Krypton 10 · Pro 4
+- **同题对比的对象**：Claude 177 · GPT 83 · DeepSeek 15 · Grok 11 · Kimi 7 · Meta Muse 7 · Qwen 5 · MiniMax 5
 
 ## 3D 场景
 
-113 个作品 · [完整清单](cases/scene3d.zh-CN.md)
+117 个作品 · [完整清单](cases/scene3d.zh-CN.md)
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写�
 
 ## 游戏
 
-19 个作品 · [完整清单](cases/game.zh-CN.md)
+20 个作品 · [完整清单](cases/game.zh-CN.md)
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -88,22 +88,22 @@ X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写�
 
 ## 模拟系统
 
-8 个作品 · [完整清单](cases/sim.zh-CN.md)
+9 个作品 · [完整清单](cases/sim.zh-CN.md)
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
 | [交通模拟模型成本对比](https://x.com/kinderlayer/status/2110405479658631361) | Argon | Claude, GPT, Kimi | [@kinderlayer](https://x.com/kinderlayer) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2110405479658631361) |
 | [核打击城市模拟对比](https://x.com/RafaCrackYT/status/2113418364353912861) | Argon | Claude, DeepSeek, MiniMax | [@RafaCrackYT](https://x.com/RafaCrackYT) | — |
+| [交互式系统可视化](https://x.com/alexanderchen/status/2125022994263392260) | Gemini 4 | — | [@alexanderchen](https://x.com/alexanderchen) | — |
 | [芯片厂模拟策略场景对比](https://x.com/anxuanng/status/2112583451958538598) | Argon | Claude | [@anxuanng](https://x.com/anxuanng) | — |
 | [实时空中交通管制对比](https://x.com/anxuanng/status/2112249972850917704) | Argon | Claude | [@anxuanng](https://x.com/anxuanng) | — |
 | [实时 3D 卫星轨道追踪器](https://x.com/DynamicWebPaige/status/2124698835801031129) | Gemini 4 | — | [@DynamicWebPaige](https://x.com/DynamicWebPaige) | — |
 | [航班中断地图](https://x.com/SidraMiconi/status/2122766829550764271) | Hydrogen | — | [@SidraMiconi](https://x.com/SidraMiconi) | — |
 | [火箭发射模拟模型对比](https://x.com/RafaCrackYT/status/2112573104996089906) | Argon | Claude, DeepSeek, MiniMax | [@RafaCrackYT](https://x.com/RafaCrackYT) | — |
-| [风驱动爆炸烟羽扩散模型](https://x.com/DanielleFong/status/2124678987725336848) | Gemini 4 | — | [@DanielleFong](https://x.com/DanielleFong) | — |
 
 ## 网页与界面
 
-28 个作品 · [完整清单](cases/ui.zh-CN.md)
+29 个作品 · [完整清单](cases/ui.zh-CN.md)
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -133,7 +133,7 @@ X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写�
 
 ## 动画短片
 
-43 个作品 · [完整清单](cases/motion.zh-CN.md)
+47 个作品 · [完整清单](cases/motion.zh-CN.md)
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -148,7 +148,7 @@ X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写�
 
 ## 收录标准
 
-- 创作者本人的原帖，视频或图片是原帖自带的，原帖播放不低于 5,000（快照 2026-11-24）。
+- 创作者本人的原帖，视频或图片是原帖自带的，原帖播放不低于 5,000（快照 2026-11-25）。
 - 作者自己写的正文说用了 Gemini 4，只在引用别人帖子里提到的不算。只收 Gemini 4 写代码做出来的东西；Nano Banana、Imagen、Veo 直接出的图和视频不收。同题对比照收。
 - 版本按作者的写法标注。**模型归属以作者自述为准，没有逐条复现。**
 - 提示词只收作者本人公开的：原帖正文、作者自己的回复、回复里的截图、作者给的链接，原文照录。没公开提示词的作品照常收录，提示词一栏留空。

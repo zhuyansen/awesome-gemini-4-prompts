@@ -1,6 +1,6 @@
 # 3D scenes
 
-113 works, 33 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+117 works, 35 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -21,9 +21,11 @@
 | [Eiffel Tower build compared across models](https://x.com/AIMind_Ai/status/2111058514311336244) | Argon | Claude | [@AIMind_Ai](https://x.com/AIMind_Ai) | — |
 | [Opus 5.5 vs Gemini 4 vs GPT 6 comparison](https://x.com/AdityaJhajhar12/status/2110223026549850196) | Argon | Claude, GPT | [@AdityaJhajhar12](https://x.com/AdityaJhajhar12) | — |
 | [Gemini 4 Argon vs Opus 5.5 same-prompt test](https://x.com/Adidotdev/status/2110047989280670072) | Argon | Claude | [@Adidotdev](https://x.com/Adidotdev) | — |
+| [Sprite stacking 3D animation](https://x.com/_ryu15_/status/2124849481351069716) | Gemini 4 | — | [@_ryu15_](https://x.com/_ryu15_) | — |
 | [Three.js rendering test](https://x.com/AI_Screening/status/2123164032882659819) | Carbon | Claude | [@AI_Screening](https://x.com/AI_Screening) | — |
 | [Gemini 4 Argon vs Opus 5.5 task comparison](https://x.com/Haleeeemahh/status/2110442447495127067) | Argon | Claude | [@Haleeeemahh](https://x.com/Haleeeemahh) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2110442447495127067) |
 | [Opus 5.5 vs Gemini 4 Argon output comparison](https://x.com/0x0SojalSec/status/2110147080543252556) | Argon | Claude | [@0x0SojalSec](https://x.com/0x0SojalSec) | — |
+| [Mexico City blender recreation](https://x.com/shridharathi/status/2124872477985644633) | Gemini 4 | — | [@shridharathi](https://x.com/shridharathi) | — |
 | [3D voxel sports car assembly animation](https://x.com/atomic_chat_hq/status/2110145714659664275) | Argon | Claude | [@atomic_chat_hq](https://x.com/atomic_chat_hq) | — |
 | [Side-by-side model output comparison](https://x.com/Haleeeemahh/status/2115819373973708975) | Carbon | Claude | [@Haleeeemahh](https://x.com/Haleeeemahh) | — |
 | [Huge haunted vampire cathedral](https://x.com/jan_volad/status/2123205954649100424) | Gemini 4 | GPT | [@jan_volad](https://x.com/jan_volad) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2123205954649100424) |
@@ -51,6 +53,7 @@
 | [Airplane taking off at night](https://x.com/SamgreyAi/status/2123898746329071698) | Gemini 4 | Claude, GPT | [@SamgreyAi](https://x.com/SamgreyAi) | — |
 | [Alpine mountain 3D film](https://x.com/EnvolDev/status/2124238419140444661) | Argon | Claude, GPT | [@EnvolDev](https://x.com/EnvolDev) | — |
 | [Eiffel Tower build benchmark across models](https://x.com/EnvolDev/status/2111580341626687586) | Argon | Claude, DeepSeek, Meta Muse | [@EnvolDev](https://x.com/EnvolDev) | — |
+| [Anime roadside basketball court diorama](https://x.com/mhgd3250905/status/2124884267436228885) | Gemini 4 | — | [@mhgd3250905](https://x.com/mhgd3250905) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2124884267436228885) |
 | [3D scene generation test](https://x.com/SPAC89/status/2124760560445030409) | Gemini 4 | Claude | [@SPAC89](https://x.com/SPAC89) | — |
 | [3D grocery scene comparison](https://x.com/Avenoxai/status/2110249491140071834) | Argon | Claude | [@Avenoxai](https://x.com/Avenoxai) | — |
 | [Robotic eye 3D animation comparison](https://x.com/noclipepe/status/2115728069398757827) | Carbon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | — |
@@ -102,6 +105,7 @@
 | [Three.js scene across three models](https://x.com/AI_Screening/status/2111112282583548122) | Argon | Claude, Meta Muse | [@AI_Screening](https://x.com/AI_Screening) | — |
 | [Stormy lighthouse scene model comparison](https://x.com/anxuanng/status/2110819776281079978) | Argon | Claude | [@anxuanng](https://x.com/anxuanng) | — |
 | [Space train scene model comparison](https://x.com/EnvolDev/status/2110795590858571945) | Argon | Claude | [@EnvolDev](https://x.com/EnvolDev) | — |
+| [Exploding photoreal mechanical chronograph](https://x.com/RezAIT00/status/2124923926522614078) | Gemini 4 | GPT | [@RezAIT00](https://x.com/RezAIT00) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2124923926522614078) |
 | [Battered scavenged AK-47 model built in Blender](https://x.com/maxt3chno/status/2124290043481338317) | Gemini 4 | — | [@maxt3chno](https://x.com/maxt3chno) | — |
 | [Vehicle build with synthesized engine sound](https://x.com/HarshithLucky3/status/2124205275272097970) | Gemini 4 | — | [@HarshithLucky3](https://x.com/HarshithLucky3) | — |
 | [Same-prompt one-shot model comparison](https://x.com/Haleeeemahh/status/2113243268569870459) | Argon / Carbon | Claude | [@Haleeeemahh](https://x.com/Haleeeemahh) | — |

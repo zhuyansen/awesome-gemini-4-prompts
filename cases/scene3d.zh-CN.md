@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 113 个作品，其中 33 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 117 个作品，其中 35 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -21,9 +21,11 @@
 | [埃菲尔铁塔建模的跨模型对比](https://x.com/AIMind_Ai/status/2111058514311336244) | Argon | Claude | [@AIMind_Ai](https://x.com/AIMind_Ai) | — |
 | [Opus 5.5对比Gemini 4与GPT 6](https://x.com/AdityaJhajhar12/status/2110223026549850196) | Argon | Claude, GPT | [@AdityaJhajhar12](https://x.com/AdityaJhajhar12) | — |
 | [Gemini 4 Argon 与 Opus 5.5 同题测试对比](https://x.com/Adidotdev/status/2110047989280670072) | Argon | Claude | [@Adidotdev](https://x.com/Adidotdev) | — |
+| [精灵堆叠 3D 动画](https://x.com/_ryu15_/status/2124849481351069716) | Gemini 4 | — | [@_ryu15_](https://x.com/_ryu15_) | — |
 | [Three.js 渲染测试](https://x.com/AI_Screening/status/2123164032882659819) | Carbon | Claude | [@AI_Screening](https://x.com/AI_Screening) | — |
 | [Gemini 4 Argon与Opus 5.5同任务对比测试](https://x.com/Haleeeemahh/status/2110442447495127067) | Argon | Claude | [@Haleeeemahh](https://x.com/Haleeeemahh) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2110442447495127067) |
 | [Opus5.5与Gemini4 Argon效果对比](https://x.com/0x0SojalSec/status/2110147080543252556) | Argon | Claude | [@0x0SojalSec](https://x.com/0x0SojalSec) | — |
+| [墨西哥城 Blender 重建](https://x.com/shridharathi/status/2124872477985644633) | Gemini 4 | — | [@shridharathi](https://x.com/shridharathi) | — |
 | [三维体素跑车组装动画](https://x.com/atomic_chat_hq/status/2110145714659664275) | Argon | Claude | [@atomic_chat_hq](https://x.com/atomic_chat_hq) | — |
 | [模型输出并排对比](https://x.com/Haleeeemahh/status/2115819373973708975) | Carbon | Claude | [@Haleeeemahh](https://x.com/Haleeeemahh) | — |
 | [巨型闹鬼吸血鬼大教堂](https://x.com/jan_volad/status/2123205954649100424) | Gemini 4 | GPT | [@jan_volad](https://x.com/jan_volad) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2123205954649100424) |
@@ -51,6 +53,7 @@
 | [夜间飞机起飞场景](https://x.com/SamgreyAi/status/2123898746329071698) | Gemini 4 | Claude, GPT | [@SamgreyAi](https://x.com/SamgreyAi) | — |
 | [阿尔卑斯山 3D 影片](https://x.com/EnvolDev/status/2124238419140444661) | Argon | Claude, GPT | [@EnvolDev](https://x.com/EnvolDev) | — |
 | [埃菲尔铁塔建造模型基准对比](https://x.com/EnvolDev/status/2111580341626687586) | Argon | Claude, DeepSeek, Meta Muse | [@EnvolDev](https://x.com/EnvolDev) | — |
+| [日漫风格路边篮球场箱庭场景](https://x.com/mhgd3250905/status/2124884267436228885) | Gemini 4 | — | [@mhgd3250905](https://x.com/mhgd3250905) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2124884267436228885) |
 | [3D 场景生成测试](https://x.com/SPAC89/status/2124760560445030409) | Gemini 4 | Claude | [@SPAC89](https://x.com/SPAC89) | — |
 | [3D果蔬店场景对比](https://x.com/Avenoxai/status/2110249491140071834) | Argon | Claude | [@Avenoxai](https://x.com/Avenoxai) | — |
 | [机械眼三维动画对比](https://x.com/noclipepe/status/2115728069398757827) | Carbon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | — |
@@ -102,6 +105,7 @@
 | [三个模型的Three.js场景对比](https://x.com/AI_Screening/status/2111112282583548122) | Argon | Claude, Meta Muse | [@AI_Screening](https://x.com/AI_Screening) | — |
 | [暴风雨灯塔场景模型对比](https://x.com/anxuanng/status/2110819776281079978) | Argon | Claude | [@anxuanng](https://x.com/anxuanng) | — |
 | [太空列车场景模型对比](https://x.com/EnvolDev/status/2110795590858571945) | Argon | Claude | [@EnvolDev](https://x.com/EnvolDev) | — |
+| [可拆解爆炸的写实机械计时腕表](https://x.com/RezAIT00/status/2124923926522614078) | Gemini 4 | GPT | [@RezAIT00](https://x.com/RezAIT00) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2124923926522614078) |
 | [在 Blender 中构建的破旧拼装 AK-47 模型](https://x.com/maxt3chno/status/2124290043481338317) | Gemini 4 | — | [@maxt3chno](https://x.com/maxt3chno) | — |
 | [带合成引擎声的载具作品](https://x.com/HarshithLucky3/status/2124205275272097970) | Gemini 4 | — | [@HarshithLucky3](https://x.com/HarshithLucky3) | — |
 | [同一提示词一次生成对比](https://x.com/Haleeeemahh/status/2113243268569870459) | Argon / Carbon | Claude | [@Haleeeemahh](https://x.com/Haleeeemahh) | — |

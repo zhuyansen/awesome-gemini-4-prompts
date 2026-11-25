@@ -4,8 +4,8 @@
  "released": "2026-10-14T00:00:00Z",
  "inclusion_rule": "Original post by the creator, media attached, >= 5000 views on that post, and the creator's own text says Gemini 4 (Argon, Carbon, Hydrogen, Krypton, Pro...) built it in code; same-prompt comparisons against other models included. Seeded on 2026-11-16 from the Claude 5.5 library. Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-24T11:25:04.779Z",
- "updated_at": "2026-11-24T11:30:46.410Z",
+ "stats_checked_at": "2026-11-25T01:21:18.586Z",
+ "updated_at": "2026-11-25T01:25:51.759Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -1440,6 +1440,46 @@
    "resources": []
   },
   {
+   "id": "2124943461107576865",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "浏览器中重现的 Windows 7 桌面",
+    "en": "Windows 7 desktop recreation in the browser"
+   },
+   "creator": {
+    "handle": "0xRhinoX",
+    "name": "Rhino"
+   },
+   "original_post_url": "https://x.com/0xRhinoX/status/2124943461107576865",
+   "posted_at": "2026-11-23T19:09:35.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1222,
+     "duration_seconds": 26,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124884419433414656/img/i1QVKEpqJdp9LWfq.jpg"
+    }
+   ],
+   "views": 111098,
+   "likes": 962,
+   "bookmarks": 387,
+   "views_checked_at": "2026-11-25T01:21:18.586Z",
+   "tools_reported": [
+    "Claude Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2111861310619029557",
    "category": "scene3d",
    "versions": [
@@ -2385,6 +2425,49 @@
    "resources": []
   },
   {
+   "id": "2124849481351069716",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "精灵堆叠 3D 动画",
+    "en": "Sprite stacking 3D animation"
+   },
+   "creator": {
+    "handle": "_ryu15_",
+    "name": "Ryu"
+   },
+   "original_post_url": "https://x.com/_ryu15_/status/2124849481351069716",
+   "posted_at": "2026-11-23T12:56:08.000Z",
+   "language": "ja",
+   "media": [
+    {
+     "type": "video",
+     "width": 508,
+     "height": 474,
+     "duration_seconds": 3,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124849470248783872/img/zPG-IRA8CKF1-BQK.jpg"
+    },
+    {
+     "type": "photo",
+     "width": 806,
+     "height": 453,
+     "duration_seconds": null,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXz7VcJakAEobkB?format=jpg&name=small"
+    }
+   ],
+   "views": 75908,
+   "likes": 1828,
+   "bookmarks": 941,
+   "views_checked_at": "2026-11-25T01:21:18.586Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2123184113561817370",
    "category": "motion",
    "versions": [
@@ -2545,6 +2628,45 @@
    "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [
     "Gemini 4 Argon"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124872477985644633",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "墨西哥城 Blender 重建",
+    "en": "Mexico City blender recreation"
+   },
+   "creator": {
+    "handle": "shridharathi",
+    "name": "Shridhar"
+   },
+   "original_post_url": "https://x.com/shridharathi/status/2124872477985644633",
+   "posted_at": "2026-11-23T14:27:31.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 3738,
+     "height": 2160,
+     "duration_seconds": 16,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124872057657638912/img/u535oQTVQagrbkOJ.jpg"
+    }
+   ],
+   "views": 66479,
+   "likes": 1619,
+   "bookmarks": 909,
+   "views_checked_at": "2026-11-25T01:21:18.586Z",
+   "tools_reported": [
+    "Swarm",
+    "Blender"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -4107,6 +4229,47 @@
    "resources": []
   },
   {
+   "id": "2124897056280219998",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "gpt"
+   ],
+   "title": {
+    "zh": "落叶穿行四季变化动画",
+    "en": "Leaf falling through each season"
+   },
+   "creator": {
+    "handle": "ZryMiller",
+    "name": "Zach"
+   },
+   "original_post_url": "https://x.com/ZryMiller/status/2124897056280219998",
+   "posted_at": "2026-11-23T16:05:11.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1350,
+     "duration_seconds": 20,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124896907252379648/img/xkrM-OsVYQWFTui3.jpg"
+    }
+   ],
+   "views": 46474,
+   "likes": 354,
+   "bookmarks": 95,
+   "views_checked_at": "2026-11-25T01:21:18.586Z",
+   "tools_reported": [
+    "Astra 6.2",
+    "Blender"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2124036193776263671",
    "category": "motion",
    "versions": [
@@ -4296,6 +4459,42 @@
     "Three.js"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124846677547004099",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "流畅短视频动画效果",
+    "en": "Smooth short motion video"
+   },
+   "creator": {
+    "handle": "369Serena",
+    "name": "Serena 木瓜"
+   },
+   "original_post_url": "https://x.com/369Serena/status/2124846677547004099",
+   "posted_at": "2026-11-23T12:45:00.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "video",
+     "width": 1280,
+     "height": 720,
+     "duration_seconds": 10,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124831106658942976/img/lWmObXTtM6tJheFZ.jpg"
+    }
+   ],
+   "views": 43543,
+   "likes": 156,
+   "bookmarks": 96,
+   "views_checked_at": "2026-11-25T01:21:18.586Z",
+   "tools_reported": [],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -4594,6 +4793,46 @@
     "Fable 5.2",
     "Gemini 4 Carbon",
     "GPT-6 Astra"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125022994263392260",
+   "category": "sim",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "交互式系统可视化",
+    "en": "Interactive systems visualization"
+   },
+   "creator": {
+    "handle": "alexanderchen",
+    "name": "Alexander Chen"
+   },
+   "original_post_url": "https://x.com/alexanderchen/status/2125022994263392260",
+   "posted_at": "2026-11-24T00:25:37.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 960,
+     "height": 720,
+     "duration_seconds": 49,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125022556822417408/img/glMFg98PEI-b6qzw.jpg"
+    }
+   ],
+   "views": 39456,
+   "likes": 671,
+   "bookmarks": 353,
+   "views_checked_at": "2026-11-25T01:21:18.586Z",
+   "tools_reported": [
+    "antigravity",
+    "Three.js",
+    "FFmpeg"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -5020,6 +5259,58 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124884267436228885",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "日漫风格路边篮球场箱庭场景",
+    "en": "Anime roadside basketball court diorama"
+   },
+   "creator": {
+    "handle": "mhgd3250905",
+    "name": "uuugk（无 CD， 关必回）"
+   },
+   "original_post_url": "https://x.com/mhgd3250905/status/2124884267436228885",
+   "posted_at": "2026-11-23T15:14:22.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "video",
+     "width": 1274,
+     "height": 1266,
+     "duration_seconds": 32,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124883764388265986/img/vEuU88Ml4PKicdal.jpg"
+    },
+    {
+     "type": "video",
+     "width": 1274,
+     "height": 1252,
+     "duration_seconds": 21,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124884008781938688/img/NW6yDhsWlUy0905K.jpg"
+    }
+   ],
+   "views": 36844,
+   "likes": 169,
+   "bookmarks": 77,
+   "views_checked_at": "2026-11-25T01:21:18.586Z",
+   "tools_reported": [
+    "GLM-5.4",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/mhgd3250905/status/2124887736436117949",
+    "length": 150,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2124884267436228885"
+   },
    "resources": []
   },
   {
@@ -6407,6 +6698,42 @@
    "resources": []
   },
   {
+   "id": "2124917188742242616",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "五条悟领域展开素描风格动画",
+    "en": "Animated Gojo domain expansion sketch"
+   },
+   "creator": {
+    "handle": "notjazii",
+    "name": "J A Z I I"
+   },
+   "original_post_url": "https://x.com/notjazii/status/2124917188742242616",
+   "posted_at": "2026-11-23T17:25:11.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1902,
+     "height": 936,
+     "duration_seconds": 9,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124914348355416064/img/KNkpid3vP3ocPS95.jpg"
+    }
+   ],
+   "views": 26570,
+   "likes": 651,
+   "bookmarks": 245,
+   "views_checked_at": "2026-11-25T01:21:18.586Z",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110449758439723292",
    "category": "game",
    "versions": [
@@ -7354,6 +7681,44 @@
    "tools_reported": [
     "Antigravity",
     "Magnific MCP"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125001629850345678",
+   "category": "game",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "单个 HTML 文件的着色器渲染网页游戏",
+    "en": "Shader-rendered browser game in one HTML file"
+   },
+   "creator": {
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo"
+   },
+   "original_post_url": "https://x.com/kevin_t_ngo/status/2125001629850345678",
+   "posted_at": "2026-11-23T23:00:43.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1064,
+     "height": 746,
+     "duration_seconds": 20,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125000303015854081/img/WQHNiPC7xl1m9yXb.jpg"
+    }
+   ],
+   "views": 20867,
+   "likes": 542,
+   "bookmarks": 494,
+   "views_checked_at": "2026-11-25T01:21:18.586Z",
+   "tools_reported": [
+    "Three.js"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -10235,6 +10600,59 @@
    "resources": []
   },
   {
+   "id": "2124923926522614078",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "gpt"
+   ],
+   "title": {
+    "zh": "可拆解爆炸的写实机械计时腕表",
+    "en": "Exploding photoreal mechanical chronograph"
+   },
+   "creator": {
+    "handle": "RezAIT00",
+    "name": "Rez"
+   },
+   "original_post_url": "https://x.com/RezAIT00/status/2124923926522614078",
+   "posted_at": "2026-11-23T17:51:57.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 960,
+     "duration_seconds": 30,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124923335993606144/img/gGHHCMFxpN2vAhmI.jpg"
+    }
+   ],
+   "views": 10081,
+   "likes": 129,
+   "bookmarks": 24,
+   "views_checked_at": "2026-11-25T01:21:18.586Z",
+   "tools_reported": [
+    "GPT-6.2 Sol",
+    "Three.js",
+    "Node",
+    "Python",
+    "ffmpeg",
+    "ffprobe",
+    "Chromium",
+    "Playwright"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/RezAIT00/status/2124960863060685026",
+    "length": 11823,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2124923926522614078"
+   },
+   "resources": []
+  },
+  {
    "id": "2124147232635035902",
    "category": "ui",
    "versions": [
@@ -11239,6 +11657,44 @@
    "tools_reported": [
     "Carbon",
     "Argon"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124922352698073593",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "英伟达 CEO 新闻一周回顾梗动画",
+    "en": "Week-in-review meme animation on Nvidia CEO news"
+   },
+   "creator": {
+    "handle": "chetaslua",
+    "name": "Chetaslua"
+   },
+   "original_post_url": "https://x.com/chetaslua/status/2124922352698073593",
+   "posted_at": "2026-11-23T17:45:42.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 3024,
+     "height": 1606,
+     "duration_seconds": 26,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124922156161339392/img/QjALP_zEeY8TOAaE.jpg"
+    }
+   ],
+   "views": 7107,
+   "likes": 176,
+   "bookmarks": 40,
+   "views_checked_at": "2026-11-25T01:21:18.586Z",
+   "tools_reported": [
+    "Swarm"
    ],
    "reference_assets": false,
    "prompt": null,
