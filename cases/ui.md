@@ -1,9 +1,10 @@
 # Websites & UI
 
-29 works, 5 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+32 works, 6 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
+| [Dolomites alpine wildflowers web essay](https://x.com/_philschmid/status/2125206633722601572) | Gemini 4 | — | [@_philschmid](https://x.com/_philschmid) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2125206633722601572) |
 | [Retro operating system redesign comparison](https://x.com/AIMind_Ai/status/2116908645845741618) | Argon | Claude, GPT | [@AIMind_Ai](https://x.com/AIMind_Ai) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2116908645845741618) |
 | [Frontend recreation comparison](https://x.com/fiapp_pro/status/2122014257667846338) | Hydrogen | GPT | [@fiapp_pro](https://x.com/fiapp_pro) | — |
 | [AI-built interface comparison](https://x.com/lengs4189/status/2122349952403927401) | Carbon | GPT | [@lengs4189](https://x.com/lengs4189) | — |
@@ -22,6 +23,8 @@
 | [Automatic music composition app](https://x.com/Awed_Urshy/status/2122161392828727738) | Hydrogen | — | [@Awed_Urshy](https://x.com/Awed_Urshy) | — |
 | [Galerie Nocturne CSS 3D museum walkthrough](https://x.com/MiaAI_lab/status/2110385278246654052) | Argon | Claude | [@MiaAI_lab](https://x.com/MiaAI_lab) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2110385278246654052) |
 | [Interactive Pi agent architecture visualizer](https://x.com/chasen_liao/status/2124352577852821919) | Gemini 4 | — | [@chasen_liao](https://x.com/chasen_liao) | — |
+| [Factorio-style agent workspace canvas](https://x.com/TheCoderBtw/status/2125272904233525667) | Gemini 4 | Claude | [@TheCoderBtw](https://x.com/TheCoderBtw) | — |
+| [Landing page with and without a design skill](https://x.com/blueemi99/status/2125330110806888928) | Gemini 4 | Claude | [@blueemi99](https://x.com/blueemi99) | — |
 | [Side-by-side build time comparison](https://x.com/Dav338876/status/2123811456525459754) | Gemini 4 | GPT | [@Dav338876](https://x.com/Dav338876) | — |
 | [Interactive web UI elements demo](https://x.com/csaba_kissi/status/2123727410642427904) | Gemini 4 | — | [@csaba_kissi](https://x.com/csaba_kissi) | — |
 | [Side-by-side build time and cost comparison](https://x.com/ZryMiller/status/2123921248191479993) | Gemini 4 | Claude | [@ZryMiller](https://x.com/ZryMiller) | — |

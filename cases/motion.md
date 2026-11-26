@@ -1,6 +1,6 @@
 # Animation
 
-47 works, 5 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+51 works, 5 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -23,9 +23,12 @@
 | [Claude vs Gemini roast battle](https://x.com/whydeso/status/2110649723497394405) | Argon | Claude | [@whydeso](https://x.com/whydeso) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2110649723497394405) |
 | [Launch video for a new AI model](https://x.com/whydeso/status/2123455226191691813) | Gemini 4 | Claude, GPT | [@whydeso](https://x.com/whydeso) | — |
 | [Zombie hand model comparison](https://x.com/noclipepe/status/2116445289468850366) | Carbon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2116445289468850366) |
+| [Sketch-style anime fight scene animation](https://x.com/WinterArc2125/status/2125304389539975350) | Gemini 4 | — | [@WinterArc2125](https://x.com/WinterArc2125) | — |
 | [Bird to panther single-shot transformation](https://x.com/kinderlayer/status/2115496867681247275) | Argon | Claude | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [Leaf falling through each season](https://x.com/ZryMiller/status/2124897056280219998) | Gemini 4 | GPT | [@ZryMiller](https://x.com/ZryMiller) | — |
 | [First motion graphics animation test](https://x.com/ogabezim/status/2124036193776263671) | Gemini 4 | — | [@ogabezim](https://x.com/ogabezim) | — |
+| [Animated video on what it likes about humanity](https://x.com/vipinxtwt/status/2125269462853271952) | Gemini 4 | — | [@vipinxtwt](https://x.com/vipinxtwt) | — |
+| [3D animation test](https://x.com/SkyzeeReal/status/2125225607546179893) | Gemini 4 | — | [@SkyzeeReal](https://x.com/SkyzeeReal) | — |
 | [Life in the eyes of a squirrel animation](https://x.com/DanielZambrini/status/2123891957529510012) | Gemini 4 | Claude, GPT | [@DanielZambrini](https://x.com/DanielZambrini) | — |
 | [Smooth short motion video](https://x.com/369Serena/status/2124846677547004099) | Gemini 4 | — | [@369Serena](https://x.com/369Serena) | — |
 | [Tiny character animation comparison](https://x.com/0xPorterio/status/2116108534051905642) | Carbon | Claude | [@0xPorterio](https://x.com/0xPorterio) | — |
@@ -36,6 +39,7 @@
 | [Knowledge explainer video animation](https://x.com/GeekCatX/status/2124175490516918376) | Gemini 4 | Claude | [@GeekCatX](https://x.com/GeekCatX) | — |
 | [The world through a squirrel's eyes animation](https://x.com/DanielZambrini/status/2123832990598045903) | Gemini 4 | — | [@DanielZambrini](https://x.com/DanielZambrini) | — |
 | [Animated Gojo domain expansion sketch](https://x.com/notjazii/status/2124917188742242616) | Gemini 4 | — | [@notjazii](https://x.com/notjazii) | — |
+| [News documentary short on Jensen Huang](https://x.com/369Serena/status/2125137350590374110) | Gemini 4 | — | [@369Serena](https://x.com/369Serena) | — |
 | [Image-to-3D motion teaser](https://x.com/ai_for_success/status/2124572099750891577) | Gemini 4 | — | [@ai_for_success](https://x.com/ai_for_success) | — |
 | [Ink-style animation storytelling comparison](https://x.com/higgsfield_ai/status/2110436743589876093) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
 | [Motion graphics Reels from audio recording](https://x.com/Avenoxai/status/2124525907113361657) | Gemini 4 | Claude | [@Avenoxai](https://x.com/Avenoxai) | — |

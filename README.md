@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-What creators on X had **Gemini 4** (Argon, Carbon, Hydrogen and other versions) **build in code**: 3D scenes, physics and material sims, machine cutaways, games, web pages and SVG. **280** works, each with 5,000+ views on the original post (15,385,542 in total); **198** are same-prompt comparisons against Claude, GPT and others, and **65** include the prompt the creator shared (25 full prompts). Updated daily (last update: 2026-11-25).
+What creators on X had **Gemini 4** (Argon, Carbon, Hydrogen and other versions) **build in code**: 3D scenes, physics and material sims, machine cutaways, games, web pages and SVG. **290** works, each with 5,000+ views on the original post (16,157,687 in total); **200** are same-prompt comparisons against Claude, GPT and others, and **67** include the prompt the creator shared (25 full prompts). Updated daily (last update: 2026-11-26).
 
 Browse with playable videos, one-click copy and filters by version and rival model: **[jasonzhu.ai/en/prompts/gemini-4](https://jasonzhu.ai/en/prompts/gemini-4)**
 
@@ -21,10 +21,10 @@ Browse with playable videos, one-click copy and filters by version and rival mod
   </tr>
 </table>
 
-[3D scenes](#3d-scenes) (117) · [Physics & materials](#physics--materials) (24) · [Machines & cutaways](#machines--cutaways) (18) · [Games](#games) (20) · [Simulations](#simulations) (9) · [Websites & UI](#websites--ui) (29) · [SVG drawings](#svg-drawings) (16) · [Animation](#animation) (47)
+[3D scenes](#3d-scenes) (117) · [Physics & materials](#physics--materials) (24) · [Machines & cutaways](#machines--cutaways) (19) · [Games](#games) (21) · [Simulations](#simulations) (10) · [Websites & UI](#websites--ui) (32) · [SVG drawings](#svg-drawings) (16) · [Animation](#animation) (51)
 
-- **Versions** (a post naming several counts for each): Argon 110 · Gemini 4 94 · Carbon 55 · Hydrogen 31 · Krypton 10 · Pro 4
-- **Compared with**: Claude 177 · GPT 83 · DeepSeek 15 · Grok 11 · Kimi 7 · Meta Muse 7 · Qwen 5 · MiniMax 5
+- **Versions** (a post naming several counts for each): Argon 110 · Gemini 4 104 · Carbon 55 · Hydrogen 31 · Krypton 10 · Pro 4
+- **Compared with**: Claude 179 · GPT 83 · DeepSeek 15 · Grok 11 · Kimi 7 · Meta Muse 7 · Qwen 5 · MiniMax 5
 
 ## 3D scenes
 
@@ -58,22 +58,22 @@ Browse with playable videos, one-click copy and filters by version and rival mod
 
 ## Machines & cutaways
 
-18 works · [full list](cases/mechanics.md)
+19 works · [full list](cases/mechanics.md)
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
 | [Cross-section engine firing animation](https://x.com/kinderlayer/status/2124465319087308918) | Gemini 4 | Claude, GPT, Grok | [@kinderlayer](https://x.com/kinderlayer) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2124465319087308918) |
 | [Electric motor animation model comparison](https://x.com/rubenssoto_ai/status/2110065587279798719) | Argon | Claude | [@rubenssoto_ai](https://x.com/rubenssoto_ai) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2110065587279798719) |
+| [Armored monster truck engineering simulation](https://x.com/thebuggeddev/status/2125157673448677586) | Gemini 4 | — | [@thebuggeddev](https://x.com/thebuggeddev) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2125157673448677586) |
 | [Radial engine animation comparison](https://x.com/olezhavich/status/2116606788241969445) | Argon / Carbon | Claude, GPT | [@olezhavich](https://x.com/olezhavich) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2116606788241969445) |
 | [Electric motor cutaway animation](https://x.com/analogalok/status/2122221106304352257) | Hydrogen | Qwen | [@analogalok](https://x.com/analogalok) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2122221106304352257) |
 | [Interactive 3D V12 engine model](https://x.com/thtbee_/status/2123843882937155607) | Hydrogen / Krypton | — | [@thtbee_](https://x.com/thtbee_) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2123843882937155607) |
 | [Alpine waterwheel sawmill and trip-hammer forge](https://x.com/ai_for_success/status/2121965512364331497) | Carbon | — | [@ai_for_success](https://x.com/ai_for_success) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2121965512364331497) |
 | [Water pump mechanism built by four models](https://x.com/kinderlayer/status/2113937338938150958) | Argon | Claude, GPT, Grok | [@kinderlayer](https://x.com/kinderlayer) | — |
-| [Lobe pump model comparison](https://x.com/kinderlayer/status/2114312573390602417) | Argon | Claude, GPT, Grok | [@kinderlayer](https://x.com/kinderlayer) | — |
 
 ## Games
 
-20 works · [full list](cases/game.md)
+21 works · [full list](cases/game.md)
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -88,25 +88,26 @@ Browse with playable videos, one-click copy and filters by version and rival mod
 
 ## Simulations
 
-9 works · [full list](cases/sim.md)
+10 works · [full list](cases/sim.md)
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
 | [Traffic simulation model cost comparison](https://x.com/kinderlayer/status/2110405479658631361) | Argon | Claude, GPT, Kimi | [@kinderlayer](https://x.com/kinderlayer) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2110405479658631361) |
 | [Nuclear strike simulation comparison](https://x.com/RafaCrackYT/status/2113418364353912861) | Argon | Claude, DeepSeek, MiniMax | [@RafaCrackYT](https://x.com/RafaCrackYT) | — |
+| [San Francisco hydrological model](https://x.com/DanielleFong/status/2125051736406770029) | Gemini 4 | — | [@DanielleFong](https://x.com/DanielleFong) | — |
 | [Interactive systems visualization](https://x.com/alexanderchen/status/2125022994263392260) | Gemini 4 | — | [@alexanderchen](https://x.com/alexanderchen) | — |
 | [Chip fab strategy sim comparison](https://x.com/anxuanng/status/2112583451958538598) | Argon | Claude | [@anxuanng](https://x.com/anxuanng) | — |
 | [Live air traffic control comparison](https://x.com/anxuanng/status/2112249972850917704) | Argon | Claude | [@anxuanng](https://x.com/anxuanng) | — |
 | [Live 3D satellite orbital tracker](https://x.com/DynamicWebPaige/status/2124698835801031129) | Gemini 4 | — | [@DynamicWebPaige](https://x.com/DynamicWebPaige) | — |
 | [Airline disruption flight map](https://x.com/SidraMiconi/status/2122766829550764271) | Hydrogen | — | [@SidraMiconi](https://x.com/SidraMiconi) | — |
-| [Rocket launch simulation model comparison](https://x.com/RafaCrackYT/status/2112573104996089906) | Argon | Claude, DeepSeek, MiniMax | [@RafaCrackYT](https://x.com/RafaCrackYT) | — |
 
 ## Websites & UI
 
-29 works · [full list](cases/ui.md)
+32 works · [full list](cases/ui.md)
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
+| [Dolomites alpine wildflowers web essay](https://x.com/_philschmid/status/2125206633722601572) | Gemini 4 | — | [@_philschmid](https://x.com/_philschmid) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2125206633722601572) |
 | [Retro operating system redesign comparison](https://x.com/AIMind_Ai/status/2116908645845741618) | Argon | Claude, GPT | [@AIMind_Ai](https://x.com/AIMind_Ai) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2116908645845741618) |
 | [Nokia 3310 redesign comparison](https://x.com/AIMind_Ai/status/2117595286109315107) | Argon | Claude, GPT | [@AIMind_Ai](https://x.com/AIMind_Ai) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2117595286109315107) |
 | [Galerie Nocturne CSS 3D museum walkthrough](https://x.com/MiaAI_lab/status/2110385278246654052) | Argon | Claude | [@MiaAI_lab](https://x.com/MiaAI_lab) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2110385278246654052) |
@@ -114,7 +115,6 @@ Browse with playable videos, one-click copy and filters by version and rival mod
 | [Haunted house website comparison](https://x.com/keydol123/status/2116556350130163783) | Carbon | Claude | [@keydol123](https://x.com/keydol123) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2116556350130163783) |
 | [Frontend recreation comparison](https://x.com/fiapp_pro/status/2122014257667846338) | Hydrogen | GPT | [@fiapp_pro](https://x.com/fiapp_pro) | — |
 | [AI-built interface comparison](https://x.com/lengs4189/status/2122349952403927401) | Carbon | GPT | [@lengs4189](https://x.com/lengs4189) | — |
-| [Windows XP desktop recreation](https://x.com/0xRhinoX/status/2124585541328896367) | Gemini 4 | Claude | [@0xRhinoX](https://x.com/0xRhinoX) | — |
 
 ## SVG drawings
 
@@ -133,7 +133,7 @@ Browse with playable videos, one-click copy and filters by version and rival mod
 
 ## Animation
 
-47 works · [full list](cases/motion.md)
+51 works · [full list](cases/motion.md)
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -148,7 +148,7 @@ Browse with playable videos, one-click copy and filters by version and rival mod
 
 ## What gets included
 
-- The creator's own post, with the video or images attached, and at least 5,000 views on that post (snapshot: 2026-11-25).
+- The creator's own post, with the video or images attached, and at least 5,000 views on that post (snapshot: 2026-11-26).
 - The creator's own text says Gemini 4 made it; a mention only inside a quoted post doesn't count. Only things Gemini 4 built in code are listed; images and clips straight out of Nano Banana, Imagen or Veo are left out. Same-prompt comparisons are included.
 - Versions follow the creator's own words. **Model attribution is as stated by each creator and was not independently reproduced.**
 - Prompts come only from the creator: the post itself, their own reply, a screenshot in a reply, or a link they shared, kept verbatim. Works without a published prompt are still listed, with the prompt column left empty.

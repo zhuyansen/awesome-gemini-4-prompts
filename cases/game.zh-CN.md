@@ -1,6 +1,6 @@
 # 游戏
 
-共 20 个作品，其中 1 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 21 个作品，其中 1 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [人类与球瓶互换的恐怖保龄球游戏](https://x.com/bijanbowen/status/2123414397980676214) | Gemini 4 | — | [@bijanbowen](https://x.com/bijanbowen) | — |
 | [战术第一人称射击网页游戏](https://x.com/vamsibatchuk/status/2122509308797579477) | Carbon | — | [@vamsibatchuk](https://x.com/vamsibatchuk) | — |
 | [Chrome 恐龙游戏模型对比](https://x.com/noclipepe/status/2119927838321328577) | Carbon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | — |
+| [折纸风平台跳跃游戏](https://x.com/huang18825/status/2125076324536762753) | Gemini 4 | — | [@huang18825](https://x.com/huang18825) | — |
 | [水下3D世界构建模型对比](https://x.com/higgsfield_ai/status/2110505799042929035) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
 | [塔防游戏](https://x.com/DeryaTR_/status/2123276863481254210) | Gemini 4 | — | [@DeryaTR_](https://x.com/DeryaTR_) | — |
 | [动漫格斗游戏开发对比测试](https://x.com/higgsfield_ai/status/2110449758439723292) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |

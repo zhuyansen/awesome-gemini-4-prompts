@@ -1,6 +1,6 @@
 # Games
 
-20 works, 1 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+21 works, 1 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Horror bowling game with humans as pins](https://x.com/bijanbowen/status/2123414397980676214) | Gemini 4 | — | [@bijanbowen](https://x.com/bijanbowen) | — |
 | [Tactical FPS browser game](https://x.com/vamsibatchuk/status/2122509308797579477) | Carbon | — | [@vamsibatchuk](https://x.com/vamsibatchuk) | — |
 | [Chrome Dino model comparison](https://x.com/noclipepe/status/2119927838321328577) | Carbon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | — |
+| [Origami-style platformer game](https://x.com/huang18825/status/2125076324536762753) | Gemini 4 | — | [@huang18825](https://x.com/huang18825) | — |
 | [Underwater 3D world comparison test](https://x.com/higgsfield_ai/status/2110505799042929035) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
 | [Tower defense game](https://x.com/DeryaTR_/status/2123276863481254210) | Gemini 4 | — | [@DeryaTR_](https://x.com/DeryaTR_) | — |
 | [Anime combat game dev comparison](https://x.com/higgsfield_ai/status/2110449758439723292) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |

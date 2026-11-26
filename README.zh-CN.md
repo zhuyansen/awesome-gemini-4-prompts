@@ -2,7 +2,7 @@
 
 [English](README.md) | 简体中文
 
-X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写代码**做出来的作品：3D 场景、物理与材质模拟、机械剖面、游戏、网页和 SVG。共 **280** 个，原帖播放都过 5,000，合计 15,385,542 次播放；其中 **198** 个是和 Claude、GPT 等模型的同题对比，**65** 个附作者公开的提示词（25 条完整提示词）。每天自动更新（最近一次：2026-11-25）。
+X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写代码**做出来的作品：3D 场景、物理与材质模拟、机械剖面、游戏、网页和 SVG。共 **290** 个，原帖播放都过 5,000，合计 16,157,687 次播放；其中 **200** 个是和 Claude、GPT 等模型的同题对比，**67** 个附作者公开的提示词（25 条完整提示词）。每天自动更新（最近一次：2026-11-26）。
 
 在线浏览（视频直接播放、提示词一键复制、按版本和对比对象筛选）：**[jasonzhu.ai/zh/prompts/gemini-4](https://jasonzhu.ai/zh/prompts/gemini-4)**
 
@@ -21,10 +21,10 @@ X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写�
   </tr>
 </table>
 
-[3D 场景](#3d-场景)（117） · [物理与材质](#物理与材质)（24） · [机械原理](#机械原理)（18） · [游戏](#游戏)（20） · [模拟系统](#模拟系统)（9） · [网页与界面](#网页与界面)（29） · [SVG 绘图](#svg-绘图)（16） · [动画短片](#动画短片)（47）
+[3D 场景](#3d-场景)（117） · [物理与材质](#物理与材质)（24） · [机械原理](#机械原理)（19） · [游戏](#游戏)（21） · [模拟系统](#模拟系统)（10） · [网页与界面](#网页与界面)（32） · [SVG 绘图](#svg-绘图)（16） · [动画短片](#动画短片)（51）
 
-- **版本**（一个帖子写了几个版本就各算一次）：Argon 110 · Gemini 4 94 · Carbon 55 · Hydrogen 31 · Krypton 10 · Pro 4
-- **同题对比的对象**：Claude 177 · GPT 83 · DeepSeek 15 · Grok 11 · Kimi 7 · Meta Muse 7 · Qwen 5 · MiniMax 5
+- **版本**（一个帖子写了几个版本就各算一次）：Argon 110 · Gemini 4 104 · Carbon 55 · Hydrogen 31 · Krypton 10 · Pro 4
+- **同题对比的对象**：Claude 179 · GPT 83 · DeepSeek 15 · Grok 11 · Kimi 7 · Meta Muse 7 · Qwen 5 · MiniMax 5
 
 ## 3D 场景
 
@@ -58,22 +58,22 @@ X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写�
 
 ## 机械原理
 
-18 个作品 · [完整清单](cases/mechanics.zh-CN.md)
+19 个作品 · [完整清单](cases/mechanics.zh-CN.md)
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
 | [发动机剖面点火运行动画](https://x.com/kinderlayer/status/2124465319087308918) | Gemini 4 | Claude, GPT, Grok | [@kinderlayer](https://x.com/kinderlayer) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2124465319087308918) |
 | [电动机动画模型对比](https://x.com/rubenssoto_ai/status/2110065587279798719) | Argon | Claude | [@rubenssoto_ai](https://x.com/rubenssoto_ai) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2110065587279798719) |
+| [装甲怪兽卡车工程模拟](https://x.com/thebuggeddev/status/2125157673448677586) | Gemini 4 | — | [@thebuggeddev](https://x.com/thebuggeddev) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2125157673448677586) |
 | [星形发动机动画模型对比](https://x.com/olezhavich/status/2116606788241969445) | Argon / Carbon | Claude, GPT | [@olezhavich](https://x.com/olezhavich) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2116606788241969445) |
 | [电动机原理剖面动画](https://x.com/analogalok/status/2122221106304352257) | Hydrogen | Qwen | [@analogalok](https://x.com/analogalok) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2122221106304352257) |
 | [3D V12 发动机模型](https://x.com/thtbee_/status/2123843882937155607) | Hydrogen / Krypton | — | [@thtbee_](https://x.com/thtbee_) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2123843882937155607) |
 | [阿尔卑斯水车锯木厂与落锤铁匠铺](https://x.com/ai_for_success/status/2121965512364331497) | Carbon | — | [@ai_for_success](https://x.com/ai_for_success) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2121965512364331497) |
 | [四个模型打造的水泵机械对比](https://x.com/kinderlayer/status/2113937338938150958) | Argon | Claude, GPT, Grok | [@kinderlayer](https://x.com/kinderlayer) | — |
-| [凸轮泵模型对比](https://x.com/kinderlayer/status/2114312573390602417) | Argon | Claude, GPT, Grok | [@kinderlayer](https://x.com/kinderlayer) | — |
 
 ## 游戏
 
-20 个作品 · [完整清单](cases/game.zh-CN.md)
+21 个作品 · [完整清单](cases/game.zh-CN.md)
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -88,25 +88,26 @@ X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写�
 
 ## 模拟系统
 
-9 个作品 · [完整清单](cases/sim.zh-CN.md)
+10 个作品 · [完整清单](cases/sim.zh-CN.md)
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
 | [交通模拟模型成本对比](https://x.com/kinderlayer/status/2110405479658631361) | Argon | Claude, GPT, Kimi | [@kinderlayer](https://x.com/kinderlayer) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2110405479658631361) |
 | [核打击城市模拟对比](https://x.com/RafaCrackYT/status/2113418364353912861) | Argon | Claude, DeepSeek, MiniMax | [@RafaCrackYT](https://x.com/RafaCrackYT) | — |
+| [旧金山水文模型](https://x.com/DanielleFong/status/2125051736406770029) | Gemini 4 | — | [@DanielleFong](https://x.com/DanielleFong) | — |
 | [交互式系统可视化](https://x.com/alexanderchen/status/2125022994263392260) | Gemini 4 | — | [@alexanderchen](https://x.com/alexanderchen) | — |
 | [芯片厂模拟策略场景对比](https://x.com/anxuanng/status/2112583451958538598) | Argon | Claude | [@anxuanng](https://x.com/anxuanng) | — |
 | [实时空中交通管制对比](https://x.com/anxuanng/status/2112249972850917704) | Argon | Claude | [@anxuanng](https://x.com/anxuanng) | — |
 | [实时 3D 卫星轨道追踪器](https://x.com/DynamicWebPaige/status/2124698835801031129) | Gemini 4 | — | [@DynamicWebPaige](https://x.com/DynamicWebPaige) | — |
 | [航班中断地图](https://x.com/SidraMiconi/status/2122766829550764271) | Hydrogen | — | [@SidraMiconi](https://x.com/SidraMiconi) | — |
-| [火箭发射模拟模型对比](https://x.com/RafaCrackYT/status/2112573104996089906) | Argon | Claude, DeepSeek, MiniMax | [@RafaCrackYT](https://x.com/RafaCrackYT) | — |
 
 ## 网页与界面
 
-29 个作品 · [完整清单](cases/ui.zh-CN.md)
+32 个作品 · [完整清单](cases/ui.zh-CN.md)
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
+| [多洛米蒂高山野花网页长文](https://x.com/_philschmid/status/2125206633722601572) | Gemini 4 | — | [@_philschmid](https://x.com/_philschmid) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2125206633722601572) |
 | [复古操作系统重制对比](https://x.com/AIMind_Ai/status/2116908645845741618) | Argon | Claude, GPT | [@AIMind_Ai](https://x.com/AIMind_Ai) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2116908645845741618) |
 | [诺基亚3310重设计对比](https://x.com/AIMind_Ai/status/2117595286109315107) | Argon | Claude, GPT | [@AIMind_Ai](https://x.com/AIMind_Ai) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2117595286109315107) |
 | [CSS 3D 虚拟美术馆漫游](https://x.com/MiaAI_lab/status/2110385278246654052) | Argon | Claude | [@MiaAI_lab](https://x.com/MiaAI_lab) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2110385278246654052) |
@@ -114,7 +115,6 @@ X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写�
 | [闹鬼房屋网站对比](https://x.com/keydol123/status/2116556350130163783) | Carbon | Claude | [@keydol123](https://x.com/keydol123) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2116556350130163783) |
 | [前端页面复刻对比](https://x.com/fiapp_pro/status/2122014257667846338) | Hydrogen | GPT | [@fiapp_pro](https://x.com/fiapp_pro) | — |
 | [AI 制作的界面对比](https://x.com/lengs4189/status/2122349952403927401) | Carbon | GPT | [@lengs4189](https://x.com/lengs4189) | — |
-| [Windows XP 桌面界面复刻](https://x.com/0xRhinoX/status/2124585541328896367) | Gemini 4 | Claude | [@0xRhinoX](https://x.com/0xRhinoX) | — |
 
 ## SVG 绘图
 
@@ -133,7 +133,7 @@ X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写�
 
 ## 动画短片
 
-47 个作品 · [完整清单](cases/motion.zh-CN.md)
+51 个作品 · [完整清单](cases/motion.zh-CN.md)
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -148,7 +148,7 @@ X 上的创作者让 **Gemini 4**（Argon、Carbon、Hydrogen 等版本）**写�
 
 ## 收录标准
 
-- 创作者本人的原帖，视频或图片是原帖自带的，原帖播放不低于 5,000（快照 2026-11-25）。
+- 创作者本人的原帖，视频或图片是原帖自带的，原帖播放不低于 5,000（快照 2026-11-26）。
 - 作者自己写的正文说用了 Gemini 4，只在引用别人帖子里提到的不算。只收 Gemini 4 写代码做出来的东西；Nano Banana、Imagen、Veo 直接出的图和视频不收。同题对比照收。
 - 版本按作者的写法标注。**模型归属以作者自述为准，没有逐条复现。**
 - 提示词只收作者本人公开的：原帖正文、作者自己的回复、回复里的截图、作者给的链接，原文照录。没公开提示词的作品照常收录，提示词一栏留空。

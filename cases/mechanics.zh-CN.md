@@ -1,6 +1,6 @@
 # 机械原理
 
-共 18 个作品，其中 6 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 19 个作品，其中 7 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -8,6 +8,7 @@
 | [四个模型打造的水泵机械对比](https://x.com/kinderlayer/status/2113937338938150958) | Argon | Claude, GPT, Grok | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [凸轮泵模型对比](https://x.com/kinderlayer/status/2114312573390602417) | Argon | Claude, GPT, Grok | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [电动机动画模型对比](https://x.com/rubenssoto_ai/status/2110065587279798719) | Argon | Claude | [@rubenssoto_ai](https://x.com/rubenssoto_ai) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2110065587279798719) |
+| [装甲怪兽卡车工程模拟](https://x.com/thebuggeddev/status/2125157673448677586) | Gemini 4 | — | [@thebuggeddev](https://x.com/thebuggeddev) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2125157673448677586) |
 | [手压泵物理效果对比](https://x.com/kinderlayer/status/2116857033659949157) | Argon | Claude, GPT, Grok | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [星形发动机动画模型对比](https://x.com/olezhavich/status/2116606788241969445) | Argon / Carbon | Claude, GPT | [@olezhavich](https://x.com/olezhavich) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2116606788241969445) |
 | [电动机原理剖面动画](https://x.com/analogalok/status/2122221106304352257) | Hydrogen | Qwen | [@analogalok](https://x.com/analogalok) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2122221106304352257) |

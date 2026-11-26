@@ -1,9 +1,10 @@
 # 网页与界面
 
-共 29 个作品，其中 5 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 32 个作品，其中 6 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
+| [多洛米蒂高山野花网页长文](https://x.com/_philschmid/status/2125206633722601572) | Gemini 4 | — | [@_philschmid](https://x.com/_philschmid) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2125206633722601572) |
 | [复古操作系统重制对比](https://x.com/AIMind_Ai/status/2116908645845741618) | Argon | Claude, GPT | [@AIMind_Ai](https://x.com/AIMind_Ai) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2116908645845741618) |
 | [前端页面复刻对比](https://x.com/fiapp_pro/status/2122014257667846338) | Hydrogen | GPT | [@fiapp_pro](https://x.com/fiapp_pro) | — |
 | [AI 制作的界面对比](https://x.com/lengs4189/status/2122349952403927401) | Carbon | GPT | [@lengs4189](https://x.com/lengs4189) | — |
@@ -22,6 +23,8 @@
 | [自动作曲应用](https://x.com/Awed_Urshy/status/2122161392828727738) | Hydrogen | — | [@Awed_Urshy](https://x.com/Awed_Urshy) | — |
 | [CSS 3D 虚拟美术馆漫游](https://x.com/MiaAI_lab/status/2110385278246654052) | Argon | Claude | [@MiaAI_lab](https://x.com/MiaAI_lab) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2110385278246654052) |
 | [Pi 智能体架构交互式可视化网页](https://x.com/chasen_liao/status/2124352577852821919) | Gemini 4 | — | [@chasen_liao](https://x.com/chasen_liao) | — |
+| [类异星工厂风格的智能体工作画布](https://x.com/TheCoderBtw/status/2125272904233525667) | Gemini 4 | Claude | [@TheCoderBtw](https://x.com/TheCoderBtw) | — |
+| [使用与不使用设计技能的落地页对比](https://x.com/blueemi99/status/2125330110806888928) | Gemini 4 | Claude | [@blueemi99](https://x.com/blueemi99) | — |
 | [双模型构建耗时对比](https://x.com/Dav338876/status/2123811456525459754) | Gemini 4 | GPT | [@Dav338876](https://x.com/Dav338876) | — |
 | [网页界面元素设计演示](https://x.com/csaba_kissi/status/2123727410642427904) | Gemini 4 | — | [@csaba_kissi](https://x.com/csaba_kissi) | — |
 | [双模型构建耗时与成本对比](https://x.com/ZryMiller/status/2123921248191479993) | Gemini 4 | Claude | [@ZryMiller](https://x.com/ZryMiller) | — |

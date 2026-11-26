@@ -1,6 +1,6 @@
 # 动画短片
 
-共 47 个作品，其中 5 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 51 个作品，其中 5 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -23,9 +23,12 @@
 | [Claude与Gemini互怼对比](https://x.com/whydeso/status/2110649723497394405) | Argon | Claude | [@whydeso](https://x.com/whydeso) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2110649723497394405) |
 | [新 AI 模型发布宣传视频](https://x.com/whydeso/status/2123455226191691813) | Gemini 4 | Claude, GPT | [@whydeso](https://x.com/whydeso) | — |
 | [丧尸手生成效果对比](https://x.com/noclipepe/status/2116445289468850366) | Carbon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2116445289468850366) |
+| [速写风格动漫打斗场景动画](https://x.com/WinterArc2125/status/2125304389539975350) | Gemini 4 | — | [@WinterArc2125](https://x.com/WinterArc2125) | — |
 | [飞鸟化身黑豹一次生成的变形对比](https://x.com/kinderlayer/status/2115496867681247275) | Argon | Claude | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [落叶穿行四季变化动画](https://x.com/ZryMiller/status/2124897056280219998) | Gemini 4 | GPT | [@ZryMiller](https://x.com/ZryMiller) | — |
 | [首次动态图形动画测试](https://x.com/ogabezim/status/2124036193776263671) | Gemini 4 | — | [@ogabezim](https://x.com/ogabezim) | — |
+| [关于喜欢人类之处的动画视频](https://x.com/vipinxtwt/status/2125269462853271952) | Gemini 4 | — | [@vipinxtwt](https://x.com/vipinxtwt) | — |
+| [3D 动画测试](https://x.com/SkyzeeReal/status/2125225607546179893) | Gemini 4 | — | [@SkyzeeReal](https://x.com/SkyzeeReal) | — |
 | [松鼠视角下的生活短片](https://x.com/DanielZambrini/status/2123891957529510012) | Gemini 4 | Claude, GPT | [@DanielZambrini](https://x.com/DanielZambrini) | — |
 | [流畅短视频动画效果](https://x.com/369Serena/status/2124846677547004099) | Gemini 4 | — | [@369Serena](https://x.com/369Serena) | — |
 | [微型角色动画对比](https://x.com/0xPorterio/status/2116108534051905642) | Carbon | Claude | [@0xPorterio](https://x.com/0xPorterio) | — |
@@ -36,6 +39,7 @@
 | [知识科普动画视频](https://x.com/GeekCatX/status/2124175490516918376) | Gemini 4 | Claude | [@GeekCatX](https://x.com/GeekCatX) | — |
 | [松鼠视角的世界动画](https://x.com/DanielZambrini/status/2123832990598045903) | Gemini 4 | — | [@DanielZambrini](https://x.com/DanielZambrini) | — |
 | [五条悟领域展开素描风格动画](https://x.com/notjazii/status/2124917188742242616) | Gemini 4 | — | [@notjazii](https://x.com/notjazii) | — |
+| [新闻纪实风格短片《黄仁勋归来》](https://x.com/369Serena/status/2125137350590374110) | Gemini 4 | — | [@369Serena](https://x.com/369Serena) | — |
 | [图像转 3D 动态效果演示](https://x.com/ai_for_success/status/2124572099750891577) | Gemini 4 | — | [@ai_for_success](https://x.com/ai_for_success) | — |
 | [水墨风格叙事动画对比](https://x.com/higgsfield_ai/status/2110436743589876093) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
 | [基于录音生成的动态图形短视频](https://x.com/Avenoxai/status/2124525907113361657) | Gemini 4 | Claude | [@Avenoxai](https://x.com/Avenoxai) | — |

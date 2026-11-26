@@ -4,8 +4,8 @@
  "released": "2026-10-14T00:00:00Z",
  "inclusion_rule": "Original post by the creator, media attached, >= 5000 views on that post, and the creator's own text says Gemini 4 (Argon, Carbon, Hydrogen, Krypton, Pro...) built it in code; same-prompt comparisons against other models included. Seeded on 2026-11-16 from the Claude 5.5 library. Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-25T01:21:18.586Z",
- "updated_at": "2026-11-25T01:25:51.759Z",
+ "stats_checked_at": "2026-11-26T01:28:05.076Z",
+ "updated_at": "2026-11-26T01:32:48.464Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -184,6 +184,51 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125206633722601572",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "多洛米蒂高山野花网页长文",
+    "en": "Dolomites alpine wildflowers web essay"
+   },
+   "creator": {
+    "handle": "_philschmid",
+    "name": "Philipp Schmid"
+   },
+   "original_post_url": "https://x.com/_philschmid/status/2125206633722601572",
+   "posted_at": "2026-11-24T12:35:20.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 18,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125205913275346944/img/_8axEVROEzXsFz6j.jpg"
+    }
+   ],
+   "views": 353747,
+   "likes": 3215,
+   "bookmarks": 4116,
+   "views_checked_at": "2026-11-26T01:28:05.076Z",
+   "tools_reported": [
+    "Nano Banana",
+    "Antigravity"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/_philschmid/status/2125206633722601572",
+    "length": 113,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2125206633722601572"
+   },
    "resources": []
   },
   {
@@ -1181,6 +1226,51 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125157673448677586",
+   "category": "mechanics",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "装甲怪兽卡车工程模拟",
+    "en": "Armored monster truck engineering simulation"
+   },
+   "creator": {
+    "handle": "thebuggeddev",
+    "name": "The Bugged Dev"
+   },
+   "original_post_url": "https://x.com/thebuggeddev/status/2125157673448677586",
+   "posted_at": "2026-11-24T09:20:47.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 2828,
+     "height": 1840,
+     "duration_seconds": 124,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125153220083486720/img/y7vmxafueonDK5B6.jpg"
+    }
+   ],
+   "views": 121996,
+   "likes": 2073,
+   "bookmarks": 1257,
+   "views_checked_at": "2026-11-26T01:28:05.076Z",
+   "tools_reported": [
+    "bpy",
+    "TSL"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/thebuggeddev/status/2125157673448677586",
+    "length": 141,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2125157673448677586"
+   },
    "resources": []
   },
   {
@@ -3764,6 +3854,42 @@
    "resources": []
   },
   {
+   "id": "2125304389539975350",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "速写风格动漫打斗场景动画",
+    "en": "Sketch-style anime fight scene animation"
+   },
+   "creator": {
+    "handle": "WinterArc2125",
+    "name": "Winter"
+   },
+   "original_post_url": "https://x.com/WinterArc2125/status/2125304389539975350",
+   "posted_at": "2026-11-24T19:03:47.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 640,
+     "height": 360,
+     "duration_seconds": 10,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125304285256695808/img/iAYflZBxm5LdZq-g.jpg"
+    }
+   ],
+   "views": 51571,
+   "likes": 748,
+   "bookmarks": 435,
+   "views_checked_at": "2026-11-26T01:28:05.076Z",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2120956699951628637",
    "category": "svg",
    "versions": [
@@ -3888,6 +4014,44 @@
     "Claude Opus 5.5"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125051736406770029",
+   "category": "sim",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "旧金山水文模型",
+    "en": "San Francisco hydrological model"
+   },
+   "creator": {
+    "handle": "DanielleFong",
+    "name": "Danielle Fong 🔆"
+   },
+   "original_post_url": "https://x.com/DanielleFong/status/2125051736406770029",
+   "posted_at": "2026-11-24T02:19:50.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1944,
+     "height": 2022,
+     "duration_seconds": 83,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125051339587948544/img/hKfQM8eoWIJuiXzo.jpg"
+    }
+   ],
+   "views": 50270,
+   "likes": 764,
+   "bookmarks": 504,
+   "views_checked_at": "2026-11-26T01:28:05.076Z",
+   "tools_reported": [
+    "SmallSF"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -4341,6 +4505,82 @@
    "bookmarks": 30,
    "views_checked_at": "2026-11-23T11:55:30.830Z",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125269462853271952",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "关于喜欢人类之处的动画视频",
+    "en": "Animated video on what it likes about humanity"
+   },
+   "creator": {
+    "handle": "vipinxtwt",
+    "name": "Vipin"
+   },
+   "original_post_url": "https://x.com/vipinxtwt/status/2125269462853271952",
+   "posted_at": "2026-11-24T16:45:00.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 95,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125251346412761088/img/1uVjBxSJby9J7awc.jpg"
+    }
+   ],
+   "views": 45779,
+   "likes": 709,
+   "bookmarks": 407,
+   "views_checked_at": "2026-11-26T01:28:05.076Z",
+   "tools_reported": [
+    "Antigravity"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125225607546179893",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "3D 动画测试",
+    "en": "3D animation test"
+   },
+   "creator": {
+    "handle": "SkyzeeReal",
+    "name": "Skyzee 然"
+   },
+   "original_post_url": "https://x.com/SkyzeeReal/status/2125225607546179893",
+   "posted_at": "2026-11-24T13:50:44.000Z",
+   "language": "in",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1918,
+     "height": 1003,
+     "duration_seconds": null,
+     "thumbnail_url": "https://pbs.twimg.com/media/HX5ROUYbMAARrWk?format=jpg&name=small"
+    }
+   ],
+   "views": 45325,
+   "likes": 243,
+   "bookmarks": 230,
+   "views_checked_at": "2026-11-26T01:28:05.076Z",
+   "tools_reported": [
+    "Claude"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -5462,6 +5702,42 @@
     "Claude Opus 5.5",
     "Claude Fable 5.2"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125076324536762753",
+   "category": "game",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "折纸风平台跳跃游戏",
+    "en": "Origami-style platformer game"
+   },
+   "creator": {
+    "handle": "huang18825",
+    "name": "渣渣渣渣渣"
+   },
+   "original_post_url": "https://x.com/huang18825/status/2125076324536762753",
+   "posted_at": "2026-11-24T03:57:32.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 36,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125076150204743680/img/mIYj4lcMvBKtzGFG.jpg"
+    }
+   ],
+   "views": 35062,
+   "likes": 402,
+   "bookmarks": 227,
+   "views_checked_at": "2026-11-26T01:28:05.076Z",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -7376,6 +7652,142 @@
     "MiniMax M3.1 Flash",
     "Gemini 4 Argon"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125272904233525667",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "类异星工厂风格的智能体工作画布",
+    "en": "Factorio-style agent workspace canvas"
+   },
+   "creator": {
+    "handle": "TheCoderBtw",
+    "name": "TheCoderBTW"
+   },
+   "original_post_url": "https://x.com/TheCoderBtw/status/2125272904233525667",
+   "posted_at": "2026-11-24T16:58:40.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1895,
+     "height": 949,
+     "duration_seconds": null,
+     "thumbnail_url": "https://pbs.twimg.com/media/HX57sywasAAg6A0?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1896,
+     "height": 949,
+     "duration_seconds": null,
+     "thumbnail_url": "https://pbs.twimg.com/media/HX57vQMakAAfajY?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1910,
+     "height": 960,
+     "duration_seconds": null,
+     "thumbnail_url": "https://pbs.twimg.com/media/HX58DLDbMAA_M-9?format=jpg&name=small"
+    }
+   ],
+   "views": 23002,
+   "likes": 336,
+   "bookmarks": 682,
+   "views_checked_at": "2026-11-26T01:28:05.076Z",
+   "tools_reported": [
+    "Factorio",
+    "Meta AI",
+    "Factory",
+    "pstack",
+    "Fable 5.2",
+    "SQLite"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125330110806888928",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "使用与不使用设计技能的落地页对比",
+    "en": "Landing page with and without a design skill"
+   },
+   "creator": {
+    "handle": "blueemi99",
+    "name": "bluedev"
+   },
+   "original_post_url": "https://x.com/blueemi99/status/2125330110806888928",
+   "posted_at": "2026-11-24T20:45:59.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 2560,
+     "height": 856,
+     "duration_seconds": 21,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125329842845392896/img/-Rlmlig1XFacNye-.jpg"
+    }
+   ],
+   "views": 22864,
+   "likes": 199,
+   "bookmarks": 101,
+   "views_checked_at": "2026-11-26T01:28:05.076Z",
+   "tools_reported": [
+    "Opus 5.5",
+    "Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125137350590374110",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "新闻纪实风格短片《黄仁勋归来》",
+    "en": "News documentary short on Jensen Huang"
+   },
+   "creator": {
+    "handle": "369Serena",
+    "name": "Serena 木瓜"
+   },
+   "original_post_url": "https://x.com/369Serena/status/2125137350590374110",
+   "posted_at": "2026-11-24T08:00:02.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 86,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125096994582794241/img/5V-fON1AEB-CQLvP.jpg"
+    }
+   ],
+   "views": 22529,
+   "likes": 162,
+   "bookmarks": 143,
+   "views_checked_at": "2026-11-26T01:28:05.076Z",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
