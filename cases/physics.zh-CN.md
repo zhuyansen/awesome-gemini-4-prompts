@@ -1,6 +1,6 @@
 # 物理与材质
 
-共 24 个作品，其中 10 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 25 个作品，其中 11 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -26,5 +26,6 @@
 | [果冻花园3D模型对比](https://x.com/marcthecreatorr/status/2110057849653002459) | Argon | Claude | [@marcthecreatorr](https://x.com/marcthecreatorr) | — |
 | [果冻乐高积木模型对比](https://x.com/semichenkko/status/2110484619841958316) | Argon | Claude | [@semichenkko](https://x.com/semichenkko) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2110484619841958316) |
 | [港口果冻交互立体模型对比](https://x.com/N1njaCodex/status/2112476644757639411) | Argon | Claude | [@N1njaCodex](https://x.com/N1njaCodex) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2112476644757639411) |
+| [实时 WebGL 流体动力学交互演示](https://x.com/samsheffer/status/2125639642330357994) | Gemini 4 | — | [@samsheffer](https://x.com/samsheffer) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2125639642330357994) |
 | [毛绒西瓜动画效果对比](https://x.com/vib3coded/status/2111428909203866089) | Argon | Claude | [@vib3coded](https://x.com/vib3coded) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2111428909203866089) |
 | [水晶蝴蝶玻璃材质模型对比](https://x.com/TypingMindApp/status/2110729405400031495) | Argon | Claude, GPT, Meta Muse | [@TypingMindApp](https://x.com/TypingMindApp) | — |

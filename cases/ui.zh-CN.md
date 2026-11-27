@@ -1,6 +1,6 @@
 # 网页与界面
 
-共 32 个作品，其中 6 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 33 个作品，其中 6 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [智能体循环架构交互式网页](https://x.com/antiAIvo/status/2124408795334119710) | Gemini 4 | DeepSeek | [@antiAIvo](https://x.com/antiAIvo) | — |
 | [诺基亚3310重设计对比](https://x.com/AIMind_Ai/status/2117595286109315107) | Argon | Claude, GPT | [@AIMind_Ai](https://x.com/AIMind_Ai) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2117595286109315107) |
 | [自动作曲应用](https://x.com/Awed_Urshy/status/2122161392828727738) | Hydrogen | — | [@Awed_Urshy](https://x.com/Awed_Urshy) | — |
+| [元素生物精灵图鉴应用](https://x.com/devteamdrew/status/2125683230917484707) | Gemini 4 | — | [@devteamdrew](https://x.com/devteamdrew) | — |
 | [CSS 3D 虚拟美术馆漫游](https://x.com/MiaAI_lab/status/2110385278246654052) | Argon | Claude | [@MiaAI_lab](https://x.com/MiaAI_lab) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2110385278246654052) |
 | [Pi 智能体架构交互式可视化网页](https://x.com/chasen_liao/status/2124352577852821919) | Gemini 4 | — | [@chasen_liao](https://x.com/chasen_liao) | — |
 | [类异星工厂风格的智能体工作画布](https://x.com/TheCoderBtw/status/2125272904233525667) | Gemini 4 | Claude | [@TheCoderBtw](https://x.com/TheCoderBtw) | — |

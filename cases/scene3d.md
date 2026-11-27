@@ -1,6 +1,6 @@
 # 3D scenes
 
-117 works, 35 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+122 works, 36 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -48,9 +48,12 @@
 | [Same-prompt visual detail test](https://x.com/notjazii/status/2123172429791129848) | Carbon / Hydrogen | Claude | [@notjazii](https://x.com/notjazii) | — |
 | [3D watermelon fur render comparison](https://x.com/vib3coded/status/2111501344750059978) | Argon | Claude | [@vib3coded](https://x.com/vib3coded) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2111501344750059978) |
 | [Visual quality comparison between two AI models](https://x.com/HarshithLucky3/status/2103821120009048245) | Pro | Claude | [@HarshithLucky3](https://x.com/HarshithLucky3) | — |
+| [Itsukushima Great Torii gate in rain at night](https://x.com/mizugame_22/status/2125587499431100527) | Gemini 4 | GPT | [@mizugame_22](https://x.com/mizugame_22) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2125587499431100527) |
 | [Firefly jar scene comparison](https://x.com/0xRhinoX/status/2110382089476407630) | Argon | Claude | [@0xRhinoX](https://x.com/0xRhinoX) | — |
+| [3D robotic hand modeling and animation](https://x.com/AmirMushich/status/2125635764029370722) | Gemini 4 | Claude, GPT | [@AmirMushich](https://x.com/AmirMushich) | — |
 | [Elephant sculpted from ice](https://x.com/kinderlayer/status/2122290663643353165) | Argon | Claude | [@kinderlayer](https://x.com/kinderlayer) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2122290663643353165) |
 | [Airplane taking off at night](https://x.com/SamgreyAi/status/2123898746329071698) | Gemini 4 | Claude, GPT | [@SamgreyAi](https://x.com/SamgreyAi) | — |
+| [Emerald panther emerging in palace](https://x.com/kinderlayer/status/2125605969799365018) | Argon | Claude | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [Alpine mountain 3D film](https://x.com/EnvolDev/status/2124238419140444661) | Argon | Claude, GPT | [@EnvolDev](https://x.com/EnvolDev) | — |
 | [Eiffel Tower build benchmark across models](https://x.com/EnvolDev/status/2111580341626687586) | Argon | Claude, DeepSeek, Meta Muse | [@EnvolDev](https://x.com/EnvolDev) | — |
 | [Anime roadside basketball court diorama](https://x.com/mhgd3250905/status/2124884267436228885) | Gemini 4 | — | [@mhgd3250905](https://x.com/mhgd3250905) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2124884267436228885) |
@@ -74,6 +77,7 @@
 | [Up house build test across four models](https://x.com/noclipepe/status/2121326233044537688) | Carbon / Hydrogen | Claude | [@noclipepe](https://x.com/noclipepe) | — |
 | [Gothic cathedral 3D walkthrough](https://x.com/teddyaisi/status/2123993556419264532) | Gemini 4 | GPT | [@teddyaisi](https://x.com/teddyaisi) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2123993556419264532) |
 | [Norse war-king throne built in Blender](https://x.com/maxt3chno/status/2124625485590327733) | Gemini 4 | Claude | [@maxt3chno](https://x.com/maxt3chno) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2124625485590327733) |
+| [Iterative Three.js 3D visual scene](https://x.com/thtbee_/status/2125628756694106485) | Gemini 4 | — | [@thtbee_](https://x.com/thtbee_) | — |
 | [Atmospheric 3D scene built in Blender](https://x.com/KanaWorks_AI/status/2123950255389749729) | Gemini 4 | — | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | — |
 | [Pelican stunt one-shot model comparison](https://x.com/VulKan42069/status/2111793164474634612) | Argon | Claude, GPT, DeepSeek | [@VulKan42069](https://x.com/VulKan42069) | — |
 | [Tesla Roadster drive comparison](https://x.com/RafaCrackYT/status/2112247645955895455) | Argon | Claude, DeepSeek, MiniMax | [@RafaCrackYT](https://x.com/RafaCrackYT) | — |
@@ -87,6 +91,7 @@
 | [Da Vinci workshop 3D build: Gemini vs Opus](https://x.com/techhalla/status/2110121002332295599) | Argon | Claude | [@techhalla](https://x.com/techhalla) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2110121002332295599) |
 | [Single-HTML Three.js 3D showcase](https://x.com/lucian__03/status/2124130234454938102) | Gemini 4 | — | [@lucian__03](https://x.com/lucian__03) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2124130234454938102) |
 | [Lighthouse scene built by four models](https://x.com/EnvolDev/status/2112995029337936362) | Argon | Claude, GPT, DeepSeek, MiniMax | [@EnvolDev](https://x.com/EnvolDev) | — |
+| [Low-poly 3D Blue Archive Chokmah scene](https://x.com/_ryu15_/status/2125453436590432292) | Gemini 4 | — | [@_ryu15_](https://x.com/_ryu15_) | — |
 | [Eiffel Tower Three.js comparison](https://x.com/Bhavani_00007/status/2110417051680694613) | Argon | Claude, GPT, Kimi | [@Bhavani_00007](https://x.com/Bhavani_00007) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2110417051680694613) |
 | [Formula car concept model comparison](https://x.com/higgsfield_ai/status/2110415126964896155) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2110415126964896155) |
 | [Three.js 3D model of a Lamborghini Veneno](https://x.com/Leviwoyun/status/2124421508563149279) | Hydrogen / Krypton | — | [@Leviwoyun](https://x.com/Leviwoyun) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2124421508563149279) |

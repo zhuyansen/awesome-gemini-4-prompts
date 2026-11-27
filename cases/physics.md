@@ -1,6 +1,6 @@
 # Physics & materials
 
-24 works, 10 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+25 works, 11 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -26,5 +26,6 @@
 | [Jelly Garden 3D model comparison](https://x.com/marcthecreatorr/status/2110057849653002459) | Argon | Claude | [@marcthecreatorr](https://x.com/marcthecreatorr) | — |
 | [Jelly lego bricks model comparison](https://x.com/semichenkko/status/2110484619841958316) | Argon | Claude | [@semichenkko](https://x.com/semichenkko) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2110484619841958316) |
 | [Harbor Jelly interactive diorama comparison](https://x.com/N1njaCodex/status/2112476644757639411) | Argon | Claude | [@N1njaCodex](https://x.com/N1njaCodex) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2112476644757639411) |
+| [Real-time WebGL fluid dynamics playground](https://x.com/samsheffer/status/2125639642330357994) | Gemini 4 | — | [@samsheffer](https://x.com/samsheffer) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2125639642330357994) |
 | [Plush watermelon animation comparison](https://x.com/vib3coded/status/2111428909203866089) | Argon | Claude | [@vib3coded](https://x.com/vib3coded) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2111428909203866089) |
 | [Crystal butterfly glass material model comparison](https://x.com/TypingMindApp/status/2110729405400031495) | Argon | Claude, GPT, Meta Muse | [@TypingMindApp](https://x.com/TypingMindApp) | — |

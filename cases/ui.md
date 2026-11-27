@@ -1,6 +1,6 @@
 # Websites & UI
 
-32 works, 6 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+33 works, 6 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Agent loop architecture HTML visualization](https://x.com/antiAIvo/status/2124408795334119710) | Gemini 4 | DeepSeek | [@antiAIvo](https://x.com/antiAIvo) | — |
 | [Nokia 3310 redesign comparison](https://x.com/AIMind_Ai/status/2117595286109315107) | Argon | Claude, GPT | [@AIMind_Ai](https://x.com/AIMind_Ai) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2117595286109315107) |
 | [Automatic music composition app](https://x.com/Awed_Urshy/status/2122161392828727738) | Hydrogen | — | [@Awed_Urshy](https://x.com/Awed_Urshy) | — |
+| [Elemental creature index with sprites](https://x.com/devteamdrew/status/2125683230917484707) | Gemini 4 | — | [@devteamdrew](https://x.com/devteamdrew) | — |
 | [Galerie Nocturne CSS 3D museum walkthrough](https://x.com/MiaAI_lab/status/2110385278246654052) | Argon | Claude | [@MiaAI_lab](https://x.com/MiaAI_lab) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2110385278246654052) |
 | [Interactive Pi agent architecture visualizer](https://x.com/chasen_liao/status/2124352577852821919) | Gemini 4 | — | [@chasen_liao](https://x.com/chasen_liao) | — |
 | [Factorio-style agent workspace canvas](https://x.com/TheCoderBtw/status/2125272904233525667) | Gemini 4 | Claude | [@TheCoderBtw](https://x.com/TheCoderBtw) | — |

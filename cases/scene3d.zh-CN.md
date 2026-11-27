@@ -1,6 +1,6 @@
 # 3D 场景
 
-共 117 个作品，其中 35 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 122 个作品，其中 36 个附提示词，按原帖播放量排。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 版本 | 同题对比 | 创作者 | 提示词 |
 |---|---|---|---|---|
@@ -48,9 +48,12 @@
 | [同提示词视觉细节测试](https://x.com/notjazii/status/2123172429791129848) | Carbon / Hydrogen | Claude | [@notjazii](https://x.com/notjazii) | — |
 | [3D西瓜毛发渲染对比](https://x.com/vib3coded/status/2111501344750059978) | Argon | Claude | [@vib3coded](https://x.com/vib3coded) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2111501344750059978) |
 | [两款AI模型视觉效果对比](https://x.com/HarshithLucky3/status/2103821120009048245) | Pro | Claude | [@HarshithLucky3](https://x.com/HarshithLucky3) | — |
+| [雨夜涨潮中的严岛神社大鸟居](https://x.com/mizugame_22/status/2125587499431100527) | Gemini 4 | GPT | [@mizugame_22](https://x.com/mizugame_22) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2125587499431100527) |
 | [萤火虫罐场景对比](https://x.com/0xRhinoX/status/2110382089476407630) | Argon | Claude | [@0xRhinoX](https://x.com/0xRhinoX) | — |
+| [机械手三维建模与动画](https://x.com/AmirMushich/status/2125635764029370722) | Gemini 4 | Claude, GPT | [@AmirMushich](https://x.com/AmirMushich) | — |
 | [冰雕大象](https://x.com/kinderlayer/status/2122290663643353165) | Argon | Claude | [@kinderlayer](https://x.com/kinderlayer) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2122290663643353165) |
 | [夜间飞机起飞场景](https://x.com/SamgreyAi/status/2123898746329071698) | Gemini 4 | Claude, GPT | [@SamgreyAi](https://x.com/SamgreyAi) | — |
+| [宫殿中破石而出的翡翠黑豹](https://x.com/kinderlayer/status/2125605969799365018) | Argon | Claude | [@kinderlayer](https://x.com/kinderlayer) | — |
 | [阿尔卑斯山 3D 影片](https://x.com/EnvolDev/status/2124238419140444661) | Argon | Claude, GPT | [@EnvolDev](https://x.com/EnvolDev) | — |
 | [埃菲尔铁塔建造模型基准对比](https://x.com/EnvolDev/status/2111580341626687586) | Argon | Claude, DeepSeek, Meta Muse | [@EnvolDev](https://x.com/EnvolDev) | — |
 | [日漫风格路边篮球场箱庭场景](https://x.com/mhgd3250905/status/2124884267436228885) | Gemini 4 | — | [@mhgd3250905](https://x.com/mhgd3250905) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2124884267436228885) |
@@ -74,6 +77,7 @@
 | [飞屋房子建模四模型对比测试](https://x.com/noclipepe/status/2121326233044537688) | Carbon / Hydrogen | Claude | [@noclipepe](https://x.com/noclipepe) | — |
 | [哥特式大教堂 3D 漫步场景](https://x.com/teddyaisi/status/2123993556419264532) | Gemini 4 | GPT | [@teddyaisi](https://x.com/teddyaisi) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2123993556419264532) |
 | [Blender 北欧战王王座模型](https://x.com/maxt3chno/status/2124625485590327733) | Gemini 4 | Claude | [@maxt3chno](https://x.com/maxt3chno) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2124625485590327733) |
+| [迭代生成的 Three.js 三维场景](https://x.com/thtbee_/status/2125628756694106485) | Gemini 4 | — | [@thtbee_](https://x.com/thtbee_) | — |
 | [Blender 构建的氛围感三维场景](https://x.com/KanaWorks_AI/status/2123950255389749729) | Gemini 4 | — | [@KanaWorks_AI](https://x.com/KanaWorks_AI) | — |
 | [四模型鹈鹕一次性任务对比](https://x.com/VulKan42069/status/2111793164474634612) | Argon | Claude, GPT, DeepSeek | [@VulKan42069](https://x.com/VulKan42069) | — |
 | [特斯拉跑车驾驶效果对比](https://x.com/RafaCrackYT/status/2112247645955895455) | Argon | Claude, DeepSeek, MiniMax | [@RafaCrackYT](https://x.com/RafaCrackYT) | — |
@@ -87,6 +91,7 @@
 | [达芬奇工作室3D复原：双模型对比](https://x.com/techhalla/status/2110121002332295599) | Argon | Claude | [@techhalla](https://x.com/techhalla) | [完整提示词](https://jasonzhu.ai/zh/prompts/gemini-4/2110121002332295599) |
 | [纯代码 Three.js 三维展示](https://x.com/lucian__03/status/2124130234454938102) | Gemini 4 | — | [@lucian__03](https://x.com/lucian__03) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2124130234454938102) |
 | [四个模型生成灯塔场景对比](https://x.com/EnvolDev/status/2112995029337936362) | Argon | Claude, GPT, DeepSeek, MiniMax | [@EnvolDev](https://x.com/EnvolDev) | — |
+| [低多边形 3D 蔚蓝档案霍克玛场景](https://x.com/_ryu15_/status/2125453436590432292) | Gemini 4 | — | [@_ryu15_](https://x.com/_ryu15_) | — |
 | [埃菲尔铁塔Three.js对比](https://x.com/Bhavani_00007/status/2110417051680694613) | Argon | Claude, GPT, Kimi | [@Bhavani_00007](https://x.com/Bhavani_00007) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2110417051680694613) |
 | [方程式赛车概念模型对比](https://x.com/higgsfield_ai/status/2110415126964896155) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2110415126964896155) |
 | [Three.js 构建的兰博基尼毒药三维模型](https://x.com/Leviwoyun/status/2124421508563149279) | Hydrogen / Krypton | — | [@Leviwoyun](https://x.com/Leviwoyun) | [一句话指令](https://jasonzhu.ai/zh/prompts/gemini-4/2124421508563149279) |

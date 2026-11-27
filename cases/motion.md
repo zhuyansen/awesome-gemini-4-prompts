@@ -1,6 +1,6 @@
 # Animation
 
-51 works, 5 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
+52 works, 5 with a prompt, by views on the original post. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Ink-style cinematic animation comparison](https://x.com/higgsfield_ai/status/2110530184550236232) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
 | [Knowledge explainer video animation](https://x.com/GeekCatX/status/2124175490516918376) | Gemini 4 | Claude | [@GeekCatX](https://x.com/GeekCatX) | — |
 | [The world through a squirrel's eyes animation](https://x.com/DanielZambrini/status/2123832990598045903) | Gemini 4 | — | [@DanielZambrini](https://x.com/DanielZambrini) | — |
+| [4K pure 7-bit ASCII Iron Man scene](https://x.com/lyraxana/status/2125671539463078081) | Gemini 4 | — | [@lyraxana](https://x.com/lyraxana) | — |
 | [Animated Gojo domain expansion sketch](https://x.com/notjazii/status/2124917188742242616) | Gemini 4 | — | [@notjazii](https://x.com/notjazii) | — |
 | [News documentary short on Jensen Huang](https://x.com/369Serena/status/2125137350590374110) | Gemini 4 | — | [@369Serena](https://x.com/369Serena) | — |
 | [Image-to-3D motion teaser](https://x.com/ai_for_success/status/2124572099750891577) | Gemini 4 | — | [@ai_for_success](https://x.com/ai_for_success) | — |

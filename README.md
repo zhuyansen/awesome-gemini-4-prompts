@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-What creators on X had **Gemini 4** (Argon, Carbon, Hydrogen and other versions) **build in code**: 3D scenes, physics and material sims, machine cutaways, games, web pages and SVG. **290** works, each with 5,000+ views on the original post (16,157,687 in total); **200** are same-prompt comparisons against Claude, GPT and others, and **67** include the prompt the creator shared (25 full prompts). Updated daily (last update: 2026-11-26).
+What creators on X had **Gemini 4** (Argon, Carbon, Hydrogen and other versions) **build in code**: 3D scenes, physics and material sims, machine cutaways, games, web pages and SVG. **299** works, each with 5,000+ views on the original post (16,424,632 in total); **203** are same-prompt comparisons against Claude, GPT and others, and **70** include the prompt the creator shared (26 full prompts). Updated daily (last update: 2026-11-27).
 
 Browse with playable videos, one-click copy and filters by version and rival model: **[jasonzhu.ai/en/prompts/gemini-4](https://jasonzhu.ai/en/prompts/gemini-4)**
 
@@ -21,14 +21,14 @@ Browse with playable videos, one-click copy and filters by version and rival mod
   </tr>
 </table>
 
-[3D scenes](#3d-scenes) (117) · [Physics & materials](#physics--materials) (24) · [Machines & cutaways](#machines--cutaways) (19) · [Games](#games) (21) · [Simulations](#simulations) (10) · [Websites & UI](#websites--ui) (32) · [SVG drawings](#svg-drawings) (16) · [Animation](#animation) (51)
+[3D scenes](#3d-scenes) (122) · [Physics & materials](#physics--materials) (25) · [Machines & cutaways](#machines--cutaways) (19) · [Games](#games) (22) · [Simulations](#simulations) (10) · [Websites & UI](#websites--ui) (33) · [SVG drawings](#svg-drawings) (16) · [Animation](#animation) (52)
 
-- **Versions** (a post naming several counts for each): Argon 110 · Gemini 4 104 · Carbon 55 · Hydrogen 31 · Krypton 10 · Pro 4
-- **Compared with**: Claude 179 · GPT 83 · DeepSeek 15 · Grok 11 · Kimi 7 · Meta Muse 7 · Qwen 5 · MiniMax 5
+- **Versions** (a post naming several counts for each): Gemini 4 112 · Argon 111 · Carbon 55 · Hydrogen 31 · Krypton 10 · Pro 4
+- **Compared with**: Claude 181 · GPT 85 · DeepSeek 15 · Grok 11 · Kimi 7 · Meta Muse 7 · Qwen 5 · MiniMax 5
 
 ## 3D scenes
 
-117 works · [full list](cases/scene3d.md)
+122 works · [full list](cases/scene3d.md)
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ Browse with playable videos, one-click copy and filters by version and rival mod
 
 ## Physics & materials
 
-24 works · [full list](cases/physics.md)
+25 works · [full list](cases/physics.md)
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -73,10 +73,11 @@ Browse with playable videos, one-click copy and filters by version and rival mod
 
 ## Games
 
-21 works · [full list](cases/game.md)
+22 works · [full list](cases/game.md)
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
+| [Playable browser tower defense game](https://x.com/kevin_t_ngo/status/2125706215699460335) | Gemini 4 | — | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | [Brief](https://jasonzhu.ai/en/prompts/gemini-4/2125706215699460335) |
 | [Minecraft house and llama build comparison](https://x.com/nik_akki/status/2110807768550764628) | Argon | Claude | [@nik_akki](https://x.com/nik_akki) | [Full prompt](https://jasonzhu.ai/en/prompts/gemini-4/2110807768550764628) |
 | [Stacked-sprite pseudo-3D pixel game](https://x.com/_ryu15_/status/2123597998097899653) | Gemini 4 | — | [@_ryu15_](https://x.com/_ryu15_) | — |
 | [Chrome Dino model comparison](https://x.com/noclipepe/status/2115953941808550313) | Carbon | Claude, GPT | [@noclipepe](https://x.com/noclipepe) | — |
@@ -84,7 +85,6 @@ Browse with playable videos, one-click copy and filters by version and rival mod
 | [Minecraft nether race model comparison](https://x.com/fawnunwrap/status/2110154463415558279) | Argon | Claude, GPT | [@fawnunwrap](https://x.com/fawnunwrap) | — |
 | [Ancient Greece 3D world game test](https://x.com/higgsfield_ai/status/2110426709422133611) | Argon | Claude | [@higgsfield_ai](https://x.com/higgsfield_ai) | — |
 | [Mario 3D test: Gemini 4 Argon vs Opus 5.5](https://x.com/luckeyfaraday/status/2110087305163854042) | Argon | Claude | [@luckeyfaraday](https://x.com/luckeyfaraday) | — |
-| [Horror bowling game with humans as pins](https://x.com/bijanbowen/status/2123414397980676214) | Gemini 4 | — | [@bijanbowen](https://x.com/bijanbowen) | — |
 
 ## Simulations
 
@@ -103,7 +103,7 @@ Browse with playable videos, one-click copy and filters by version and rival mod
 
 ## Websites & UI
 
-32 works · [full list](cases/ui.md)
+33 works · [full list](cases/ui.md)
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -133,7 +133,7 @@ Browse with playable videos, one-click copy and filters by version and rival mod
 
 ## Animation
 
-51 works · [full list](cases/motion.md)
+52 works · [full list](cases/motion.md)
 
 | Work | Version | Compared with | Creator | Prompt |
 |---|---|---|---|---|
@@ -148,7 +148,7 @@ Browse with playable videos, one-click copy and filters by version and rival mod
 
 ## What gets included
 
-- The creator's own post, with the video or images attached, and at least 5,000 views on that post (snapshot: 2026-11-26).
+- The creator's own post, with the video or images attached, and at least 5,000 views on that post (snapshot: 2026-11-27).
 - The creator's own text says Gemini 4 made it; a mention only inside a quoted post doesn't count. Only things Gemini 4 built in code are listed; images and clips straight out of Nano Banana, Imagen or Veo are left out. Same-prompt comparisons are included.
 - Versions follow the creator's own words. **Model attribution is as stated by each creator and was not independently reproduced.**
 - Prompts come only from the creator: the post itself, their own reply, a screenshot in a reply, or a link they shared, kept verbatim. Works without a published prompt are still listed, with the prompt column left empty.

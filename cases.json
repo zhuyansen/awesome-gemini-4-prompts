@@ -4,8 +4,8 @@
  "released": "2026-10-14T00:00:00Z",
  "inclusion_rule": "Original post by the creator, media attached, >= 5000 views on that post, and the creator's own text says Gemini 4 (Argon, Carbon, Hydrogen, Krypton, Pro...) built it in code; same-prompt comparisons against other models included. Seeded on 2026-11-16 from the Claude 5.5 library. Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-26T01:28:05.076Z",
- "updated_at": "2026-11-26T01:32:48.464Z",
+ "stats_checked_at": "2026-11-27T01:29:29.242Z",
+ "updated_at": "2026-11-27T01:43:28.278Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -4548,6 +4548,55 @@
    "resources": []
   },
   {
+   "id": "2125587499431100527",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "gpt"
+   ],
+   "title": {
+    "zh": "雨夜涨潮中的严岛神社大鸟居",
+    "en": "Itsukushima Great Torii gate in rain at night"
+   },
+   "creator": {
+    "handle": "mizugame_22",
+    "name": "MizuGame｜無駄にガチなAI使い"
+   },
+   "original_post_url": "https://x.com/mizugame_22/status/2125587499431100527",
+   "posted_at": "2026-11-25T13:48:46.000Z",
+   "language": "ja",
+   "media": [
+    {
+     "type": "video",
+     "width": 1200,
+     "height": 1406,
+     "duration_seconds": 10,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125587478933635072/img/b_WdDd8NNnMkrVM5.jpg"
+    }
+   ],
+   "views": 45692,
+   "likes": 114,
+   "bookmarks": 73,
+   "views_checked_at": "2026-11-27T01:29:29.242Z",
+   "tools_reported": [
+    "GPT-6.2 Astra",
+    "Blender",
+    "Antigravity",
+    "Codex"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/mizugame_22/status/2125587499431100527",
+    "length": 32,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2125587499431100527"
+   },
+   "resources": []
+  },
+  {
    "id": "2125225607546179893",
    "category": "motion",
    "versions": [
@@ -4950,6 +4999,49 @@
    "resources": []
   },
   {
+   "id": "2125635764029370722",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [
+    "claude",
+    "gpt"
+   ],
+   "title": {
+    "zh": "机械手三维建模与动画",
+    "en": "3D robotic hand modeling and animation"
+   },
+   "creator": {
+    "handle": "AmirMushich",
+    "name": "AmirMušić"
+   },
+   "original_post_url": "https://x.com/AmirMushich/status/2125635764029370722",
+   "posted_at": "2026-11-25T17:00:33.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1620,
+     "duration_seconds": 12,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125631368692469760/img/4WHZSXJqWN6o50uI.jpg"
+    }
+   ],
+   "views": 41690,
+   "likes": 300,
+   "bookmarks": 152,
+   "views_checked_at": "2026-11-27T01:29:29.242Z",
+   "tools_reported": [
+    "Claude Fable 5.2",
+    "GPT-6.2 Astra",
+    "Blender"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2122290663643353165",
    "category": "scene3d",
    "versions": [
@@ -5115,6 +5207,46 @@
    "tools_reported": [
     "Opus 5.5",
     "Astra 6.2"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125605969799365018",
+   "category": "scene3d",
+   "versions": [
+    "argon"
+   ],
+   "compared_with": [
+    "claude"
+   ],
+   "title": {
+    "zh": "宫殿中破石而出的翡翠黑豹",
+    "en": "Emerald panther emerging in palace"
+   },
+   "creator": {
+    "handle": "kinderlayer",
+    "name": "Kinder"
+   },
+   "original_post_url": "https://x.com/kinderlayer/status/2125605969799365018",
+   "posted_at": "2026-11-25T15:02:09.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 720,
+     "height": 1280,
+     "duration_seconds": 30,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125605883220508672/img/Zh8PZ_iRUdej0k5E.jpg"
+    }
+   ],
+   "views": 39169,
+   "likes": 146,
+   "bookmarks": 67,
+   "views_checked_at": "2026-11-27T01:29:29.242Z",
+   "tools_reported": [
+    "Claude Fable 5.2"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -5550,6 +5682,54 @@
     "source_url": "https://x.com/mhgd3250905/status/2124887736436117949",
     "length": 150,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2124884267436228885"
+   },
+   "resources": []
+  },
+  {
+   "id": "2125706215699460335",
+   "category": "game",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "可游玩的网页塔防游戏",
+    "en": "Playable browser tower defense game"
+   },
+   "creator": {
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo"
+   },
+   "original_post_url": "https://x.com/kevin_t_ngo/status/2125706215699460335",
+   "posted_at": "2026-11-25T21:40:30.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1080,
+     "duration_seconds": 50,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125705131534716928/img/sWc8P3drqRmMxMLp.jpg"
+    }
+   ],
+   "views": 36227,
+   "likes": 552,
+   "bookmarks": 359,
+   "views_checked_at": "2026-11-27T01:29:29.242Z",
+   "tools_reported": [
+    "fal",
+    "GPT Image 2.6",
+    "Blender",
+    "Tripo3D",
+    "ElevenLabs"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "brief",
+    "source": "post",
+    "source_url": "https://x.com/kevin_t_ngo/status/2125706215699460335",
+    "length": 51,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2125706215699460335"
    },
    "resources": []
   },
@@ -6974,6 +7154,42 @@
    "resources": []
   },
   {
+   "id": "2125671539463078081",
+   "category": "motion",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "4K 纯 ASCII 字符版钢铁侠画面",
+    "en": "4K pure 7-bit ASCII Iron Man scene"
+   },
+   "creator": {
+    "handle": "lyraxana",
+    "name": "lyra"
+   },
+   "original_post_url": "https://x.com/lyraxana/status/2125671539463078081",
+   "posted_at": "2026-11-25T19:22:42.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 3840,
+     "height": 2016,
+     "duration_seconds": 12,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125671027497951232/img/zdZ25hc0yHzM8cyg.jpg"
+    }
+   ],
+   "views": 26626,
+   "likes": 407,
+   "bookmarks": 65,
+   "views_checked_at": "2026-11-27T01:29:29.242Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2124917188742242616",
    "category": "motion",
    "versions": [
@@ -7356,6 +7572,44 @@
    "resources": []
   },
   {
+   "id": "2125683230917484707",
+   "category": "ui",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "元素生物精灵图鉴应用",
+    "en": "Elemental creature index with sprites"
+   },
+   "creator": {
+    "handle": "devteamdrew",
+    "name": "DreW"
+   },
+   "original_post_url": "https://x.com/devteamdrew/status/2125683230917484707",
+   "posted_at": "2026-11-25T20:09:10.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1470,
+     "height": 906,
+     "duration_seconds": 30,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125683185778368512/img/_AYZziy3urjB9zD0.jpg"
+    }
+   ],
+   "views": 25276,
+   "likes": 408,
+   "bookmarks": 327,
+   "views_checked_at": "2026-11-27T01:29:29.242Z",
+   "tools_reported": [
+    "Netlify"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2110385278246654052",
    "category": "ui",
    "versions": [
@@ -7399,6 +7653,45 @@
     "length": 1005,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2110385278246654052"
    },
+   "resources": []
+  },
+  {
+   "id": "2125628756694106485",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "迭代生成的 Three.js 三维场景",
+    "en": "Iterative Three.js 3D visual scene"
+   },
+   "creator": {
+    "handle": "thtbee_",
+    "name": "Bee"
+   },
+   "original_post_url": "https://x.com/thtbee_/status/2125628756694106485",
+   "posted_at": "2026-11-25T16:32:42.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 73,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125626348127612928/img/8bAEYaN5kRZTMZA7.jpg"
+    }
+   ],
+   "views": 24950,
+   "likes": 579,
+   "bookmarks": 296,
+   "views_checked_at": "2026-11-27T01:29:29.242Z",
+   "tools_reported": [
+    "Antigravity",
+    "Three.js"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -9071,6 +9364,42 @@
     "Grok 4.7"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125453436590432292",
+   "category": "scene3d",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "低多边形 3D 蔚蓝档案霍克玛场景",
+    "en": "Low-poly 3D Blue Archive Chokmah scene"
+   },
+   "creator": {
+    "handle": "_ryu15_",
+    "name": "Ryu"
+   },
+   "original_post_url": "https://x.com/_ryu15_/status/2125453436590432292",
+   "posted_at": "2026-11-25T04:56:02.000Z",
+   "language": "ja",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "duration_seconds": 147,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125453179810885632/img/p-r1Yh-spOgPJfzG.jpg"
+    }
+   ],
+   "views": 17683,
+   "likes": 231,
+   "bookmarks": 173,
+   "views_checked_at": "2026-11-27T01:29:29.242Z",
+   "tools_reported": [],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -11189,6 +11518,51 @@
     "source_url": "https://x.com/N1njaCodex/status/2112503874628026552",
     "length": 8222,
     "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2112476644757639411"
+   },
+   "resources": []
+  },
+  {
+   "id": "2125639642330357994",
+   "category": "physics",
+   "versions": [
+    "gemini-4"
+   ],
+   "compared_with": [],
+   "title": {
+    "zh": "实时 WebGL 流体动力学交互演示",
+    "en": "Real-time WebGL fluid dynamics playground"
+   },
+   "creator": {
+    "handle": "samsheffer",
+    "name": "Sam Sheffer"
+   },
+   "original_post_url": "https://x.com/samsheffer/status/2125639642330357994",
+   "posted_at": "2026-11-25T17:15:57.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 3840,
+     "height": 2072,
+     "duration_seconds": 12,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125638641233895424/img/jomq-XaRZVpywJYk.jpg"
+    }
+   ],
+   "views": 9632,
+   "likes": 117,
+   "bookmarks": 47,
+   "views_checked_at": "2026-11-27T01:29:29.242Z",
+   "tools_reported": [
+    "Google AI Studio",
+    "WebGL"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/samsheffer/status/2125646411341627765",
+    "length": 175,
+    "page_url": "https://jasonzhu.ai/en/prompts/gemini-4/2125639642330357994"
    },
    "resources": []
   },
